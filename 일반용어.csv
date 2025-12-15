@@ -1,0 +1,2162 @@
+﻿약어,원어,설명,참고자료
+A.S.TYPE,AMERICAN STANDARD,액압 발생 방식에 따른 BRAKE MASTER CYLIDER의 한가지 방식. CUT OFF HOLE이 있고 SEAL 이 HOLE을 막으며 전진함에 따라 액압이 발생함.,-
+A/BAG DIA C/U,AIR BAG DIAGNOSIS CONTROL UNIT,"에어백 시스템의 자기 진단 제어 장치.IMPACT SNSR, 화약, 배선, CONDENSER 및 배터리 전압을 감지하여 이상이 발생할 경우 경고등을 점등하고 고장내용과 고장시간을 기록 유지한다. CONDENSER는 전기 에너지를 축적하여 IMPACT SNSR ON 시에 화약을 점화시킬 수 있도록 전달한다.",-
+A/CHOKE,AUTO CHOKE,자동 혼합비 조정기. 동절기 엔진이 냉각 되었을 때 시동을 걸려면 진한 혼합비가 요구된다. 진한 혼합비를 형성하기 위하여 열에 민감한 에리먼트가 저온에서는 수축하여 쵸크밸브를 닫아서 진한 혼합비를 형성하고 차츰 뜨거워지면 팽창하여 쵸크 밸브를 열어준다.,-
+A/CLOCK,ANALOG CLOCK,아날로그 시계,-
+A/CON ACTR,AIR CONDITIONER ACTUATOR,에어컨 작동 장치.,-
+A/CON COMP,AIR CONDITIONER COMPRESSOR,냉매 압축장치. 하절기 에어콘 작동시 냉매를 압축하기 위한 장치로서 냉매의 압축 후 증발열을 발생시키는 장치,-
+A/CON IND,AIR CONDITIONER INDICATOR,에어컨이 작동하는지를 알려주기 위해 에어컨을 켜면 점등되는 표시등.,-
+A/CON MODULE,AIR CONDITIONER MODULE,에어콘 공기량 조절 장치.,-
+A/CON SW,AIR CONDITIONER SWITCH,에어콘 작동 스윗치.,-
+A/CON SW & RLY,AIR CONDITIONER SWITCH AND RELAY,"에어콘 작동 스윗치 및 릴레이. 에어콘이 ""ON""되면 에어콘 스윗치는 ECU에 배터리 전압을 인가시킨다.에어콘 ""ON"" 신호가 입력되면 ECU는 ISA를 구동시키고 POWER TR을 ""ON""시키며 에어콘 MAIN RLY COIL단이 여자되어 릴레이 스윗치가 ""ON""되어서 에어콘 콤푸레샤에서 마그네",-
+A/CRUISE ACCEL SW,AUTO CRUISE ACCELERATOR SWITCH,"가속 스윗치. 차속 7Km 이하, THROTTLE 전폐시에 CREEP 량이 적은 2속으로 유도하기 위한 검출 장치. ON/OFF시 작동음이 난다. ACCEL PEDAL을 밟으면 OFF 된다.",-
+A/CRUISE ACTR,AUTO CRUISE ACTUATOR,자동 정속 주행 작동기. A/CRUISE UNIT의 작동 명령으로 RPM을 조절하여 정속 운행이 가능토록 하는 장치.,-
+A/CRUISE UNIT,AUTO CRUISE UNIT,"자동 정속 주행 장치. 엔진의 각종 정보 (CLUTCH, BRAKE, ECU의 신호)를 받아 차량이 일정한 속도로 주행 가능토록 하는 장치.",-
+A/F,AIR FUEL RATIO,공연비.,-
+A/INL SNSR,AIR INLET SENSOR,공기 삽입 감지기.,-
+A/MIX DMPR,AIR MIXTURE DAMPER,에어콘 공기 혼합장치. 에어콘에서 증발기를 통과한 공기로 히터 코어를 통과하는 공기와 들어가지 않는 공기로 분리된다. 그래서 토출구 직전에서 히터코어 통과 공기와 통과하지 않은 공기를 혼합하여 토출하며 온도를 유지한다.,-
+A/MIX DMPR MTR,AIR MIXTURE DAMPER MOTOR,혼합 공기 제동 장치용 모터.,-
+A/R,AS REQUIRED,요구대로 사용.,-
+A/S,AFTER SERVICE,차량 판매 후 정비를 비롯한 부품 공급.,-
+A/T,AUTOMATIC TRANSMISSION,"자동변속기. 운전상황(속도,구동력,부하 등)에 따라 최적으로 변속단이 자동으로 변속되는 변속기.",-
+A/THERMO SNSR,AUTOMATIC THERMO SENSOR,자동 온도 감지기. AUTO 에어콘 시스템에서 실내 온도를 희망하는 온도로 유지하기 위해서 실내 온도를 감지하는 감지기로 감지된 온도를 에어콘 ECU로 전송하여 에어콘을 제어한다.,-
+A_LIGHT_PHOTO_SNSR,AUTO LIGHT PHOTO SENSOR,오토라이트의 실행 여부를 결정하기 위해 빛의 강도를 측정하는 센서,-
+A2B,Automotiv Audio Bus,"자동차용 오디오 버스. 한쌍의 비차폐연선(UTP)을 활용하여 클럭, 전력, 오디오, 제어 데이터를 최저 지연 시간으로 전달하는 고속 디지털 커넥터 기술",-
+AAA,AMERICAN AUTOMOBLE ASSOCIATION,미국 자동차 협회.,-
+AAF,Active Air Flap,액티브 에어 플랩. 차량 전면 라디에이터 그릴에 장착되어 공기유입을 수시로 조절,-
+AAP,AUXILIARY ACCELERATOR PUMP,보조 가속 펌프.,-
+ABC,ATOMIC BIOLOGIC CHEMICAL,화생방.,-
+ABS,ANTI-LOCK BRAKE SYSTEM,"자동적으로 BRAKE를 컨트롤하는 장치. BRAKE를 밟았을 때 작동하는 유압을 전자식으로 제어, 급브레이크를 밟을 시에 자동차의 바퀴가 잠기지 않게끔 빠른 속도로 브레이크를 붙였다 땠다를 반복하는 방식으로 편제동 방지 및 제동거리를 단축하는 시스템. 미끄럼을 방지하여 직진 안정성과 조향 안정성을 유지 시켜줌.",-
+ABS C/U,ABS CONTROL UNIT,ABS 제어장치.,-
+ABS ECU,ABS ELECTRONIC CONTROL UNIT,ABS 전자 제어장치.,-
+ABS MODUL,ABS MODULATOR,ABS 조절기.,-
+ABS P/RLY,ABS POWER RELAY,ABS용 POWER 릴레이.,-
+ABS RLY BOX,ABS RELAY BOX,ABS용 릴레이 박스.,-
+ABS SRI,ABS REMINDER INDICATOR,ABS에 문제가 생겼을때 ABS SRI 표시등 점등.,-
+ABS W/SNSR,ABS WHEEL SPEED SNSR,ABS용 바퀴 속도를 감지하여 ABS UNIT로 신호를 보내는 센서.,-
+AC,ALTERNATING CIRCUIT,교류.,-
+AC,ALTERNATING CURRENT,시간에 따라 전류의 방향과 크기가 바뀌는 전류 (교류전류),-
+AC INVERTER UNIT,AC INVERTER UNIT,교류전류를 직류전류로 변환하는 유닛,-
+ACC,적응식 크루즈 컨트롤,앞차의 거리를 자동으로 감지하여 충돌 방지하는 기능 BH에 적용하려 했으나 관련 국내법규 만들어지지 않았음.,-
+ACC,ACCELERATION SENSOR,거친도로위를 주행시 차량진동에 의한 잘못된 MISFIRE의 검출을 피하기 위하여 ACCELERATION SENSOR의 출력값을 이용MISFIRE 검출기능을 중지시키는 기능,-
+ACC,ACCELERATION SENSOR,거친 도로위를 주행시 차량진동을 의한 잘못된 MISFIRE의 검출을 피하기 위하여 ACCELERATION SENSOR의 출력값을 이용 MISFIRE 검출기능을 중지시키는 기능,-
+ACC,ACCESSARY,부속품.,-
+ACC,ACCIDENT DATA RECORDER,"ADR 은 차량의 충돌 사고, 운전자 또는 외부 장치의 이벤트 요구에 의해 정해진 시점 이전 30초, 이후 15초간의 차량 거동 및 운전자 조작을 기록하여 사후 사고 원인을 분석하거나 이벤트 시점 전후의 운전자 조작을 재현하기 위한 기록 장치로 장치 내부에는 사고를 감지 하고 차량 거동을 감지하기 위한 센서가 있고 외부의 입력을 읽을수 있는 신호 입력단자, 통신단자,출력단자 등이 있다.",-
+ACC,AUTO CRUISE CONTROL,운전자가 설정한 차속을 유지하며 자동으로 주행하는 시스템,-
+ACC,AUTOMATIC CLIMATE CONTROLLER,"버스용 에어콘, 히터, 전자동화 시스템. ON THE ROOF TYPE(천정형) 최초의 A/CON 시스템",-
+ACC,AUTOPHORETIC COATING CHEMICALS,"화학도장. 전기를 사용하지 않는 수용성 유기화합물 - 아크릴(Acrylic), 폴리염화
+ 비닐리덴(PVDC) 또는 에폭시(Epoxy) 코팅공정으로써, 산화-환원에
+ 기초한 화학반응에 의해 철계 표면에 고 품질, 고 내식성 피막 형성 기술",-
+ACCESS,ACOUSTICALLY CONTROLLED ENHANECD SOUND SYSTEM,자동 음량 보정 장치.,-
+ACF STEERING,ACTIVE CENTER FEEL STEERING,STEERING WHEEL ON CENTER 영역에서 STEERING TORQUE를 증대시켜 고속주행시 안정성 향상 및 PARKING시 STEERING WHEEL CENTER 인지 용의.,-
+ACM,ACRYLIC RUBBER,"ACM은 Acryl산, Alkylester를 함유하는 중합체의 총칭",-
+ACOUSTIC CHIME,ACOUSTIC CHIME,중저음 음향기.,-
+ACOUSTIC WARNING,-,TAIL LAMP를 켜놓은 상태에서 DRIVER DOOR를 열경우 CHIME BUZZER이 작동하여 밧데리 방전 방지.,-
+ACP,ARMOURED PERSONAL CARRIER,장갑차,-
+ACS,ANNUAL CUSTOMER SATISFACTION,신차출고 1년후 고객만족도,-
+ACTIVE HEAD LAMP,-,"차량의 속도,상태 및 도로의 여건에 따라 HEAD LAMP의 조사각도를 상하좌우로 조절하는 시스템",-
+ACTIVE HEAD RESTRAINT,-,후방 충돌시 HEADREST가 전방으로 이동하여 승객의 목부상을 방지.,-
+ACTIVE SEAT,-,"ELECTRIC FAN을 이용한 VANTILATION DEVICE와 맛사지 CHAMBER를 SEAT에 내장시켜 SEAT 온도조절,습기제거 및 맛사지기능.",-
+ACTR,ACTUATOR,작동기.,-
+ACTR ASS'Y,ACTR ASSEMBLY,다른 곳에서 전원을 받아서 행동하는 장치.,-
+ACU,A/BAG CONTROL UNIT,NOTHING,-
+ACU,AIR/BAG CONTROL UNIT,AIR BAG 제어장치.,-
+ACV,AIR CONTROL VALVE,"엔진에 흡입되는 공기를 추울 때나 더울 때나 항상 일정하게
+ 더운 공기로 흡입시키면 CO와 HC의 발생을 최소화 하는 장치",-
+ACV,Air Cut-off Valve,이차 공기 정지 밸브. 정차(Key Off 상태)중 스택으로의 외부 공기 유입을 막는 공기 차단 밸브,-
+ADAS,Advanced Driver Assistance System,첨단 운전자 보조 시스템. 안전하고 편리한 주행을 보조해주는 첨단 시스템.,-
+ADAS_DRV II ECU,ADAS Driving ECU,차량의 센서 및 카메라 영상을 분석하여 자율주행을 제어하는 유닛,-
+ADAS_PRK II ECU,ADAS Parking ECU,차량의 센서 및 카메라 정보를 입력하여 원격 및 자동 주차를 제어하는 유닛,-
+ADAS_VP ECU,ADAS Vision Processing ECU,자율 주행을 위한 차량의 근거리 영상을 분석 및 전송,-
+ADB,Adaptive Driving Beam,하이빔 주행 중 선행차 및 대항차 감지 시 해당 부분만 하이빔을 소등하는 시스템.,-
+ADCU,Advanced Driver Assistance Systems,ADAS + ECU,-
+ADD,ADDITION OF VARIATION,"기존을 차종을 신규용도로 사용하기 위해 부분적으로 변경하여 GRADE를 신설한 차종의 개발(예:canvas top, a/t)",-
+ADJ PEDAL,ADJUST PEDAL,운전자의 운전 습관에 따라 브레이크 페달의 위치가 자동으로 조정되는 시스템 (만약 브레이크의 위치가 너무 깊이 밟히면 페달 위치가 윗쪽 방향으로 이동하여 이격 거리를 좁혀줌으로써 편의를 제공하는 시스템),-
+ADM,ASSIST DOOR MODULE,NOTHING,-
+ADP,Acoustic Design Platform / Processor,-,-
+ADR,ACCIDENT DATA RECORDER,사고시 각종 센서값을 저장/기록하여 차량 궤적을 재현하는 시스템(사고 기록 장치),-
+ADS,Active Sound Design,엔진 소리를 스피커를 통해 내어주는 장치.차량 상태에 따른 컨트롤을 통해 원래의 엔진 사운드(사전 설정된 사운드 패턴과 관련)에는 없는 음향 요소를 생성,-
+ADS,Auto Defog Sensor,"차량 내부의 온,습도를 측정하는 센서",-
+AEB,Autonomous Emergency Braking,레이더와 카메라를 이용하여 충돌이 예상되는 전방차량 및 보행자와의 사고를 회피하는 안전 시스템,-
+AEBS,Advanced Emergency Braking System,자동 또는 긴급 제동장치,-
+AEPMS,ALT ELECTRICAL POWER MANAGEMENT SYSTEM,배터리센서 입력 정보를 이용한 최적의 알터네이터 발전 용량 제어 (가변발전제어 알터네이터),-
+AF,AIR FRIGHT,항공 운송.,-
+AFCU,Auto Flush door handle Control Unit,"도어 핸들 히든(Hidden) 타입. 주행 시엔 도어 오픈 핸들이 차량 내로 들어가고, 운전자 차량 접근 등 필요 시에는 도어 핸들이 차량 바깥으로 나오는 시스템",-
+AFCV,AIR FUEL CONTROL VALVE,공연비 제어 밸브.,-
+AFEXT,Alien Far End Cross Talk,(통신 용어) 원단누화. 통신 회선의 누화 (Cross-Talk : 한 채널(접속로)의 신호가 다른 채널에 전자기적으로 결합(Coupling)되어 영향을 미치는 현상. 단위 : dB)로 인해 피유도 회선의 출력단(순방향)으로 누설되는 현상 또는 영향도. Ref) ANEXT,-
+AFH,Auto Flush Handle,오토 플러시 핸들. 평소 도어 그립 라인만 보이다가 (도어 패널에 숨어 있다가) 사람이 다가서면(스마트키를 들고 가까이 다가가거나 도어 그립을 누르면) 손잡이가 튀어나오는 방식,-
+AFLS,ADAPTIVE FRONT LIGHT SYSTEM,"곡선로 주행시 스티어링휠의 선회각도를 센서가 인식, 전조등의 조사각도를 미리 차량 진행방향으로 자동 제어해 야간 주행시 최적의 전방시계를 제공하는",-
+AFLS,ADAPTIVE FRONT LIGHT SYSTEM,"곡선로 주행시 스티어링휠의 선회각도를 센서가 인식, 전조등의 조사각도를 미리 차량 진행방향으로 자동 제어해 야간 주행시 최적의 전방시계를 제공",-
+AFS,ACTIVE FRONT STEERING,능동형 전륜조향 시스템 BMW 5SERIES에서 최초로 적용 속도에 따라 핸들의 기어비가 달라지는 것. 정지 시에는 핸들을 한바퀴 반만 돌려도 바퀴를 완전히 움직일 수 있지만 고속에서는 세 바퀴 반을 돌려야 바퀴를 끝까지 돌릴 수 있도록 한 것.,-
+AFS,ADAPTIVE FRONT-LIGHTING SYSTEM,적응형 헤드램프 시스템 헤드램프를 좌우로 움직이도록 하는 시스템 (CF. HLLD : 헤드램프를 상하로 움직이도록 하는 시스템),-
+AFS,AIR FLOW SENSOR,"AIR CLEANER 내부에 설치되어 흡입 공기량, 대기압 등을 감지하는 센서. 와류의 수를 감지 및 계산하여 모듈레이터에 전송하면 이 수를 전기 신호로 바꾸어 ECU로 전송한다.",-
+AFS-H,Adaptive Front-Lighting System-Height,적응형 전조등-차량 높이,-
+AFS-H,Adaptive Front-Lighting System-Height,-,-
+AFV,ALTERNATIVE FUEL VEHICLE(대체 연료 자동차),"천연가스, 메탄올, 수소등의 연료를 사용하는 자동차.",-
+AGC,AUTOMATIC GAIN CONTROL,"RADIO/TV 방송 수신시, 자동이득 조절기능",-
+AGCS,ACTIVE GEOMETRY CONTROL SUSPENSION,차량 선회 시 후륜 토우각을 능동적으로 제어하여 선회 가능 영역을 연장함으로써 선회 안정성을 향상 시켜주는 시스템 (국내 모비스 생산),-
+AGM,Absorbed Glass Mat,"유리섬유 매트 배터리. 전액질이 포함된 특수 유리섬유를 극판에 밀봉- 흡착하는 방식으로 별도 전해액 없이 극판 전체에서 고르게 화학반응을 일으켜 안정적인 출력과 우수한 충전회복능력을 지님. (가격은 높지만 수명이 길고, 충전시간이 짧으며 저온에서도 시동이 잘걸림) (Ref. Flooded Lead Acid)",-
+AH / Ah,AMPARE HOUR,시간당 전류값.,-
+AHB,Active Hydraulic Booster,액티브 유압 부스터 (= 하이브리드 차량 회생제동브레이크 시스템). 운전자가 자동차의 속도를 줄일 때 브레이크 페달에 장착된 센서를 통해 에너지를 회수하여 배터리에 충전함으로써 연비개선과 안정적인 제동을 가능케 한다.,-
+AHLLD,AUTO HEAD LAMP LEVELING DEVICE,"오토헤드램프 레벨링. 차량의 주행환경과 적재상태에 따라 헤드램프의 조사방향을 변화시켜 운전자의 가시거리를 확보하고, 상대방 운전자의 눈부심을 방지하여, 운행상의 안전성을 향상시키는 시스템",-
+AI,ARTICULATION INDEX,음색 인지 지수(진동소음),-
+AIC WIPER,AUTO INTERVAL CONTROL WIPER,자동으로 WIPER를 적절한 속도로 작동시키는 시스템으로 차속감지형 및 RAIN SENSOR를 이용한 우적감응형 등이 있음.,-
+AIH SENSOR,SENSOR ASS’Y INCAR & HUMIDITY,"습도센서. 기존 Blower Motor의 풍량을 이용, Incar & Humidity Sensor를 
+ 결합하여 차량 실내의 온도 및 습도를 감지하는 센서",-
+AIMMING,-,H/LP의 좌우상하 ANGLE을 맞추는 방법,-
+AIR BLEED'G,AIR BLEEDING,유압 장치에서 작동유 주입 후 장치내 공기를 빼기,-
+AIR BLEEDING,AIR BLEEDING,"쿨링 라인에 냉각수 충전 시 공기가 주입 되는데, 공기 유입 시 냉각수가 적정량 채워지지 않을 수 있어 해당 펌프로 강제 순환 시킴.",-
+AIR CAB SUSPENSION,AIR CAB SUSP.,FULL FLOATION CAB SUSPENSION으로 AIR SPRING으로 현가 MOUNTING한 구조,-
+AIR DRYER,AIR DRYER,에어 드라이어는 브레이크용 에어라인중 수분이나 오일을 제거하는 기능.,-
+AIR HEATER,-,엔진 냉각수 온도를 감지하여서 예열과 후열시간을 조절하여 지시등으로 운전자에게 시동작동의 시기를 알려준다.,-
+AIR PURIFIER,공기 정화기,"LEV 대응 E/M CELL의 희석공기를 정화하는 장치로서, 배기가스 분석 정도를 향상시키기 위하여 분석기로 유입되는 희석공기를 정화하는 장치.",-
+AIR SUPPLY VALVE,-,AIR SUSPENSION SYSTEM에서 AIR의 역류 방지 밸브,-
+AIR SUSPENSION(ECS),AIR SUSPENSION(Electronic Control Suspension),승차감 향상을 위해 에어스프링 및 전자식 서스펜션을 적용하고 제어하는 시스템,-
+AIRDAM,에어댐,"차량의 공력개선 부착물의 하나로 주로 엔진룸 하부에 부착되는 것을 말하여, 경우에 따라 수식어가 붙기도 함. 주로 엔진 냉각과 항력의 점감이 주목적으로 사용되는 공력 부가물임.",-
+AISLE LAMP,AISLE LAMP,"야간에 승객 탑승시 바닥의 시야확보를 위한 통로 바닥 좌,우에 설치된 조명등.",-
+AJD,ANTI JAMMING DEVICE,압박 방지 장치.,-
+ALBCU,Assist Lumbar Bolster Cushion ECU,보조석 럼버(등받이) / 볼스터(시트 옆구리 받침) / 쿠션 제어기.,-
+ALC,ASSEMBLY LINE CONTROL,"공장에서 차량 투입시 사양에 따른 번호를 부여하여, 자동으로 투입이 될 수 있도록 관리하는 시스템. 차량 조립관리 시스템(조립 Line 중심).",-
+ALC,ASS'Y AIR FLOW SENSOR,업체로부터 생산LINE 에 직접 부품공급,-
+ALR,-,"자동 잠금 기능이 있어 S/BELT 길이를 자동으로 조절하나, S/BELT를 인출하여 LOCK'G 후에는 RETRACTING만 되는 RETRACTOR",-
+ALR,AUTOMATIC LOCKING RETRACTOR(자동 잠김 시트 벨트),"자동 잠금 기능이 있어 S/BELT 길이를 자동으로 조절하나, S/BELT를 인출하여 LOCK'G후에는 RETRACTING만 되는 RETRACTOR",-
+ALT,ALTERNATOR,엔진에 장착되어 엔진 축과 V-BELT로 연결시켜 자동차에 필요한 일체의 전원을 공급한 후 잔류분은 배터리에 충전되는 발전기.,-
+ALT.NOISE,ALTERNATOR NOISE,ENGINE 가속시 AUDIO로 유입되는 NOISE,-
+AM,ANTE MERIDIEM,오전.,-
+AMBIENT SNSR,AMBIENT SENSOR,외기 온도 감지 센서 (엔진룸 주변 공기의 온도를 감지하는 센서). 에어콘 시스템에서 외부의 온도를 감지하여 에어콘 C/U로 전송하여 에어콘의 조건을 결정하는 센서.,-
+AMP,AMPLIFIER,오디오 증폭기.,-
+AMS,AUTOMOTOR UND SPORTS,독일 잡지인 AMS誌에서 발표하는 차량의 제동성능 시험결과 및 시험방법. AMS 제동거리는 공차 상태 제동거리와 적차 및 FADE 상황에서의 제동거리를 비교하는 耐 FADE 성능 시험,-
+AMT,Automated Manual Transmission,"클러치없는 수동 변속기라고도하는 자동 수동 변속기는 수동 변속기의 기계적 내부를 기반으로하는 반자동 또는 자동 변속기 유형. 반자동 버전은 전자 기계식, 유압식 또는 공압식 작동을 사용하여 클러치를 자동으로 제어하며 운전자가 기어 변경을 시작해야합니다",-
+ANALYSIS,ANALYSIS,컴퓨터에 의한 유한 요소로 정의된 내용을 이용하여 수치 연산을 하는 것.,-
+ANC,ACTIVE NOISE CONTROL,"엔진 부밍소음,배출소음 등을 감지하여 이 신호와 역위상의 신호를 발생시켜 소음을 상쇄시키는 시스템",-
+ANC SYSTEM,ACTIVE NOISE CONTROL SYSTEM,차량 주행시 발생하는 소음을 능동적으로 제거하는 시스템.,-
+ANEXT,Alien Near End Cross Talk,(통신 용어) 근단누화. 통신 회선의 누화 (Cross-Talk : 한 채널(접속로)의 신호가 다른 채널에 전자기적으로 결합(Coupling)되어 영향을 미치는 현상. 단위 : dB)로 인해 피유도 회선의 입력단(역방향)으로 누설되는 현상 또는 영향도. Ref) AFEXT,-
+ANS,ANSWER,대답.,-
+ANT,ANTENNA,안테나.,-
+ANT MTR,ANTENNA MOTOR,안테나 동작 모타. AUDIO SW가 ON 되면 자동으로 ANT가 올라감.,-
+ANTI FREEZE,-,냉각수의 빙결을 방지하기 위해 첨가제가 첨가된 용액,-
+ANTI-CORROSION ADDITIVE,-,엔진 오일의 부식을 방지하기 위한 첨가제,-
+ANTI-CROWNING,-,GEAR 치면에서 가운데 부분이 오목하게 들어간 것을 말함.,-
+ANTI-FOAMING AGENT,-,엔진 오일내에 발생하는 기포를 방지하기 위한 첨가제.,-
+ANTI-ICING AGENT,-,휘발유의 기화열에 의해 빙결되는 것을 방지하기 위한 첨가제.,-
+ANTI-KNOCK ADDITIVE,-,엔진 연소중 발생하는 노킹을 방지하기 위한 휘발유 첨가제.,-
+ANTI-OXIDANT,-,오일의 산화를 방지하기 위한 첨가제,-
+ANTI-THEFT,-,차량 도난 방지 장치,-
+ANTI-THIFT,ANTI THIFT,도난 방지 시스템.,-
+ANTI-WEAR AGENT,-,접촉면의 마모를 방지하기 위해 엔진 오일 내에 첨가되는 첨가제.,-
+AOH,AIR OVER HYDRAULIC BRAKE,배력장치로 압축공기를 사용하고 유압을 발생케 하여 제동하는 BRAKE SYSTEM,-
+AOI,Automatic Optical Inspection,"자동 외관 검사 장비. 광학적으로 물체의 외관 상황을 파악하고, PC를 활용한 화상처리에 의해 양불을 판정하는 검사 또는 검사장비.",-
+AP,ASSOCIATED PRESS,연합 통신사,-
+APC,Air Pressure Control valve,스택 공기극의 운전 압력을 제어하는 공기 압력 제어 밸브 (공기 출구단에 위치),-
+API,AMERICAN PETROLEUM INSTITUTE,미국 석유 협회.,-
+APM,ACCELATER PEDAL MODULE,엑셀 패달 모듈,-
+APS,ACCELERATION POSITION SENSOR,액셀레이터 위치 감지기. ACCEL PEDAL의 밟힘량에 비례하여 전압을 변환시킨 후 ECU에 입력시켜 속도를 조정할 수 있도록 하는 센서.,-
+APS,ADJUSTABLE PEDAL SYSTEM,전동식 페달 조절 장치로 적정 운전 자세를 유지시켜 편의성 증대. 모터의 회전에 의해 웜기어 작동으로 패드의 위치 조정,-
+APS,AIR PRESSURE SENSOR,흡입 공기 압력 감지기. 반도체의 PIEZO 압전 효과를 이용하여 흡기관 내의 압력 변화를 전기 신호로 검출하여 공기 흡입량을 보정하는 센서.,-
+APS,ASSEMBLY PROCESS SHEET,조립공정도,-
+APSM,Assist Power Seat Module,차량용 안마시트 제어장치,-
+APT,Air conditioner Pressure Transducer,에어컨 압력 변환 센서 (혹은 에어컨 전압 변환 센서). 친환경 차량용 배터리 쿨링 제어 장치 제어에 필요한 정보(차량의 시동 여부와 에어컨디셔너의 작동 여부)를 나타내는 신호를 출력,-
+APT,AUTOMOTIVE PRESSURE TRANSDUCER SENSOR,A/CON 냉매압력을 연속검출 및 전압치로 출력변환(Transducer)하여 엔진 ECU가 최적의 제어를 가능하게하는 센서,-
+APT SNSR,A/con Pressure Temperature Sensor,"에어컨 압력, 온도 센서",-
+APU,Air Processing Unit,"풀 에어 브레이크 시스템에 장착되며, 에어 컴프레셔로부터 공급된 에어를 여러 개의 에어탱크로 적절히 공급해주는 장치",-
+APU,Air Processing Unit,"ECU가 CAN 통신을 통해 차량 정보를 받아 에어 공급을 최적으로 제어하며, 공기 통과 유량을 파악하여 능동적으로 제습함으로서 압축공기 상태를 최적화함",-
+APU,AUXILIARY POWER UNIT,보조 발전 장치,-
+AQ,AQUA.,"물, 물기둥.",-
+AQL,ACCEPTABLE QUALITY LEVEL,합격할 수 있는 품질 수준.품질평가원간 또는 평가부서와 피평가 부서간의 품질 수준의 눈높이를 일치시키는 행위로써 급격한 품질수준의 차이로 발생하는 문제점을 사전에 예방하기 위한 행위,-
+AQP,Advanced Quality Planing,사전품질계획. 제품이 고객의 요구사항을 만족시킨다는 것을 보증하기 위해 필요한 요구 단계들을 설정하고 정의하는 체계적인 방법으로서 결함방지와 비교했을 때 지속적인 개선과 결함예방의 개념을 구체화한 것이다.,-
+AQS,AIR QUALITY CONTROL SYSTEM,"외기 유해가스 제어장치. 외기온 센서와 유사한 위치에 위치하며, 차량 외부에서 발생된 유해가스를 감지하여 자동으로 차량내부로 유해가스가 유입되지 않도록 신호를 히타 컨트롤에 보내는 센서",-
+AR,AS REQUIRED,필요량대로 사용,-
+ARS,ACTIVE ROLL STABILIZER,코너링 등으로 인해 차량의 좌우 어느 한쪽으로 하중이 쏠ㄹ릴 때 평형을 잡아주는 장치,-
+ARTS,AUTOMATIC ACCIDENT REPORT&TRACKING SYSTEM(사고통보/도난추,"운행중 발생한 사고를 통제 센터에 자동 통보하고, 도난 차량 추적 기능을 실현하는 첨단 안전 시스템.",-
+ASAP,AS SOON AS POSSIBLE,가능한한 빨리 적용. 질문에 대한 즉각적인 회신을 요구할때.,-
+ASC,Active Shift Control,능동 변속제어. 주행모터를 활용해 초당 500회씩 변속기를 초정밀 제어하는 신기술,-
+ASC,ACTIVE STABILITY CONTROL,ACTIVE SAFETY의 기술로 4개의 바퀴를 조절해 충돌을 방지하는 기술.,-
+ASC,ANTI SPEED CONTROL,TCS에 관련된 기능으로 SPEED를 조정함.,-
+ASD,AMPLITUDE SELECTIVE DAMPER,"기존의 수동형 댐퍼를 감쇠력 가변댐퍼 & 에어스프링 으로 대체,차고/감쇠력 자동 조정으로 최적의 승차감/ 조안성 구현",-
+ASG,AUTOMATED SHIFT GEABOX,"수동변속기의 클러치와 기어변속을 ACTUATOR에 의해 자동으로 수행,SPORTY 한 운전을 위해 수동 변속 가능. 자동화 수동 변속기",-
+ASHTRAY ILLUMI,ASHTRAY ILLUMINATION,재떨이 조명.,-
+ASIL,Automotive Safety Integrity Level,자동차 안전 무결성 수준 (기능 안정성 등급). 최종 차량 사용자의 위험을 최소화하기 위해 차량 개발 중에 적용되는 위험 분류 체계.,-
+ASM,AUTO SEARCH MEMORY,수신 상태가 우수한 TV 채널 자동으로 찾는 기능.,-
+ASR,Anti Spin Regular,자동차 운행 시 브레이크를 밟는 과정이 아니라 가속페달을 밟는 과정에서 바퀴가 헛돌지 않게 해주는 기능,-
+ASR SW,-,동력계의 SPEED CONTROL MODE,-
+ASS,AUTOMATIC STATION SELECTOR,자동 주파수 선정.,-
+ASS DR SW,ASSIST DOOR SWITCH,조수석 도어 스윗치.,-
+ASS S/BELT SW,ASSIST SEAT BELT SWITCH,조수석 안전벨트 스윗치.,-
+ASS'Y,ASSEMBLY,"조립품 일체, 부품간 조합(용접)이 이워진 상태임.(조립)",-
+ASTM,AMERICAN SOCIETY FOR TESTING MATERIALS,미국 재료시험 협회,-
+ASTRONIC,AUTO SHIFT ELECTRONIC TRANSMISSION,승용 SAT와 같은 개념으로 운전자가 CLUTCH 조작없이 UP&DOWN 방식의 SHIFT LEVER 조작만으로 운전가능하도록 T/M CONTROL UNIT에서 CLUTCH및 SHIFT 조작을 자동으로 수행하는 장치,-
+ASV,AIR SWITCHING VALVE,고속 감속시의 공연비 제어 밸브.,-
+AT,AUTOMATIC TRANSMISSION,자동 변속기,-
+ATA,AUTOMATIC TIRE AIR PUMP,자동타이어공기주입장치(타이어 공기압이 낮을때 자동으로 공기압을 올려주는 장치),-
+ATC,AUTOMATIC TEMPERATURE CONTROLLER,자동 온도 조절기.,-
+ATDC,AFTER TOP DEAD CENTER,상사점 후. (점화시기),-
+ATF,AUTOMATIC TRANSMISSION FLUID,자동 변속기용 기름.,-
+ATM,ATMOSPHERE,대기압.,-
+ATM,AUTOMATIC TRANSMISSION,"자동 변속기. 무단 변속기. 유체 클러치 방식과 TOQUE 전환기 방식이 있음. 유성 기어 장치를 보조로 사용. 일반적으로 P,N,R,D,L,2의 변속 RANGE를 가진다.",-
+ATM & KEY LOCK C/U,AUTOMATIC TRANSMISSION LOCK CONTROL UNIT,자동 변속 장치 및 키이 잠금 제어 장치.,-
+ATM ILL,AUTOMATIC TRANSMISSION ILLUMINATION,야간 주행시 조명등이 점등되어 변속기 레버 위치를 표시하는 등.,-
+ATM INTERLOCK,AUTO TRANSMISSION INTERLOCK,자동 변속 연동 장치.,-
+ATM SHIFT,AUTOMATIC TRANSMISSION SHIFT,자동 변속 이동기.,-
+ATM SHIFT ILL,AUTOMATIC TRANSMISSION SHIFT ILLUMINATION,자동 변속 이동기 조명.,-
+ATM SOL,AUTOMATIC TRANSMISSION SOLENOID,자동 변속 솔레노이드.ELC UNIT의 지시를 받아서 유체의 흐름 방향과 압력을 조절하여 유체의 힘으로 변속시키는 장치.,-
+ATP,Available to Promise,약속가능수량. 총괄생산계획 중 주생산일정에 관련된 것으로 영업부서에서 고객에게 특정한 기간내에 최종생산품을 몇개나 납품할 수 있는지 납품가능수량을 약속하는 것,-
+ATS,AIR TEMPERATURE SENSOR,공기 온도 감지기. AFS에 내장되어 흡입 공기의 온도를 검출하는 장치. 흡입 공기와 부저항 특성을 지닌 THERMISTER로서 저항의 변화를 이용하여 출력 전압을 감지하여 ECU에서 연료 분사량을 보정한다.,-
+ATS,Armrest Touch Screen,팔걸이 터치 스크린.,-
+ATT,ACTIVE TORQUE TRANSFER,풀타임 4WD의 일종으로 도로여건 및 주행조건에 따라 자체 센서 및 ECU에 의해 2WD ↔ 4WD 변환이 전자제어되는 시스템 항시 사륜에 비해 연비 및 소음 우수하며 50:50 ~ 100:0 까지 세밀한 구동력 배분이 가능함,-
+ATV,ALL TERRAIN VEHICLE,야지 주행 차량,-
+AUDIO RSE,AUDIO REAR SEAT ENTERTAINMENT,뒷자석의 멀티미디어 관련 유닛,-
+AUTO ANTENNA,AUTO ANTENNA,AUDIO 동작에 따른 자동 접이식 안테나.,-
+AUTO GREASE,-,마모가 심한 부분에 자동으로 그리스를 발라주는 장치.,-
+AUTO LIGHT SYSTEM,-,"조도 SENSOR를 이용 주위변화에 따라 운전자의 점등조작없이 LAMP 점멸(TUNNEL 통과, 우천시등)",-
+AUTO PC,AUTOMOBILE COMPUTER(자동차용 컴퓨터),"차량의 전장품을 통합하고 음성인식에 의해 전장품 제어를 가능케하며, 동시에 차내 무선통신 이용 환경을 제공하는 차량용 컴퓨터",-
+AUTO_HLLD_SNSR,AUTO HEAD LAMP LEVELING DEVICE SENSOR,"전조등 높이(상,하) 조절 장치. 야간 주행시 운전자의 핸들 조작시 전조등 방향이 연동되게 하는 장치로서 운전을 용이하게 하는 기능.",-
+AUTONOMOUS INTELLIGENT VEHICLE(자율 주행 차량),-,CCD CAMERA와 레이다로부터 입력되는 전방 차량들의 정보와 검출된 차선을 종합하여 자차선 내의 전방 차량과의 차간거리 유지 및 자동 핸들 제어로 자율 주행을 하는 차량.,-
+AUX,AUXILIARY,AV SYSTEM의 외부 입출력 기능,-
+AV,AUDIOVISUAL,시청각의.,-
+AV HEAD KEY,AUDIOVISUAL HEAD KEYCONSOL CONN,오디오 비쥬얼 시스템의 가장 중요기능 즉 컨트롤을 하는 CONN,-
+AV HEAD UNIT,AUDIOVISUAL HEAD UNIT,오디오 비쥬얼 시스템의 가장 중요기능 즉 컨트롤을 하는 CONN,-
+AVB,Audio Video Bridging,"오디오 비디오 브릿징. 고품질 오디오, 비디오 데이터를 이더넷 (Ethernet) 망을이용하여 실시간 전송할 수 있는 기술.",-
+AVC,Auto Volume Control,차량 속도에 따라 음량이 자동 조절하는 기능.,-
+AVH,AUTO VEHICLE HOLDING,"EPB 또는 ABS(ESP) UNIT를 이용하여 일정시간 이상 정차시 운전자가 브레이크 페달을 밟지 않아도 차량 제동(주차)상태를 유지시켜주는 시스템, 별도 조작 없이 악셀 페달 작동으로 해제되며 신호대기시 편의성 향상, 오르막 정차후 출발시 밀림 방지 역할수행",-
+AVICS,ADVANCED VEHICLE INFORMATION&COMMUNICATION SYSTEM(,"무선통신(PCS, CELLULAR)을 이용하여,센터에서 차량측으로 인터넷 방식 정보 전송 및 NAVI 목적지 선정등을 수행하는 차량용 정보 시스템",-
+AVMS,AROUND VIEW MONITOR SYSTEM,"차량의 전,후,좌,우 총4개의 카메라가 장착되어 차량 주변 상황을 차량 내부의 모니터를 통해 보여주는 장치",-
+AVNT,Audio Video Navigation Telematics,오디오+비디오+내비게이션+텔레매틱스,-
+AVPS,Automated Valet Parking System,충전을 마친 차량이 주차장 내 빈 공간을 파악하고 스스로 주차 위치로 이동해 주차하거나 약속된 위치로 출차하는 시스템.,-
+AVR,-,동력계의 VELOCITY CONTROL MODE,-
+AWD,All Wheel Drive (4 Four Wheel Drive),자동차의 4개 바퀴에 항상 구동력이 전달되는 4WD. 노면이나 주행상황에 따라 바퀴에 배분되는 비율이 최적의 상황에 맞도록 제어,-
+AWG,American Wire Gauge,"미국전선규격. 미국이나 그 밖의 지역에서 구리, 알루미늄 및 기타 전선의 굵기를 나타내는 단위.",-
+AYC,ACTIVE YAW CONTROL,ACTIVE SAFETY의 기술로 4개의 바퀴를 조절해 충돌을 방지하는 기술.,-
+B CHASSIS,BARE CHASSIS,CHASSIS FRAME ASSY 에 운행만 가능하도록 간이 MODULE을 설치한 상태,-
+B/ALARM UNIT,BURGLAR ALARM UNIT,도난 경보 장치.,-
+B/CABLE,BAND CABLE,밴드 케이블.,-
+B/DR LOCK ACTR,BACK DOOR LOCK ACTUATOR,후면부 문 잠금 작동장치.,-
+B/G,BELGIAN,요철로 주행 내구,-
+B/M,BENCH MARKING,선진 MAKER의 장단점을 분석하여 개발에 반영시키는 행위.,-
+B/O LAMP,BLACK OUT LAMP,군용차에 적용되는 것으로 B.O LAMP를 제외한 모든 등을 끔.(등화관제등),-
+B/OUT,BALANCE OUT,1. 개발되어 생산하고 있는 차종의 폐지.(폐차) 2. 부품도 같은 개념으로 사용.,-
+B/PRETENSIONER,BELT PRETENSIONER,벨트 조절 장치.,-
+B/UP LP,BACK UP LAMP,후진 표시 램프.(MTM 사양에만 적용됨),-
+B/UP LP SW,BACK UP LP SW,후진 표시 램프 스윗치. 변속기 레버를 후진에 놓으면 T/M 내부의 스윗치가 작동하여 차량 후미의 후진등이 켜지는 장치.,-
+B/WAR'G BUZZER,BACK WARNING BUZZER,후진 경고 BUZZER. 후진 신호를 받으면 후미에 장애물과의 거리를 측정하여 운전자에게 경고.,-
+B_FLUID_SNSR,BRAKE FLUID SENSOR,브레이크 액 감지기.,-
+BAKE HARDEN,-,열이 가해지면 경화되어 필요 강도에 도달되는 성질. 시간이 지남에 따라 경화되어 신율이 떨어지는 시효성을 억제하는 성질을 말함klnk,-
+BALANCE OUT MODEL,-,"MODEL CHANGE, FACE LIFT 등, 신 MODEL 생산으로 이미 중단된 MODEL을 말함.",-
+BALLAST,-,HID LP 안에 있는 안정기. HEAD_LP가 LOW일때만 작동한다.,-
+BAS,BRAKE ASSIST SYSTEM,긴급 제동 상황시 부스터의 배력비를 증가시켜 적은힘으로도 큰 제동력을 발생시켜 제동거리를 줄여주는 시스템,-
+BATT,BATTERY,"배터리의 최대 목적은 STARTING에 있다. 차량의 시동이 꺼진 상태, ALT가 동작하기 전에 차량의 STARTING에 필요한 전원을 공급하는 장치. 시동을 끄고 IGN SW ON 위치나 ACC 위치에 놓았을때 WIPER, RADIO,HEATER 등의 각종 부품에 전원을 공급한다.",-
+BATT CABLE,BATTERY CABLE,밧데리에서 와이어와 연결되는 선.,-
+BATTERY SAVER,-,ENGINE OFF후 일정시간 경과시 자동으로 등화류의 전원 차단하여 실수로 인한 BATTERY 방전 방지.,-
+BAU,Brake Actuation Unit,"브레이크 액츄에이션 유닛 (브레이크제어기). 브레이크 페달의 스트로크에 기초하여 운전자의 요구 제동량(Nm)을 계산하고, 이를 회생제동과 유압제동으로 분배",-
+BAV,BREED AIR VALVE,고속시 공연비를 희박화시키는 밸브.,-
+BB,BLACK BELT,"통계적 지식과 개선활동 또는 연구개발 추진 능력의 보유자이며, 문제해결 기법을 숙지한 전문가로서 프로젝트 수행, 지도, 6시그마 기법 적용확대 ,그린벨트 양성을 위해 활동하는 자",-
+BBW,BRAKE BY WIRE,전자식 브레이크. 기존의 유압 대신 전기적 신호에의한 모터 작동으로 캘리퍼를 조작하여 제동력을 얻는 브레이크 시스템(신기술),-
+BC,BEFORE CHRIST,서력 기원 전,-
+BCA-R,Blind-Spot Collision-Avoidance Assist-Rear,후측방 충돌방지 보조-후방,-
+BCA-S,Blind-Spot Collision-Avoidance Assist-Side,후측방 충돌방지 보조-측방,-
+BCI,Battery Council International,국제 전지 평의회에서 정한 규격.,-
+BCM,BODY CONTROL MODULE,각종 ECU가 따로 분리되어 있는 것을 하나의 ECU로 통합하여 차량 전체를 제어하는 시스템.,-
+BCS,Battery Current Sensor,배터리 전류 센서.,-
+BCU,Battery Control Unit,"배터리 컨트롤 유닛. 배터리 시스템의 열적, 전기적 기능을 제어 또는 관리하고 배터리 시스템과 다른 차량 제어기와의 사이에서 통신을 제공하는 전자장치",-
+BCV,BOOST CONTROL VALVE,과급 제어 밸브. (연료),-
+BCW,Blind-spot Collision Warning,후측방 충돌 경고. 차로 변경 시 후측방 차량과의 충돌 위험이 발생할 때 운전자에게 경고해주는 주행안전 시스템,-
+BDC,Body Domain Controller,BCM+TPMS+SMK+IAU 통합 모듈,-
+BDU,Battery Disconnected Unit,고전압 배터리로부터 각 유닛에 공급되는 전원을 공급하거나 차단,-
+BEARING,-,베어링,-
+BELL MOUTH,BELL MOUTH,배터리의 CABLE TERMINAL 끝단부 처리 방법.,-
+BEQ,Battery EQualizer,배터리 이퀄라이저. 배터리에 동일한 전압이 유지되도록 제어,-
+BES,Button Engine starting System,버튼 엔진 시동 시스템.,-
+BEV,Battery Electric Vehicle,배터리식 전기자동차,-
+BFA,Busbar Frame ASSY,버스바 프레임 어셈블리.,-
+BFT,Battery Formation and Testing,배터리 활성화 테스터.,-
+BFT,Battery Fuse Terminal,퓨즈와 터미널 조합 형태의 배터리 퓨즈 터미널.,-
+BHDC,Bi-directional High voltage DC-DC converter,연료전지 시스템과 배터리 사이의 전력 제어 및 분배 장치,-
+BHP,BRAKE HORSE-POWER,"제동 마력, 실마력, 정미 마력.",-
+BIR,BALL IN RAMP,파킹 일체형 (리어) 캘리퍼 타입의 일종으로 파킹케이블 조작시 홈(Ramp)을 가진 판이 회전하고 볼이 홈의 기울기 만큼 반대편 판을 밀어내어 패드를 전진시키는 방식,-
+BIS,BELT IN SEAT(벨트 내장형 시트),SEAT에 S/BELT를 내장하여 편의성과 충돌시 구속 성능을 향상 시킨 시스템.,-
+BIW,Body In White,차체 골격. TRIM 하기 전의 차체 COMPLETE 상태의 CAB 또는 페인팅 직전의 차체.,-
+BJ,BIRFIELD JOINT,BIRFIELD 사의 밸브형 등속 JOINT. 등속 조인트 휠측에 주로 장착 되는 조인트. 통상 6개의 볼과 케이지로 구성되며 절각이 큰 특징,-
+BL,BILL OF LOADING,선하증권 (운송화물 수취중),-
+BLACK FACE METER,-,계기판 내부 및 LENS를 검게 처리하여 계기 작동시 작동부만 조명되게 하는 방식.,-
+BLDC,Brush-less Direct Current Motor,브러쉬가 없는 직류형 모터. 주로 엔진 냉각용으로 쓰인다,-
+BLE,Bluetooth Low Energy,"저전력 블루투스. 동작 주기(duty cycle)가 수 밀리초(ms)로 가벼운 구동 방식을 따르며, 사용되지 않는 대부분 시간을 슬립 모드(sleep mode)에 있어 전력 소모가 매우 적음.",-
+BLE,BLUTOOTH LOW ENERGY,"블루투스 저전력 프로토콜. 동작 주기(duty cycle)가 수 밀리초(ms)로 가벼운 구동 방식을 따르며, 사용되지 않는 대부분 시간을 슬립모드(절전모드)에 있어 전력 소모가 매우 적은 시스템.",-
+BLIND MONITOR,-,"후진시 후방상황 또는 T자 도로에 진입시 좌우측의 상황을 차량 후방 또는 전,측방에 설치된 카메라을 이용 감지하여 실내 MONITOR에 DISPLAY.",-
+Block Diagram,기능블록도,"분석되어야 할 시스템, 하위시스템 및 구성품의 정보, 에너지, 힘, 유체 등의 흐름을 나타낸 것으로서 논리적으로 블록에 넣는 것(input), 블록에서 실행되는 과정(기능)과 블록으로부터 나올 수 있는 것 (output)으로 표현된다.",-
+BLOWER,-,강제로 각 AIR 토출구로 바람을 불어주기 위한 장치로서 BLOWER SWITCH로 그 양을 조절 가능.,-
+BLWR ACTR,BLOWER ACTUATOR,블로어를 작동시키기 위한 엑추레이터,-
+BLWR MTR,BLOWER MOTOR,송풍기 작동 MOTOR.,-
+BLWR RLY,BLOWER RELAY,송풍기를 작동하기 위한 릴레이.,-
+BLWR SW,BLOWER SWITCH,송풍기를 작동하기 위한 스윗치.HEATER의 SW로 HEATER MOTOR의 송풍 속도 조절.,-
+BMA,Battery Module Assembly,친환경 자동차 배터리 팩을 구성하는 기본 모듈,-
+BMC,BEST MEASUREMENT CAPABILITY,최고측정능력. 해당 분야의 교정항목에 대하여 국가교정기관이 최고수준의 측정장비를 사용하여 일상적으로 교정을 실시할 때 얻을 수 있는 최소의 불확도를 말함,-
+BMC,BRAKE MASTER CYLINDER,브레이크 마스터 실린더.,-
+BMS,BACK MONITORING SYSTEM,차량 후방에 카메라를 설치하여 I/P의 모니터에 표시함으로서 운전자의 후방 시야를 확보해 주는 시스템.,-
+BMS,Battery Management System,"배터리 팩의 전압, 전류 및 온도를 모니터링하여 최적의 상태로 유지 관리하여, 배터리 교체시기 예측 및 배터리 문제를 사전에 발견하는 등 배터리 관리하는 중요한 역활을 수행",-
+BMU,Battery Management Unit,"전기 자동차에 구비된 전장품에 전력을 공급하는 보조 배터리, 고압 배터리의 상태를 관리하는 배터리제어부.",-
+BMW,BAYERISCHE MOTEREN WAKE,독일 자동차 회사.,-
+BNC,Bayonet Neill Concelman,BNC 단자 혹은 BNC 커넥터. 동축 케이블에 사용되는 미니어처의 고속 연결과 연결 해제를 지원하는 RF 단자 혹은 커넥터.,-
+BO,BACK ORDER,주문자의 주문에 대해 미 선적된 물량.,-
+BO,BALANCE OUT,"금형 폐기로 인한 업체 생산 중단. 부품 및 완성차를 포함하여 ECO 출도시 신,구형간의 상호 호환성이 없을 경우 신형 부품 생산에 따를 구형 부품의 생산 중단시 구형 부품을 B/OUT라고 함. 그에 따른 작업 치구도 동일함.",-
+BODY BUILDERS BOOK(차체 가장 요령서),-,사용차량에서 (특히 TRUCK) UPPER BODY를 장착할 수 있도록 CHASSIS CAB에 대한 상세한 DATA를 수록한 책.,-
+BODY BUILDERS DRAWING(바디 빌더 드로잉),-,상용차종에서 UPPER BODY를 장착할 수 있도록 C/CAB의 주요 COMPONENT 위치 및 배열 등을 표시한 DRAWING,-
+BOM,BILL OF MATERIAL,"설계로부터 발행되는 LPB 및 EO를 근거로 구성된 자료로서 부품의 적용 특성, 구성정보 및 소요수량등이 UPG단위로 정리된 것.",-
+BONNET TYPE CAR,BONNET TYPE CAR,일반 승용차와 같이 HOOD 안에 ENGINE ROOM이 전부 구성되어진 차량,-
+BOTTLE COOLER,BOTTLE COOLER(REFRIGERATOR),버스 장착용으로 식품의 저온 저장을 목적으로 하는 장치.,-
+BP SNSR,BOOST PRESSURE SENSOR,차저 엔진의 흡기 압력을 과급압 감지 센서,-
+BPA,Battery Package Assembly,BMA 모듈화 부품,-
+BPCM,Body/Battery Power Converter Module,바디/배터리 전력 변환 모듈.,-
+BPCU,Blower Pump Control Unit,블로어/펌프용 인버터. 수소 재순환 블로어 및 워터펌프 제어 조절,-
+BPD,BETWEEN PIN DIA,스플라인을 측정하는 치수로 180˚로 마주보는 스플라인 홈에 지름이 일정한 PIN을 삽입하여 핀과핀의 내경을 측정한값,-
+BPR,BODY PANEL REINFORCEMENT,외판의 내 DENT성 향상을 위하여 액상 PAD를 철판에 분무식으로 바른 후 굳어지는 pad 제품,-
+BPS,Barometric Pressure Sensor,"대기압 센서(검출 장치). 일반적으로 AFS(Air Flow Sensor)에 포함되어 있는 기능이지만 LX-CAR, M-CAR등은 분리되어 대기압을 검출하는 감지 장치. 압전 효과를 이용하여 저항의 변화를 검출하여 ECU로 전송하면 차의 고도를 계산하여 연료 분사량 및 점화시기를 조정.",-
+BPS,Boost Pressure Sensor,"흡기 센서. 흡기 매니폴드 어셈블리 상단에 장착되어 있으며, 터보차저에서 과급된 흡입 공기의 압력을 측정하는 역할.",-
+BPS,Brake Pedal Module,-,-
+BPV,BLEND PROPORTIONING VALVE,2단계 PCV 제어 밸브.,-
+BRAKE OIL LVL SENSOR,-,브레이크 오일의 양을 감지하는 센서,-
+BRAKE RESISTOR,BRAKE RESISTOR,"보조 냉각장치를 구비한 연료전지 차량용 브레이킹 레지스터로 모터는 회전수/발전량에 따라 역토크가 발생하여 보조 제동장치로 사용할 수 있으며, 모터에서 발전된 전기를 브레이킹 레지스터로 흘려줌으로써 전기를 열에너지로 변환시켜 연속적으로 전기를 소모하고 이에 모터가 연속적인 제동력을 발생시키도록 함. (브레이킹 레지스터의 전기저항은 전기를 소모하여 열에너지를 발생시키므로, 브레이킹 레지스터를 냉각시키기 위한 냉각장치가 반드시 필요함.)",-
+BRK,BRAKE,브레이크,-
+BRK F/LVL SW,BRAKE FLUID LEVEL SWITCH,브레이크 액 LEVEL 점검 스윗치.,-
+BRK F/SNDR,BRAKE FLUID SENDER,브레이크 액 송유기.,-
+BRK FLUID,BRAKE FLUID,브레이크 액.,-
+BRK OIL LEVEL,BRAKE OIL LEVEL,브레이크 오일량 표시기.,-
+BRKT,BRACKET,브라켓.,-
+BS ANTENNA,-,위성 수신 안테나,-
+BSA,Battery System Assembly,"배터리 시스템. 고전압 전기에너지를 저장하고, 자동차 전장부품에 전기에너지를 공급함",-
+BSC,BALANCED SCORE CARD,조직의 사명과 전략을 측정하고 관리할 수 있도록 포괄적인 측정지표로 바꾸어주는 틀이다.,-
+BSD,BATTERY STATE DETECTION,"배터리 상태 검출(배터리의 현재 상태를 검출 충전예측, 전압예측, 노화예측)",-
+BSD,Blind Spot Detection,사각지역탐지기. 자동차의 양옆과 뒤쪽에 레이더 센서를 장착하여 사각지역에 자동차가 탐지되면 사이드미러에 자동차 모양의 아이콘이 표시되어 자동차의 충돌을 방지해주는 장치,-
+BSTR,BOOSTER,엔진에서 공급되는 진공을 이용하여 운전자의 제동조작력을 증폭시켜주는 장치,-
+BSW,BOTTOM SLIDE WINDOW,BUS SIDE WINDOW에서 상부는 고정이고 하부만 여닫이가 가능한 창문,-
+BTCS,BRAKE TRACTION CONTROL SYSTEM,"저마찰로에서 발진 및 가속時 차륜 SLIP에 의한 발진성, 가속성, 등판성, 조향성 불능 등의 문제를 브레이크 조작을 통해 SLIP 현상을 방지시킴으로서 ①발진성/가속성/등판성 향상 ②조향성능 향상 등을 도모할 수 있는 장치이다.",-
+BTDC,BEFORE TOP DEAD CENTER,ENG 의 PISTON 상사점 전,-
+BTMS,Battery Thermal Management System,전기자동차에 장착된 셀의 온도를 효율적으로 제어할 수 있는 배터리 열관리 시스템,-
+BTO,Build to Order,"고객 선택권을 확대하고, 구매과정에서 대중 브랜드와 차별화된 경험을 제공하여 고객만족하는 방식",-
+BTS,Battery Temperature Sensor,배터리 온도 감지 시스템. 배터리가 일정 온도 이상으로 과열되면 가동을 멈춰 안전을 확보하는 시스템,-
+BURNISHING,-,DISK ASSY의 열부하로 DISK ASSY의 표면이 반질반질 하게 되는 현상.,-
+BUS,BOTTOM SLIDE WINDOW,BUS SIDE WINDOW에서 상부는 고정이고 하부만 여닫이가 가능한 창문을 말함.,-
+BUTTON_START,BUTTON START SYSTEM,버튼 시동 시스템 : 버튼스위치를 채용한 전자식 시동 기구,-
+BUZZER,ACOUSTIC WARNING BUZZER,부저.,-
+BUZZER PTGM,BUZZER POWER TAIL GATE MODULE,파워 테일 게이터 모듈 버저,-
+BV206,BAND VEHICLE,4.2 박격포 탑재 다목적 궤도차량.,-
+BVM,Blind-Spot View Monitor,후측방 모니터. 사이드 미러로는 보이지 않는 사각지대까지 클러스터 화면에 표시해주는 기술. (방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시),-
+BVM (ENTRY),Blind-Spot View Monitor (Entry),후측방 모니터 (보급형),-
+BVV,BOWL VENT VALVE,캬부레타 후런트실의 통과 밸브.,-
+BWCV,BYPASS WATER CONTROL VALVE,보조 WATER관 제어 밸브.,-
+BWS,BACK WARNING SYSTEM,후진시 차량뒷쪽의 사물과의 충돌을 막기위해 경보해주는 시스템.,-
+C.F.T,CROSS FUNTION TEAM,제품 및 공정의 개선이 효과적으로 이루어질 수 있게 하기 위해서 제품 및 공정에 대한 기본적인 이해와 지식이 있는 관련부서의 인원으로 구성된 조합으로 제품기획부터 양산까지의 모든 유용한 정보와 자료를 의사소통할 수 있는 능력이 있는 인원으로 구성된다.,-
+C.V TYPE,CENTER VALVE TYPE,액압 발생 방식에 따른 BRAKE MASTER CYLINDER의 한가지 방식. CUT OFF HOLE이 없고 PISTON내측에 VALVE SEAT면을 형성하여 PISTON 전진에 따라 CENTER VALVE와 PISTON의 면 SEALING에 따라 액압 발생.,-
+C.V.W,CURB VEHICLE WEIGHT,"1)STANDARD C.V.W:PEL상의 STANDARD 사양을 장착한 상태의 차량 중량(작동규제 규정치, SPARE TIRE, O.V.M TOOL 중량 포함 2)FULL OPTION C.V.W:STANDARD 사양과 OPTION 사양을 모두 장착한 상태의 차량 중량.",-
+C/100,CLAIM PER 100,초기 3개월 100대당 클레임 건수.,-
+C/AUDIT,CUSTOMER AUDIT,"완성차 불만지수. 고객의 입장에서 본 상품성 정도를 감점방식으로 평가한 점수
+ - 평가방법 : 정치 및 주행상태에서 발견된 품질문제 또는 상품성 결함을 문제의 심각성 정도에 따라 감점(-3,-5,-10)",-
+C/BZ,CALL BUZZER,멈춤 표시 스위치.,-
+C/F,Capacitance / Frequency,콘덴서 용량값에 따라 발생하는 주파수,-
+C/F,CHECKER FIXTURE,검사치구. 부품을 쉽고 정확하게 검사할 수 있게 제작한 검구로서 일반적으로 단품 정도 확인을 위한 검사치구,-
+C/FAN,CONDENSER FAN,콘덴서의 열을 식히기 위한 회전판. (에어콘관련),-
+C/FAN MTR,CONDENSER FAN MOTOR,콘덴서 팬을 동작시키는 MOTOR. (에어콘관련),-
+C/LIGHTER,CIGAR LIGHTER,담배 점화용 라이터. MAIN으로부터 전원을 공급 받아서 C/LIGHTER 사용시 COIL에 전류를 공급하여 발열시켜 주는 기능.,-
+C/LOCK UNIT,CENTRAL LOCKING UNIT,중앙 잠금 장치.,-
+C/LP,CORNERING LAMP,"야간 주행시 좌,우 어느쪽으로 진로를 변경할 때 변경한 방향으로 램프를 점등시켜 시인성을 향상시키는 램프. 이 램프는 테일 램프 릴레이 및 코람 스위치의 턴시그널 램프 스위치로 제어되고 있다.",-
+C/METER,COMBINATION METER,계기 미터. 계기판(CLUSTER).,-
+C/O,CARRY OVER,기존 차종이나 기타 부위에 적용하고 있는 것을 새로운 차종이나 기타 부위에 그대로 적용 시킴.,-
+C/OVER,CARRY OVER,기존에 사용하는 부품을 공용으로 사용함.,-
+C/PAD,CRASH PAD,계기판을 감싸주는 COVER.,-
+C/PAD,CRASH PAD MAIN PANEL,"자동차 내부에 계기판, 수납구, 라디어, 재털이, 에어콘스 위치 등이 포함된 판넬.",-
+C3I,"COMMAND,CONTROL,COMMUNICATION&INTELLIGENCE",지휘 통제 통신 및 정보,-
+CA,CONSUMER AFFAIR,고객 센터. 고객의 불만사항을 접수 처리하는 부서,-
+CAB,CURTAIN AIR BAG,커튼 에어백,-
+CAB MTG SYS,CAB MOUNTING SYS,트럭의 CAB을 FRAME에 장착하는 구조.,-
+CAB OVER,-,"1-BOX형 STYLE의 승합차를 지칭함.(GRACE:CABOVER형, STAREX:SEMI-BONNET형)",-
+CAB SUSP,CAB SUSPENSION,트럭의 승차감을 향상하기 위해 샤시 FRAME과 CAB사이에 장착하는 현가장치,-
+CAB TILT,-,캡 틸트는 전동 유압식 모터로 오일 펌프를 구동하여 유압을 발생시켜 캡 틸트 실린더로 캡을 위 아래로 할 수 있는 시스템이다. 풀 플로팅 캡은 주행중의 진동이 직접 실린더에 전달되지 않도록 실린더 내부에서 진동을 흡수 할 수 있는 구조이다.(트럭의 cab을 일상정비 및,-
+CAD,COMPUTER AIDED DESIGN,"사용자로 하여금 물체의 형상 및 물리적 특성을 정할 수 있도록 기하하적 도형, 치수 및 기타 제도의 주석을 생성 및 편집하는 것을 자동화하는 컴퓨터시스템 능력",-
+CAE,Computer-Aided Engineering,컴퓨터-지원 엔지니어링 엔지니어링 공정지원을 위한 컴퓨터의 사용. 이러한 지원은 시뮬레이션 및 유한요소 분석을 위해 간혹 사용되는 엔지니어링 분석 수리데이터를 생산할 수 있다.,-
+CAFE,CORPORATE AVERAGE FUEL ECONOMY,제작차 평균 연비. 미국내 판매되고 있는 자동차 제작사의 전체 평균 연비,-
+CAL,CALIBRATION,교정. 측정 기기나 측정 시스템이 지시하는 양의 값 또는 물적 척도나 표준물질이 표시하는 값과 표준에 의해서 현시된 이들에 대응하는 값 사이의 관계를 지정한 조건하에서 확립하는 일련의 작업,-
+CALL BUZZER,CALL BUZZER,승객이 하차를 위해 운전자에게 부처음을 통해 알리는 장치.,-
+CAM,COMPUTER-AIDED MANUFACTURING,컴퓨터를 이용한 제조 자동화 시스템,-
+CAMSHIFT,-,"밸브의 개폐, 밸브 타이밍을 결정하는 캠을 기통수 만큼 연결한 막대.",-
+CAN,CONTROLL AREA NETWORK,쌍방향 통신을 이용하여 각종 정보를 공유하여 UNIT를 제어함. (P-CAN : Powertrain / C-CAN : Chassis / B-CAN : Body / M-CAN : Multimedia / H-CAN : HEV-CAN / G-CAN : Green-CAN),-
+CAN,CONTROLLER AREA NETWORK,"BOSH사에서 개발한 통신 방식으로 전자 제어 장치들간의 SERIAL 통신으로 HMC EF와 XG에서 현재 TCU,ECU,TCS간의 통신에 이용되고 있다. 쌍방향 통신을 이용하여 각종 정보를 공유하여 UNIT를 제어함.",-
+CAN FD,CAN with Flexible Data rate,전자 계측 및 제어 시스템의 여러 부분간에 센서 데이터 및 제어 정보를 전달하는데 사용되는 데이터 통신 프로토콜. 기존 CAN(1Mbps/8byte)의 호환성을 유지하면서 8Mbps/64byte로 확장시켜 같은 시간 안에 더 많은 데이터 정보를 전송함.,-
+CAPA,CAPACITY,생산 능력. 일정기간에 대한 제품 생산량.,-
+CAR PHONE,CAR TELEPHONE,자동차용 전화.,-
+CARB,CALIFORNIA AIR RESOURCES BOARD,미국 캘리포니아주 환경청. 미국 캘리포니아주 자체 배기규제 시행 및 인증업무 담당하는 관청,-
+CARB,CARBURETOR,기화기.연료 탱크에 연료를 중계 받아 연료와 공기의 혼합비를 조정하여 엔진의 속도를 조정하는 장치. 엑셀레이타 페달과 CABLE로 연결 작동 시킴. 공기와 연료를 적당한 비율(공연비)로 혼합하여 GAS를 엔진 실린더 내로 공급한다.,-
+CARC,CHEMICAL AGENTS RESISTANCE COATION,화학작용제 방호 코팅,-
+CAS,CRANK ANGLE SENSOR,"크랭크 각 감지기. 캠 샤프트 포지션 센서로 캠 샤프트의 각도를 기준으로 1번, 4번 실린더의 압축 행정의 상사점을 감지하여 이를 펄스 신호로 바꿔서 입력하고, ECU는 이 신호에 입각하여 연료 분사 순서를 결정한다.",-
+CAS,CREEP AID SYSTEM,하이브리드 차량에 장착되어 경사로 등에서 출발 시 차량이 밀리는 현상을 방지하기 위한 장치.,-
+CASS,COMPRESSOR ANTI-SLUGGING STRATEGY,슬러깅 소음의 근원이 되는 COMP의 액냉매를 일정조건하에서 A/C 스위치와 무관하게 엔진 ECU제어에 의해 엔진 시동시마다 계속 배출시킴으로 COMP내 잔류되어 있는 액냉매를 감소시킴으로 액압 축음을 저감시킴,-
+CAV,COASTING AIR VALVE,감속시의 공연비의 적정화를 하는 밸브.,-
+CAV,Connected & Autonomous Vehicle,"연결기반 자율주행 차량. 연결성을 통해 인프라로부터 실시간 교통환경 정보를 획득하고 인접 차량과 센서 데이터를 공유함으로써 인지거리를 확대하며, 기계 지능을 통해 누적된 주행경험에 근거한 적응적 차량 제어를 수행.",-
+CBC,Cornering Brake Control,"코너링 중, 구동 바퀴의 양쪽 브레이크 중에서 커브 쪽에 가까운 브레이크의 압력을 부분적으로 낮춤으로 오버 스티어링을 방지하여 선회시에 운전자의 의도대로 코너를 무사히 빠져나갈 수 있도록 주행 안정성을 실현, 최적의 제동력을 분배하는 시스템",-
+CBS,CONVENTIONAL BRAKE SYSTEM,ABS 미적용된 일반 유압식 브레이크 시스템,-
+CBU,Complete Bulit Unit,완전 조립 제품. (Ref : BIW),-
+CBV,Coolant Bypass Valve,냉각수의 스택 방향 순환 여부를 제어 하는 냉각수 스택 바이패스 밸브,-
+CC,CATALYTIC CONVERTER,촉매 변환기.,-
+CC,Cruise Control,크루즈 컨트롤,-
+CC,Cruise Control,-,-
+CCA,Cold Cranking Ampere,"저온 시동 전류량의 축약어. 짧은 시간 배터리의 방전 능력.CCA의 등급, 즉 수치가 높을수록 배터리의 자동차 시동 능력이 더 좋음.",-
+CCC,Cargo Carrying Capacity,적재중량.,-
+CCC,CHINA COMPULSORY CERTIFICATION,중국강제인증제도. 중국 수출용타이어 품질 인증 마크,-
+CCC,CLOSE-COUPLED CATALYTIC CONVERTER,촉매의 활성화를 촉진하기 위해 배개메니홀드에 근접시킨 촉매,-
+CCC,COMPLEX CYCLE TEST,복합환경시험. 특정 모드로 사이클을 주어서 하는 표면처리 시험,-
+CCC,CUSTOMER CARE CENTER,"해외대리점 지원센터. http://ccc.hyundai-motor.com 해외대리점의 정비, 품질, 부품 및 교육을 지원하는 인터넷 사이트",-
+CCH,Conductor Crimp Height,압착된 클림프 위 표면으로부터 아래 방사상(중앙의 한 점에서 사방으로 거미줄이나 바큇살처럼 뻗어 나간 모양)의 표면까지 높이 측정값.,-
+D.B.L,DIURNAL HEAT BREATHING LOSS,주간 가열 시험. 연료 탱크내에 연료를 임의로 가열시켜 증발되는 증발가스의 누출여부를 확인하는 시험.,-
+D.L.O,DAY-LIGHT OPENING,앞창 유리면에 인접한 창틀이나 장식 MOLDING 및 CERAMIC COATING으로 인해 유리 전면을 통해 시계가 방해 받지 않는 최대 면적을 의미함.,-
+D.P.P,DPRESSED PARKING POSITION,WIND SHIELD WIPER가 자동 정지시 HOOD 아래 또는 일상 작동 위치 아래에서 WIPER가 자동 정지되는 기능.,-
+D/A CHKR,DISTRIBUTOR ADVANCE CHECKER,감속시 HOLMIUNM을 감소시키기 위해 진각 시켜주는 장치.,-
+D/CLOCK,DIGITAL CLOCK,디지탈 시계.,-
+D/H,DUST HOLDING CAPACITY,"먼지포집량. 통기저항이 규정한 값에 도달할 때까지 먼지를 AIR CLEANER에 
+ 포집된 먼지량.",-
+D/I,DUE IN,국내외 업체에 기 발주된 물량 중 미 입고량.,-
+D/INSULATOR,DASH INSULATOR,자동차 판넬 부위에 ENG. ROOM에서 실내로 유입되는 소음을 차단하기 위하여 ENG. ROOM측에 적용하는 방음재.,-
+D/ISO PAD,DASH ISOLATION PAD,자동차 판넬 부위에 ENG. ROOM에서 실내로 유입되는 소음을 차단하기 위하여 실내측에 적용하는 방음재.,-
+D/LOCK,DEAD LOCK,"EC,호주의 옵션 사양으로 도난을 방지하기 위해 모터를 하나더 설치하여 안정성을 확보한 시스템, 철사로 도어를 열때는 CTR DR만 구동이 되고 DEAD LOCK은 영향을 받지 않기 때문에 DOOR가 열리지 않음.",-
+D/O,DUE OUT,소진량,-
+D/R,DAMAGE RATE,공손율,-
+DAB,DRIVER A/BAG,DRIVER측 A/BAG,-
+DAB,DRIVER AIR BAG,"운전석 에어백. S/Wheel 내에 내장되어 있어, 정면 충돌시 운전자를 보호하는 에어백.",-
+DACS,DEODORIZATION AIR CLEANING SYSTEM,"활성공기 제어 시스템. 활성공기(O-, O3)를 발생시켜 HVAC 내부를 살균, 탈취",-
+DAS,Disconnector Actuator System,디스커넥터 구동 시스템. 전기차의 모터와 구동축을 주행상황에 따라 분리하거나 연결할 수 있는 시스템.,-
+DASH,DUAL ACTIO SUPER HEAD,일반적으로 엔진룸 측과 실내부를 분리하는 판넬부를 말함.,-
+DASH POT,DASH POT,THROTTLE VALVE를 천천히 닫히게 하여 NORMAL IDLEING POSITION이 되게하는 것으로 HC량을 감소 시킴.,-
+DAT,DIGITAL AUDIO TAPE,디지털 오디오 테이프,-
+DATC,DUAL AUTOMATIC TEMPERATURE CONTROL,듀얼존 자동 온도제어 시스템.(운전석과 조수석 별도 온도 조절 기능),-
+DAU,Door Area power control Unit,파워 윈도우와 미러를 제어하는 도어 유닛,-
+DAW,Driver Attention Warning,운전자 주의 경고. 주행 시 운전자가 운전에 주의를 기울이고 있는지 상태를 분석하고 필요 시 경고. 운전자 주의 수준을 5단계로 표시해주며 “나쁨”(1단계)에서 운전자 주의 수준이 더 낮아지면 휴식을 권유. 정차 시 전방 차량이 출발하면 운전자에게 알림,-
+DAW,Driver Attention Warning,-,-
+DAY CAB,-,SLEEPING BED 공간 없이 운전석과 조수석만 설치할 수 있는 CAB,-
+DB,DYNAMIC UNBALANCE,동적언밸런스. 회전상태에서의 언밸런스량,-
+DB / db,DECIBEL,음의 크기 단위.,-
+DBC,Downhill Brake Control,"경사로 저속주행장치. 비포장길 또는 급커브 길 등의 경사가 심한 곳을 내려올 때, 브레이크 페달 작동없이 자동으로 일정속도 이하로 감속시켜 운전자가 조향 핸들 조작에 집중할 수 있도록 도와주는 기능",-
+DBC,Dynamic Brake Control,"운전자의 브레이크 상황에서 제동 압력을 보정해 주는 기능. 예들 들어, 격하게 제동 압력이 상승할 때에 긴급 브레이크 상황으로 인지하여 운전자에 의해 생성되는 제동 압력을 적절하게 상승시켜서 페달을 적은 힘으로 밟았다고 하더라도 완전한 감속을 이룰 수 있게함.",-
+DBL,Dynamic Bending Light,스티어링 휠의 조향에 따라 헤드램프가 움직여 어두운 밤 코너를 돌 때 유용한 기능,-
+DC,DIRECT CURRENT,시간이 경과해도 방향이 일정한 전류(직류),-
+DC,DRAG COEFFICIENT,공기 저항 계수.,-
+DCM,Digital Center Mirror,디지털 인사이드 미러. 2열시트를 포함하여 후방까지 보여지는 일반적인 글라스 미러 모드(Glass Mirror Mode)와 TGAT 상단에 장착된 DCM Camera를 통해 후방만을 볼 수 있는 DCM 디스플레이 모드가 가능함.,-
+DCM,Discontinuous Condution Mode,불연속 도통 모드,-
+DCM,Door Control Modules,"차 양쪽 문에 설치되어 있으며, 운적석과 보조석 각 스위치 페널끼리 서로 연동되어 Actuator 관리 & Central Lock & Window",-
+DCT,Double Clutch Transmission,더블클러치 변속기. 두 개의 클러치 & 두 개의 구동축으로 구성된 차세대 자동화 변속기(자동화된 수동변속기에 클러치와 구동축이 2개가 되도록 설계한 장치). 두 개의 축(홀수단/짝수단)이 각각 교대로 연결되며 기어 변속을 수행.,-
+DCU,Data Connectivity Unit,차량 모뎀 (TMU) + E-CALL (사양적용시) 통합 모듈,-
+DCU,Data Connectivity Unit,-,-
+DCU,Domain Control Unit,"도메인 컨트롤 유닛. ECU의 여러 기능(동력전달장치, ADAS, 차체, IVI)을 통합적으로 관리할 수 있는 중앙처리장치(Central Gateway)가 추가된 유닛. 기존 ECU 대비 비용, 무게, 소비전력이 개선된 장치",-
+DCU,Dosing Control Unit,화학물 처리 제어 유닛. 디젤차량 배기가스 처리 시스템의 모든 기능과 활동 요소들을 관리하고 제어함.,-
+DDM,Drive Door Module,운전석 도어 모듈. 차량의 도어의 개폐를 제어,-
+DECK MOUNTING,-,적재함을 샤시 FRAME에 고정하기 위한 수단.,-
+DECK OFFSET,-,샤시 TRUNNION BASE CENTER에서 적재함 길이방향 중심까지의 거리,-
+DEF,DEFrost,제상 (성에 제거),-
+DEFOG,DEFOGER,뒷유리 성에 제거기.,-
+DEFOG SW,DEFOGER SWITCH,뒷유리 성에 제거기 스윗치.,-
+DEFROSTER,DEFROSTER,"차창 유리에 붙어있는 이물질 (특히 눈, 성에, 서리 등)을 제거하기 위한 장치",-
+DEHU,DEHUmidifier,제습기,-
+DEMO CAR,DEMONSTRATION CAR,"ENG ROOM의 시각적 평가, 배선 배관 정렬 상태 및 부품간 GAP 부족등을 확인하여 LAYOUT을 조기 안정시키기 위하여 제작한 MOCK -UP",-
+DEPOWERED AIRBAG,-,"기존 AIRBAG이 성인 남자를 기준으로 제작되어 유아, 어린이, 체구가 작은 여성들이 치명적인 부상을 당하는 경우가 발생하여 20-35%정도 푹발력을 감소시켜 안전성 향상.",-
+DERM,DIAGNOSTIC AND ENERGY RESERVE MODULE,SYSTEM 진단기능 및 에너지 공급기능,-
+Design Review,설계 검토,품질요구사항을 충족시키는 능력을 평가하여 문제점을 파악하고 해결책의 개발을 제안하기 위한 활동 으로 설계에 대한 문서화되고 포괄적이며 체계적인 조사.,-
+Design Verification,설계 검증,"모든 설계 출력물이 설계 입력물을 충족시킴을 보장하기 위한 시험으로 설계검증은 다음과 같은 활동을 포함할 수 있다. ? 설계검토, 대체계산의 수행, 시험 및 실증의 이해, 배포 전 설계 단계별 문서의 검토.",-
+DESTINATION,-,버스의 행선지판,-
+DEV,DEVIATION,임시 사양.,-
+DEVELOPMENT CONCEPT(개발 컨셉),-,개발하고자 하는 차종의 막연한 제품 개념을 구체화 하는것.,-
+DFA,DIGITAL FOR ASSEMBLY,디지털 조립성 점검(DPA 기반으로 조립성 검증 위한 디지털 검증),-
+DFM,DESIGN FOR MANUFACTURE,미리 예상되는 문제점을 찾아내어 그 영항과 요인을 분석하는 방법(디자인),-
+D-FMA,DESIGN FOR MANUFACTURABILITY AND ASSEMBLY,"제조성 및 조립성을 위한 설계를 뜻함 제조성 및 조립성을 위한 설계는 설계기능과 제조성, 조립 용이성간의 관계를 최적화하기 위해 고안된 동시공학적 절차이다",-
+DFMEA,DESIGN FAILURE MODE AND EFFECTS ANALYSIS,설계단계의 FMEA,-
+DFSS,DESIGN FOR SIX SIGMA,R&D 6시그마. R&D부문을 위한 6시그마 체계,-
+DG,DIESEL GEUERAL,디젤용 일반 윤활유 API 분류.,-
+DIA CHKR,DIAGNOSIS CHECKER,자기 진단 점검기.,-
+DIAGNOSIS,DIAGNOSIS,자기 진단 장치.,-
+DIAGONOSIS,-,전자 제어 장치들은 자기 고장 진단을 수행한 후 고장 항목별로 특별한 CODE를 외부로 전송(다양한 방법으로) 한다. 이 CODE를 DAIG.CODE라 한다.,-
+DIFF,DIFFERENSIAL CASE,차동장치. 엔진의 힘을 직각으로 변환하여 좌/우 바퀴로 배분하고 차량 선회시 안쪽과 바깥쪽 바퀴의 회전차를 허용하는 장치,-
+DIFF LOCK,DIFFERENTIAL LOCK,곡선도로 주행시 안쪽 바퀴의 회전수를 줄이고 바깥쪽 바퀴의 회전수를 늘려 주어 원활한 회전이 되게하는 기어 장치 잠금 스위치,-
+DIFFERNTIAL GEAR,-,AUTO 및 MANUAL TRANSMISSION에서 2차 감속 GEAR 쌍을 말함,-
+DIH,DRUM IN HAT,리어 캘리퍼 적용차량에서 사용되며 디스크에 내장되는 별도 파킹 시스템,-
+DIM,DIMENSION,치수.,-
+DIMMING CIRCUIT,-,야간에 운전자의 눈부심을 방지하기 위한 감광회로,-
+DIMPLE,-,차체 판넬에 위치 SETTING을 위해 성형한 돌출이나 함몰된 작은 돌기를 말함.,-
+DIN,DEUSCHLAND INDUSTRIE-NORM / Deutsche Industric Normen,독일 공업 규격.,-
+DIO,Dealer Installation Option,"차량이 소비자에게 인도 후, 토잉팩 (Towing Pack) 장착이 용품대리점에서 되므로 유럽 자동차 판매법인에서는 와이어 구성이 어디에 있던 관여하지 않음 (판넬 탈거 및 홀 작업 등 수행)",-
+DIODE,DIODE,다이오드.,-
+DIS,DISCHARGE,전류계 표시.,-
+DIS,DRIVER INFORMATION SYSTEM,"DIS (Driver Information System) 차량통합 표시장치는 차량의 편의 장치들이 증가함에 따라서 각종 조작 장치의 복잡함과 표시 정보의 증가를 수용하기 위하여 표시의 단일화와 조작의 단순화 등으로 고객에게는 편의성, 조작성,안전성을 제공하고 제작사에는 품질 향상과 비용감소의 효과를 얻게되는 시스템",-
+DISPLAYER-R/GUIDE,-,행선지 안내판,-
+DIST,DISTRIBUTOR,"배전기. IGN COIL에서 발생된 고전압을 엔진 GEAR축에 연결되어 회전하면서 엔진 SYLINDER의 점화 FLUG에 흐르는 전류를 단속하여 점화 불꽃을 배분하는 장치.(1,3,2,4 순으로 배분)",-
+DIST SOL,DISTRIBUTOR SOLENOID,배전기 솔레노이드.,-
+DIV,DIIVERSITY,복수의 안테나에 의한 방송 수신 기술.,-
+DIV,DIVISION,"부분, 분배, 분야.",-
+DIY,DO IT YOURSELF,자가 정비 코너.,-
+DLBCU,Driver Lumbar Bolster Cushion ECU,운전석 럼버(등받이) / 볼스터(시트 옆구리 받침) / 쿠션 제어기.,-
+DLC,Data Link Cable,자기진단 점검단자.,-
+DLC,Diagnostic Link Connector,진단 접속 커넥터.,-
+DLI,DISTRIBUTOR LESS IGNITION,무 배전기 점화 장치,-
+DLR,DYNAMIC LOADED RADIUS,타이어 동반경. 주행중인 타이어의 반경,-
+DLVRY,DELIVERY,국내외 업체에 주문한(발주원) 부품에 대한 납기일.,-
+DLX,DELUXE,호화로운.,-
+DM,DAMAGE,부품에 대한 훼손. (손상),-
+DM,DIESEL MODERATE,디젤용 중급 윤활유 API 분류.,-
+DMAIC,DEFINE MEASURE ANALYZE IMPROVE CONTROL,"6시그마에서 적용되는 문제해결의 절차.D: 정의, M: 측정, A:분석, I:개선, C: 관리",-
+DMB,Digital Multimedia Broadcasting,디지털 멀티미디어 방송. 디지털 영상 및 오디오 방송을 전송하는 방송기술,-
+DME,DiMethyl Ether,디젤을 대체할 수 있는 청정연료,-
+DML,DRAWING MASTER LIST,차종별(차종 NO) 도면의 현황을 나타내는 LIST,-
+DMS,Drive Mode System,주행모드를 3가지로 나눔으로써 운전자의 성향이나 도로 상황에 따라 즉각적인 대응이 가능하게 하는 시스템. 1) ECO (에코모드) : 친환경 경제 운전 / 2) SPORT (스포츠모드) : 스포티한 주행과 견고한 승차감 / 3) NORMAL (표준모드) : 부드러운 주행과 안락한 승차감 - 계기판엔 표시 X,-
+DMS,Driver Monitoring System,"적외선 카메라를 통한 운전자의 눈동자, 눈꺼풀 등을 인식, 모니터링 하여 운전자의 졸음, 부주의 등을 판단해 위험시 운전자 경보를 통하여 주의를 주는 시스템",-
+DMU,DEGITAL MOCK UP,CLAY MOCK UP 대용으로 전산을 이용한 3DIMENSION SOLID MODELING,-
+DMU,DIGITAL MOCK UP,"제품설계를 모두 3차원 솔리드 스페이스로 표현하고 이를 컴퓨터 화면에서 조립, 검토하여 설계단계에서 제작성, 조립성의 조기 검증으로 설계품질을 향상시키며 많은 시간과 비용을 요구하는 시제품의 제작을 최소화함으로써 제품의 품질을 높이고 제품개발 기간을 획기적으로 단축시키는 기술",-
+DOC,Diesel Oxidation Catalysts,산화 촉매 장치. 디젤 배출가스 흑연(Black Smoke) 감소,-
+DOD,Door Obstacle Detection,차량 측면 승객 감지 시스템.,-
+DOD,Doorside Object Detection,차량 측면 승객 감지 시스템.,-
+DOF,DEGREE OF FREEDOM,자유도. 한 계의 모든 다양한 성질에 대한 값을 표현하는 데 필요한 독립량의 수,-
+DOHC,Double OverHead Camshaft,"캠축이 2개 있는 엔진. 실린더 마다 흡/배기 밸브가 각각 2개씩 있는 엔진. 흡배기 효율을 크게 높일 수 있고 연소실이나 캠샤프트 배치, 헤드의 설계가 자유로워 출력을 높이기 쉽다",-
+DOJ,DOUBLE OFFSET JOINT,등속 조인트 T/M 측에 주로 장착 되는 조인트. 절각과 슬라이딩 동시가능,-
+DOM,DOMESTIC,국내.,-
+DOT,DEPARTMENT OF TRANSPORTATION,미 운수국의 타이어 안전규정에 준하여 표기하는 타이어 제조월일을 나타내는 숫자,-
+DOUBLE FOLDING DOOR,-,"버스의 승,하차용 2개의 접이식 출입문",-
+DPA,DIGITAL PRE-ASSEMBLY,가상 작업검토 혹은 가상 설계 검증 프로세스. 3D 설계 데이터를 이용하여 부품간의 간섭 여부/갭/조립 작업성/정치 상품성/정비용이성 등에 대하여 디지털 검증 배포 이전에 모델간의 체크 사항을 검토,-
+DPAS,Dynamic Parking Assistant System,저속 운행 시 후방의 사각 지역에 대한 영상과 주차 안내선을 제공하여 안전한 주차를 보조해 주는 시스템,-
+DPF,Diesel Paticulate Filter,"디젤 미립자 필터(디젤매연여과장치). EURO-IV 규제 대응위해 PM 저감/여과 시키는 필터. 디젤엔진의 배기가스 중 PM(Particulate Mass)을 Filter를 이용하여 물리적으로 포집하고, 일정거리 주행 후 배기가스 온도를 상승시켜 PM을 연소시킴",-
+DPFI,Dual Port Fuel Injection,듀얼 포트 연료 분사 시스템.,-
+DPMO,DEFECT PER MILLION OPPORTUNITY,백만개 기회당 결함수. 기회당 결함수(DPO)를 백만개당의 기회로 환산한 결함수,-
+DPO,DEFECT PER OPPORTUNITY,기회당 결함수. 총 결함수를 총 기회의 수로 나눈 것,-
+DPS,Differential Pressure Sensor,"차압 센서. 배기관내 DPF(Diesel Particle Filter) 전, 후단에 위치하여 DPF 압력을 실시간으로 감지하는 센서 - 재생필터의 재생 시기를 판단, 입구와 출구의 차압이 20~30kpa (200~300mbar) 이상 발생할 경우에 ECU는 재생모드에 진입",-
+DPSM,DISTRICT PARTS & SERVICE MANAGER,구역 부품정비 매니져. 현지의 딜러 부품과 정비 상황을 관리하는 구역 매니져,-
+DQAA,DEFENSE QUALITY ASSURANCE AGENCY,국방 품질관리. 정부로 납품되는 군수품의 검사 및 품질보증 활동을 정부로부터 위임받아 관리하는 기관,-
+DR HARN (FL),DOOR WIRING HARNESS(FRONT LEFT),도어 하네스,-
+DR HARN (FR),DOOR WIRING HARNESS(FRONT RIGHT),도어 하네스,-
+DR HARN (RL),DOOR WIRING HARNESS(REAR LEFT),도어 하네스,-
+DR HARN (RR),DOOR WIRING HARNESS(REAR RIGHT),도어 하네스,-
+DR KEY ILL LP,DOOR KEY ILLUMINATION LAMP,도어 키 조명등.,-
+DR LOCK ACTR,DOOR LOCK ACTUATOR,도어 잠금 장치.,-
+DR LOCK RLY,DOOR LOCK RELAY,도어 잠금 장치 릴레이,-
+DR LP,DOOR COURTESY LAMP,도어 조명등.,-
+DR SPKR,DOOR SPEAKER,도어 스피커.,-
+DR SW,DOOR SW,자동차 문의 개폐여부를 알려주는 스윗치.,-
+DR UNLOCK SW,DOOR UNLOCK SWITCH,도어 풀림 스위치.,-
+DR WARG BUZZER,DOOR WARNING BUZZER,도어 열림 경보기.,-
+DR WARG SW,DOOR WARNING SWITCH,자동차 문의 개폐여부를 경보하는 스윗치.,-
+DRESSING,DRESSING,BOX와 와이어 하네스 결합시 박스내 와이어 정렬 및 마무리,-
+DRG,DRAWING,도면.,-
+DRGS,-,자동 경로 유도 SYSTEM,-
+DRI S/BELT BUCKLE,DRIVER SEAT BELT BUCKLE,운전석 안전벨트 스윗치.,-
+DRIP RAIL,-,ROOF 상부에서 흘러내리는 물이 모여 흐르도록 하기 위해 만든 통로를 말함.,-
+DRL MDL,DAYTIME RUNNING LIGHT MODULE,주간 운행용 조명 장치. 일기 불순 지역의 운행시 일기 조건에 따라 전조등이 작동하여 타차량이나 보행자에게 차량 운행을 알려 사고를 방지하는 기능.,-
+DRL RESISTOR,DAYTIME RUNNING LIGHT MODULE RESISTOR,DRL 시스템에 적용하는 저항기.,-
+DS,DIESEL SERVICE,디젤용 고급 윤활유 API 분류.,-
+DSA,Driver Safety Assist,운전자 안전보조 시스템,-
+DSI,DISTRIBUTOR SATISFACTION INDEX,대리점 만족지수. 차량판매 및 정비사항에 대하여 대리점이 느끼는 평가항목을 지수화하여 대리점 만족도에 대한 종합적인 판단지표로 활용하는 조사결과,-
+DSL,DIESEL,경유,-
+DSM,Digital Side Mirror,디지털 사이드 미러. 기존의 광학 사이드 미러를 카메라와 모니터로 대체 - 고화질 카메라와 OLED 모니터를 활용해 다양한 환경에서 광학 미러보다 월등히 좋은 후방 시야를 제공,-
+DSM,Driver Status Monitoring,첨단 운전자 상태 감지. 센서를 통해 운전자의 안면 위치를 감지하여 주행 중 집중하도록 돕는 기능. Denso 등에서 사용,-
+DSP,Digital Signal Processor,음향신호 분석을 위한 제어 컴퓨터,-
+DSW,Driver State Warning,운전자 상태 경고,-
+DSW,Driver State Warning,-,-
+DTC,DIAGNOSTIC TROUBLE CODE,고장을 ECM이 감지하여 표출하는 방식을 규격화 해놓은 코드(엔진/변속기/ABS/에어백 등등),-
+DTC,Dynamic Traction Control,휠 슬립 제어를 통하여 눈 또는 모래와 같은 미끄러운 노면에서의 초기 가속을 용이하게 한다.,-
+DTE,Distance To Empty,주행 가능 거리. 전기자동차의 주행가능거리를 산출함,-
+DTG,Digital Tacho Graph,디지털 운행기록계,-
+DTV,DISC THICKNESS VARIATION,브레이크 디스크의 원주방향 두께 편차.,-
+DUAL MODE MFLR,DUAL MODE MUFFLER,중속 이상에서 POWER UP을 하기 위한 장치로서 고급차의 승차감을 향상 시키기 위해 SILENT/SPORT 모드의 2개로 구성된다. 모드 선택은 운전자가 임의로 선택하며 SILENT 모드 선택시 중속 이하의 회전력에서 전환밸브를 닫고 SPORT 모드에선 항상 밸브를 고회전 부하시 압력,-
+DUAL O2 SNSR,DUAL OXYGEN,이중 산소 센서.,-
+DUAL SW,DUAL SWITCH,에어콘 관련 스위치로 온도 SETTING에 따라 작동.,-
+DUAL_PRESS_SW,DUAL PRESSURE SWITCH,"두 개의 압력 설정치(저압 및 고압)를 갖고 한 개의 스위치로 두 가지의 기능을 수행한다. ① A/CON SYSTEM내에 냉매가 없거나 외기온도가 0℃ 이하인 경우, S/W를 ""OPEN""시켜 COMPRESSOR CLUTCH로의 전원 공급을 차단하여 COMPRESSOR의 파손을 예방한다. ② 고압측 냉매 압력을 감지, 압력이 규정치 이상으로 올라가면 스위치를 접점을 ""OPEN""시켜 전원 공급을 차단하여 A/CON SYSTEM을 이상 고압으로부터 보호한다.",-
+DUM,DUMMY,예를 들어 메인의 스위치류를 보면 옵션이 너무 많기 때문에 대부분 STD로 처리를 하는데 헤드램프 워셔와 같이 북미 사양에만 들어가는 시스템은 내수의 경우와이어링에는 컨넥터가 있지만 상대편 컨넥터가 없기 때문에 와이어링의 컨넥터는 단지 마감만 하게 되고 이를 DUM,-
+DURA,DURABILITY,내구성.,-
+DUST IND,DUST INDICATIOR,공기 필터에 먼지의 상태를 감지하여 운전자에게 경고등을 표시.,-
+DUST SENSOR,-,에어 필터에 먼지가 끼면 이를 감지하여 경고등을 보여준다.,-
+DV,DESIGN VALIDATION,제품이 정해진 사용자의 요구 및/ 또는 요구사항에 적합하다는 것을 보장하는 수단으로 성공적인 설계 검증이 이루어진 후에 고객 프로그램 일정 요구사항과 연계되어 최종제품으로 실차조건하에서 수행하는 것이 바람직하다.,-
+DVD NAVI,DIGITAL VERSATILE DISC,"DVD 항법 장치. DVD에 의한 3D 입체지도 및 지번에 의한 상세지도를 표시하고 다양한 부가 안내정보(교통, 관광, 숙박 등) 제공 및 검색속도 향상을 추구",-
+DVP,Design Validation Process,"ELECTRICAL TEST(통전, 절연저항,전압강하, 과전류 시험) MECHANICAL TEST( 진동, 충격, 낙하, 콘넥터 삽입력, 토크시험) ENVIROMENTAL TEST( 고,저온, 온도상승, 방수및염수, DUST, 절연저항 시험) DURABICITY(내구성) TEST(KEY LIFE 시험) 등을 통해 DESIGN의 유효성을 검",-
+DVP,Design Verification Plan,설계 검증 계획.,-
+DVRS,Drive Video Record System,"빌트인 캠(Built-in Cam). 일종의 주행 영상기록장치. 내장형 블랙박스로 인포테인먼트 화면 및 스마트폰과 연동되며 전후방 고화질 녹화, 주차 중 녹화(보조배터리 장착 시), 충격감지 모드가 탑재됨. (DVRS 사용 지양)",-
+DVV,DOUBLE VACUUM VALVE,이중 진공 밸브.,-
+DWL,Dynamic Welcome Light,"다이나믹 웰컴 라이트. 운전자가 다가가거나 주차하고 멀어질 때, 자동차가 빛으로 인사를 하는 듯한 감성풀질을 고려한 기술.",-
+DWS,Distance Warning System,차간 거리 확보로 사고를 방지하는 SYSTEM. (차간 안전 거리를 입력후 그 범위 이내 들어가면 경보),-
+DWS,Driver State Warning,운전 상태 경고 시스템.,-
+DYN,DYNAME,직류 발전기.,-
+E.B.D,ELECTRONIC BRAKE FORCE DISTRIBUTION,"자동 제동력 분배 시스템(승차인원, 화물 적재량, 노면상태, 코너링 여부에 따라 제동력을 자동 조절해 주므로 기존 ABS에 비해 제동거리, 제동력을 자동 조절해 주므로 기존 ABS에 비해 제동거리, 제동안전성이 향상된 차세대 ABS입니다.",-
+E.O,ENGINEER CHANGE ORDER,MASTER 도면이 나온후 사양변경내역서를 반영하여 출도되는 도면을 말한다.,-
+E.T.R,ELECTRONIC TUNNING RADIO,희망 주파수를 전자식 BUTTON(SEEK. TUNE)을 사용하여 수신하는 방식.,-
+E/D,EXPIRY DATA,유효기간.,-
+EARTH,EARTH,접지.,-
+EAS,ELECTRONIC AIR SUSPENSION,전자식 에어 서스펜션.(자동차 내부 센서를 통해 받는 데이터를 근거로 차고를 전자적으로 제어하는 시스템),-
+EAS,ELECTRONIC SELF-LEVELING AIR SUSPENSION,노면 상태나 주행 상황에 따라 최적의 차 높이를 유지해 주는 전자 제어 에어 서스펜션 적용 차종 : 뉴체어맨 자료 출처 : http://ilgan.joins.com/life/200510/03/200510031104345601100000100400100405.html,-
+e-ASD,e-Active Sound Design,액티브 사운드 디자인. 엔진 사운드와 실시간으로 디자인한 가상 사운드를 결합해 차량 성격에 어울리는 입체적인 사운드를 연출하는 기술,-
+EB,EARTH BASE,LIGHT SW(EB),-
+EBD,Electronic Brakeforce Distribution,"전자식 제동력 분배장치. 승객 및 화물의 적재에 따른 전,후륜 무게 변화를 감지하여 브레이크 압력을 분배하여 공차시와 같은 수준의 제동력을 확보하는 제동성능 향상장치(ABS에 포함되는 기능)",-
+EBD ABS,ELECTRONIC BRAKE-FORCE DISTRIBUTION ABS,"승객 및 화물의 적재 여부에 따라 변화하는 전,후륜 무게 변화에 따라서 BRAKE 압력을 변화시켜 제동성능 향상.",-
+EBOM,Engineering Bill Of Materials,"E-BOM, 설계부품표",-
+EBS,ELECTRONIC BATTERY SENSOR,전자식 배터리 센서.BSD(배터리 상태 예측)을 위해 필요한 센서,-
+EBS,ELECTRONIC BRAKE SYSTEM,각종 SENSOR와 ECU를 이용하여 최적의 제동상태를 유지해주는 전자제어 BRAKE SYSTEM.,-
+EC,EUROPEAN COMMUNITIES,유럽공동체.,-
+ECAS,Electronically Controlled Air Suspension,운전자가 리모컨 조작을 통해 차량 높이를 변환해 주는 전자 제어 에어 서스펜션,-
+ECC,ELECTRICALLY CONTROLLED CARBURETOR,전자 제어식 기화기.,-
+ECC,ELECTRONICS CONCENTRATED ENGINE CONTROL,엔진의 전자 집중 제어.,-
+ECD,Engineering Change Description,"기술사양변경내역, 기술사양변경내역서,기술사양변경통보서,사양변경 (추가/삭제) 에 사용되는 양식 (= 도면 배포 시 별도 첨부 파일)",-
+ECE,ECONOMIC COMMISSION EUROPE,유럽 경제 위원회. 유엔 산하의 유럽 경제 위원회이며 유럽의 대부분 국가가 가입되어 있음,-
+ECE,ECONOMIC COUNCIL FOR EUROPE,유럽 수출용 타이어 품질 인증 마크,-
+ECFI,ELECTRONICS CONTROLLED FUEL INJECTION,전자 제어 연료 분사.,-
+ECGI,ELECTRONICS CONTROLLED GASOLINE INJECTION,전자 제어 가솔린 분사.,-
+ECI,ELECTRONIC CONTROL INJECTION SYSTEM,전자 제어 연료 분사 장치.,-
+ECIMS,ENGINEERING CAD INFORMATION MANAGEMENT SYSTEM,도면설계 시작부터 기술관리 EO발행까지 전자결재를 통한 CAD 도면 관리 시스템.,-
+ECM,Electro-Chromic Mirror,"전자 감응식 실내 미러. 야간 주행 시, Mirror에 노출되는 빛의 세기에 따라 거울의 반사율을 자동으로(전기적으로) 제어하여 눈부심을 방지하는 백미러",-
+ECM,ELECTRONIC CONTROL ENGINE MOUNT,전자 제어 엔진 마운팅,-
+ECM,ELECTRONIC CONTROL MODULE,기판과 집적회로로 구성된 전자적인 CONTROL 장치(ENGINE ECU),-
+ECM,ELECTRONIC CONTROL MODULE,배출가스 제어를 조절하는 모듈.,-
+ECN,ENGINEERING CHANGE NOTIFICATION,NOTHING,-
+ECO,ENGINEERING CHANGE ORDER,"설계정보를 관련 부문에 전달하기 위해 변경 전,후의 상태를 그림으로 나타내 E.O에 첨부한 양식.",-
+ECO,ENGINEERING CHANGE ORDER,사양변경지시서,-
+ECOS,ELECTRICAL CKECK OUT SYSTEM,NOTHING,-
+ECPS,ELECTRONIC CONTROL POWER STEERING,차속과 스티어링 휠의 조향력에 따라 콘트롤 유니트가 스티어링 어셈블리에 장착된 모터의 전류를 제어하여 파워 어시스트를 하는 시스템.(전자제어 파워 스티어링),-
+ECR,ENGINEERING CHANGE REQUEST,설계 변경 요구서(의뢰서),-
+ECS,ELECTRONIC CONTROL SUSPENSION,현가장치를 전자식으로 속도 또는 노면 상태에 따라 조정함. (전자 제어 현가 장치) 차량의 높이와 서스펜션의 특성 (스프링 상수 및 감쇠력)이 컴퓨터에 의해 자동 조절. 주행 조건이나 노면 상태에 따라 지상고나 감쇄력을 변경하여 최적의 승차감이나 조향 성능을 유지하게 해 주는 장치,-
+ECS,EMERGENCY COMMUNICATION SYSTEM,"차량내 장착된 통신 단말기를 통하여 사고, 고장, 비상사태 발생시 외부센터에 자동으로 통보해주는 시스템",-
+ECS ACTR,ELECTRONIC CONTROL SUSPENSION ACTUATER,전자 제어 현가 장치 작동기.,-
+ECS COMP,ELECTRONIC CONTROL SUSPENSION COMPRESSOR,압축기. HARD/SOFT 전환을 위한 압축 공기를 생성.,-
+ECS CUT-OFF SW,ELECTRONIC CONTROL SUSPENSION CUT-OFF SWITCH,주행조건이나 노면 상태에 따라 지상고나 감쇄력을 변경하여 최적의 승차감이나 조향 성능을 유지하게 해 주는 장치를 OFF하는 스위치.,-
+ECS DIODE,ELECTRONIC CONTROL SUSPENSION DIODE,전자 제어 현가 장치 보호용 다이오드.,-
+ECS G/SNSR,ELECTRONIC CONTROL SUSPENSION GRAVITY SENSOR,중력을 감시하는 센서.,-
+ECS HEIGHT SNSR,ELECTRONIC CONTROL SUSPENSION HEIGHT SENSOR,지상고를 감시하는 센서.,-
+ECS PRESS RLY,ELECTRONIC CONTROL SUSPENSION PRESS RELAY,ECS 압력용 릴레이.,-
+ECS PRESS SW,ELECTRONIC CONTROL SUSPENSION PRESS SWITCH,쇽 업소버와 관련된 압력 스윗치.,-
+ECS SOL,ELECTRONIC CONTROL SUSPENSION SOLENOID,주행조건이나 노면 상태에 따라 지상고나 감쇄력을 변경하여 최적의 승차감이나 조향 성능을 유지하게 해 주는 장치,-
+ECS SW,ELECTRONIC CONTROL SUSPENSION SWITCH,전자 제어 현가 장치 작동 스윗치.,-
+ECS UNIT,ELECTRONIC CONTROL SUSPENSION UNIT,주행 조건이나 노면 상태에 따라 지상고나 감쇄력을 변경하여 최적의 승차감이나 조향 성능을 유지하게 해 주는 장치.,-
+ECS VAL,ELECTRONIC CONTROL SUSPENSION VALVE,전자 제어 현가 장치를 작동시키는 유압 밸브. 차고 조정 중 공기 압력 조절 및 SOLENOID VALVE를 개폐시킴으로서 SUSPENSION 특성을 HARD/SOFT로 전환 시키는 기능.,-
+ECT,ELECTRIC CAB TILTING,"캡 틸트는 전동 유압식이며 모터로 오일 펌프를 구동하여 유압을 발생시켜 캡 틸트 실린더로 캡을 OPEN, CLOSE 할 수 있는 시스템이다. 풀 플로팅 캡은 주행중의 진동이 직접 실린더에 전달되지 않도록 실린더 내부에서 진동을 흡수 할 수 있는 구조이다.",-
+ECT SW,ELECTRONIC CONTROL TRACTION SWITCH,차가 코너를 돌때 속도에 따라 차의 균형을 맞춰 코너링을 좋게하는 장치의 작동 스윗치.,-
+ECTS,ENGINE COOLANT TEMPERATURE SENSOR,"엔진 냉각수의 온도를 측정하는 센서입니다. 엔진의 공회전 스피드에 영향을 미치며 라디에이터 팬을 작동시키는 기준 ECTS = CTS, WTS CTS = COOLANT TEMPERATURE SENSOR WTS = WATER TEMPERATURE SENSOR",-
+ECU,ELECTRONIC CONTROL UNIT,"전자 제어 장치. 작동 SENSING SIGNAL을 토대로 엔진의 연료량 및 공기량, 점화시기 등을 조정. MPI 차량의 두뇌로서 ENG을 정상 상태로 조절하고, 열효율을 높여서 연료를 절약하고, 차량의 고장 상태를 감지하여 사고를 예방하는 등 자동차의 모든 부위를 감지하여 최적 상",-
+ECU,ENGINE CONTROL UNIT,"엔진 전자제어 장치.차의 공연비 및 출력, 배기가스를 제어하는 전자제어 UNIT",-
+ECU CONT RLY,ELECTRONIC CONTROL UNIT CONTROL RELAY,ECU 작동을 조절하는 장치. (시동 릴레이)(F/PUMP RLY+MAIN RLY),-
+ECU EARTH,ELECTRONIC CONTROL UNIT EARTH,ECU 접지.,-
+ECU WIRG CONN,ECU WIRING CONNECTOR,ECU 와이어링 콘넥터,-
+ECU_ECAS,-,"전자제어장치가 센서에서 입력 받은 주행정보를 종합해, 차체의 자세와 높이 등을 제어하는 장치",-
+ECV,Electromagnetic Control Valve,전기 마그네틱 컨트롤 벨브,-
+EDB,ELECTRICAL DISTRIBUTION BOX,"JUNCTION BOX 와 뜻하는바가 같다. 업체, 나라별로 EDB 혹은 J/BOX를 택일하여 사용함.",-
+EDMS,ELECTRONIC DATA MANAGEMENT SYSTEM,"문서관리 프로세스에서 발생하는 모든 정형 비정형 문서를 체계적으로 분류하여 통합, 관리하고 강력한 검색 기능을 제공하여 신속하고 편리하게 활용할 수 있도록 해주는 시스템.",-
+EDPS,ELECTRONIC DATA PROCESSING SYSTEM,전산 자료 처리 장치.,-
+EDR,Event data recorder,사고기록장치.,-
+EDU,EGR Drive Unit,엔진부 배기가스 재순환 장치,-
+EEC,ELECTRONIC ENGINE CONTROL,엔진 통합 전자 제어.,-
+EEC,EUROPEAN ECONOMIC COMMUNITY,유럽 경제 공동체.,-
+EEC,EVAPORATIVE EMISSION CONTROL,연료 증발 가스 발산 방지 장치.,-
+EEGR VALVE,ELECTRICAL EXHAUST GAS RECIRCULATION VALVE,EGR의 양을 조정하기 위하여 ECU에 의해서 제어되는 솔레노이드 밸브.,-
+EEV,Electronic Expansion Valves,전자팽창밸브,-
+EEWP,Engine Electric Water Pump,엔진 전자식 워터펌프,-
+EFA,ELECTRONICALLY FULL AUTOMATIC AIR CONDITIONER,전자 제어 오토 에어콘.,-
+EFD,Emergency Fastening Device,정면 충돌 시 앞좌석 승객의 골반 쪽 벨트를 순간적으로 잡아당겨 하체를 보호하는 안전벨트의 효과를 한층 높여 주는 장치,-
+F/CUT SOL,FUEL CUT SOLENOID,연료 차단 솔레노이드. 급 감속시 ECU로부터 신호를 받아 ON되어 주 조정 스크류 쪽의 연료를 차단한다.,-
+F/FILLER OPENER SW,FUEL FILLER OPENER SWITCH,연료 공급 뚜껑 개/폐 스윗치.,-
+F/FIXED,FULL FIXED WINDOW BUS,BUS SIDE WINDOW에 고정된 창문으로 개폐가 불가함.,-
+F/L,FACE LIFT,"차량 LIFE CYCLE 중간에 상품성 개선 및 IMAGE 제고를 위해 모델 일부분(바디,엔진,샤시)을 개선 변경하는 것(예:승용->휀더,후드/상용->프론트 판넬) 후속차량인 경우 기본 프레임은 그대로 유지하고 겉모양만 살짝 바꾸는 것.",-
+F/LIFT,FACE LIFT,동일 SERIES 모델에 대한 부분적 개량.,-
+F/LINK,FUSIBLE LINK,대전류 용량의 FUSE 기능으로 FUSE BOX 전원과 분리되어 운용됨.,-
+F/LINK BOX,FUSIBLE LINK BOX,대전류 ITEM을 FUSE BOX를 거치지 않고 분리시킴. 대전류 용량의 FUSE 기능으로 SHORT나 과전류 보호 방지.,-
+F/PRESS SOL,FUEL PRESSURE SOLENOID,연료 압력 조절기.,-
+F/PUMP,FUEL PUMP,연료 펌프. 연료 탱크의 연료를 압송하여 인젝터에 공급하는 펌프.,-
+F/PUMP CHK,FUEL PUMP CHECKER,연료 펌프 점검 장치.,-
+F/PUMP MTR,FUEL PUMP MOTOR,연료를 공급하는 모터,-
+F/PUMP RLY,FUEL PUMP RELAY,연료 공급 모터를 구동하기 위한 릴레이,-
+F/PUMP SNSR,FUEL PUMP SENSOR,연료 공급 모터의 고장 상태를 감지하여 운전자에게 경고등 표시.,-
+F/SLIDE,FULL SLIDE WINDOW BUS,BUS SIDE WINDOW 전면 여닫이가 가능한 구조.,-
+F/SNDR,FUEL SENDER,연료량을 측정하여 클러스터에 알려주는 장치. 연료 탱크에 위치하고 있음.,-
+F/T SNSR,FUEL TEMPERATURE SENSOR,인젝터 부위의 연료 온도를 감지하여 ECU에 FEED BACK하는 온도 감지 센서.,-
+F/TANK,FUEL TANK,연료 탱크.,-
+F/TANK MTR & SNDR,FUEL TANK MOTOR AND SENDER,연료량을 측정하여 클러스터에 알려주는 장치. 연료 탱크에 위치하고 있음.,-
+F/UP,FOLLOW UP,사후 관리.,-
+F_LINK,FUSIBLE LINK,"FUSIBLE LINK는 높은 전압을 주었을 때 회로를 단절시키는 연결방식이다. FUSIBLE LINK도 FUSE와 비슷한 동작을 한다. FUSIBLE LINK의 특징은 다음과 같다. 1. FUSIBLE LINK는 한번 차단되면 그 부분을 다시 복구해야 동작하는 것이고, 차단 방법에서도 단선이 되는 것을 의미한다. 또한, 회로보호기(CIRCUIT BRAKER)와 다르게 차단 시간도 느린편이다.",-
+FA1,FUNCTIONAL ASSEMBLY 1,차량 개발 일정의 PROTO 단계를 표시하는 약어로 PROTO 단계를 나누어 구분 할 때의 첫단계를 말함. 두번째나 개선 단계는 FA2(FUNCTIONAL ASSEMBLY 2)로 표시함.,-
+FA2,FUNCTIONNAL ASSEMBLY 2,1차 시작이후 평가를 통한 설계 변경이 반영된 Proto Car 제작.,-
+FADE,FADE,계속해서 브레이크를 밟으면 브레이크 라인링의 재질을 변형시켜 마찰계수가 떨어져서 브레이크를 밟아도 미끄러지는 현상.(베이퍼 록 현상 참조).,-
+FAM,Front Area Module,차량/실내 전방부에 장치된 기기의 통신모듈,-
+FAST BACK,FAST BACK,몸체 뒤쪽이 지붕의 경사처럼 비스듬한 스타일이다.,-
+FATC,FULL AUTO AIR CONDITIONER TEMPERATURE CONTROL,"차량상태(냉각구온, COMPRESSOR 작동상태, 실내온도, 설정온도 등)와 주변환경(외기온, 일사량, 습도등)을 FATC제어 UNIT에서 감지하고 이에 따라 냉,난방 장치(송풍기,TEMPERATURE DOOR, MODE DOOR, INTAKE DOOR, COMPRESSOR등)를 제어하여 차실내 온도를 목표 온도로 유지하는 시스템",-
+FB,FEED-BACK,환원 장치.,-
+FBC,FEED BACK CARBURETOR,전자 제어 기화기 엔진. 배기가스를 재순환 시켜 연소 시키는 전자식 카뷰레타 엔진.,-
+FBM,FEED BACK MIXTURE,전자 제어 믹스 엔진.,-
+FBM C/U,FEED BACK MIXTURE CONTROL UNIT,궤환 혼합 조정 장치 (Feed Back Mixer system). 전자제어식 LPG 연료공급장치로서 유해한 배기 가스를 최소한으로 감소하여 적정한 공연비를 공급. 컴퓨터는 각종 센서로부터 신호를 받은 다음 판독하여 각종 제어 밸브를 적절히 ON OFF시켜 공연비를 조절.,-
+FBSV,FEED BACK SOLENOID VALVE,"86년형 이전의 ELECTRONIC 카뷰레타 연료, 유량을 제어하는 전자 장치.",-
+FBWS,FRONT BACK WARNING SYSTEM,전후방 경보 시스템,-
+FC,FUEL CELL,연료전지. 축전지와 연료를 겸용으로 하는 차량.,-
+FCA,Forward Collision-Avoidance Assist,"전방 충돌방지 보조 시스템. FCW의 기능이 확장된 시스템으로 전방의 차량, 장애물과의 충돌 위험을 경고하는 것은 물론 차량의 제동 및 조향까지 제어하는 시스템.",-
+FCA w/ ESA,Forward Collision-Avoidance Assist with Evasive Steering Assist,전방 충돌방지 보조 (회피 조향 보조 기능 포함),-
+FCA w/ ESA,Forward Collision-Avoidance Assist with Evasive Steering Assist,-,-
+FCA-Car,Forward Collision-Avoidance Assist-Car,전방 충돌방지 보조-차량,-
+FCA-Car,Forward Collision-Avoidance Assist-Car,-,-
+FCA-Cyc,Forward Collision-Avoidance Assist-Cyc,전방 충돌방지 보조-이륜차,-
+FCA-Cyc,Forward Collision-Avoidance Assist-Cyc,-,-
+FCA-JC,Forward Collision-Avoidance Assist-Junction Crossing,전방 충돌방지 보조-교차 차량,-
+FCA-JC,Forward Collision-Avoidance Assist-Junction Crossing,-,-
+FCA-JT,Forward Collision-Avoidance Assist-Junction Turning,전방 충돌방지 보조-교차로 대향차,-
+FCA-JT,Forward Collision-Avoidance Assist-Junction Turning,-,-
+FCA-LO,Forward Collision-Avoidance Assist-Lane-Change Oncoming,전방 충돌방지 보조-추월시 대향차,-
+FCA-LO,Forward Collision-Avoidance Assist-Lane-Change Oncoming,-,-
+FCA-LS,Forward Collision-Avoidance Assist-Lane-Change Side,전방 충돌방지 보조-측방 접근차,-
+FCA-LS,Forward Collision-Avoidance Assist-Lane-Change Side,-,-
+FCA-Ped,Forward Collision-Avoidance Assist-Ped,전방 충돌방지 보조-보행자,-
+FCA-Ped,Forward Collision-Avoidance Assist-Ped,-,-
+FCCU,Fuel Cell Control Unit,-,-
+FCEV,FUEL CELL ELECTRIC VEHICLE,수소 연료 전지차. 수소와 산소의 결합시 발생하는 전기 에너지를 이용하여 주행하는 전기 자동차 (일반적인 전기차의 다른 형태로 저장된 전기를 사용하는 것이 아닌 전기를 생성하여 구동하는 자동차),-
+FCM,Front-view Camera Module,카메라로 입력된 전방의 영상을 분석하는 별물형 제어기.,-
+FCS,FUEL CELL SYSTEMS,"연료전지 시스템. 수소,메탄을 연료로 하는 연료전지 시스템",-
+FCU,Fan Coil Unit,-,-
+FCU,Fuel cell Control Unit,"연료전지 시스템, 전력 분배, 구동 제어 등을 제어하는 최상위 제어기",-
+FCV,FUEL CUT VALVE,연료 정지 밸브.,-
+FCW,Forward Collision Warning,전방 충돌 경고 시스템. 전방 차량과의 충돌 위험이 감지됐을 때 운전자에게 위험을 경고하는 주행안전 시스템.,-
+FCW,Forward Collision Warning,-,-
+FDC,Fuel-cell DC-DC Converter,수소연료전지 DC-DC 컨버터. 수소연료전지스택으로부터 받은 전압을 승압해 고전압 배터리를 충전하고 동시에 모터를 구동하는 인버터에 전력을 공급하는 장치,-
+FDR,FORMAL DESIGN REVIEW,공식적 설계/개발검토를 뜻함 :다음단계로의 진행여부 판단(Sign-off),-
+FEEDING POINT,급선점.,GLASS ANT PATTERN부에서 수신된 신호를 다음단으로 출력시켜주는 부위.,-
+FEM,Front End Module,"자동차 프런트 앤드 모듈. 차량 전방측 범퍼에서부터 엔진 직전까지의 모듈을 뜻함 (라디에이터, 헤드램프, 범퍼 빔, 캐리어, AAF 등 엔진룸 앞쪽 기능 부품들을 통합하여 완성차 업체에 공급하는 제품 단위)",-
+N,안승민,2022-02-11 pm 1:24:23,-
+FET,FIELD EFFECT TRANSISTOR,전계 효과 트랜지스터. 게이트-소스간의 전압에 의한 정전계로 소스-드레인간의 전류를 제어하는것.,-
+FF,FRONT ENGINE FRONT DRIVE,"전륜구동. 차량 전방 엔진 배치, 앞 바퀴로 구동하는 방식 - 통상적인 승용차량에 적용 - 장단점 : 차량 실내공간확보 유리, 차량 중량 배분 불리",-
+FFC,Flexible Flat Cable,연성 평면 케이블. 납작하고 유연한 납작한 단선 도체를 사용하는 다양한 전기 케이블을 뜻함.,-
+FFC,FLEXIBLE FLAT CIRCUIT,기존의 WIRING HARNESS를 박막 동판으로 회로를 구성하여 FILM LAMINATE 처리하여 절연한 형태의 차세대 WIRING HARNESS.,-
+FFV,FLEXIBLE FUEL VEHICLE,"메탄올, 에탄올을 혼합한 연료로 주행하는 자동차",-
+FIA,FEDERATION OF INTERNATIONAL AUTOMOBILE,국제 자동차 연맹.,-
+FIAV,FIRST IDLE AIR VALVE,1차 공기 조절 밸브.,-
+FICD,FIRST IDLE CONTROL DEVICE,무 부하 엔진 출력 촉진 조절 장치.,-
+FIS,FOUR WHEEL INDEPENDENT SUSPENSION,4륜 독립 서스펜션.,-
+FIS,FRONT IMPACT SENSOR,앞쪽 충격 센서로 이 신호에 의해 A/BAG의 작동 됨.,-
+FIS,FRONT IMPACT SENSOR,"A/BAG SYSTEM의 일부로서, 전방에서 발생하는 충격을 감지하여 A/BAG(DRV AND/OR ASS)을 작동시키기 위한 충격 감지 센서 통상, 용량 : 0.2mA, 정상소비전류 : 5~8mA, 최대구속전류 : 35mA로 설정.(INFORM 참고)",-
+FISA,FEDERATION INTERNATIONAL DES SPORTS AUTOMOBILE,국제 자동차 스포츠 연맹.,-
+FISITA,FEDERATION OF INTERNATIONAL SOCIETES D'INGENIEURS,국제 자동차 기술 국제 연맹. (파리에 본부가 있음.),-
+FLA,Flooded Lead Acid,납-축전지. 모든 배터리는 내부에서 화학반응을 일으켜 전기를 축적하기 위해 '전해액'을 사용하는데 전해액이 액체상태인 배터리를 Flooded Type라 칭함.,-
+FLAP DOOR,-,"버스의 SIDE나 REAR에 설치되어 차체 하부에 있는 기능 PART의 장비 점검시 또는 화물적재시, 외부에서 열수 있도록 차체에 HINGE 된 문을 말함.",-
+FLASHER UNIT,-,turn signal lamp 구동용 relay,-
+FLEXRAY,FLEXRAY,CAN과 LIN의 저속 데이터 전송 기술을 대체하는 차세대 통신 프로토콜.,-
+FLR,FLOOR,바닥.,-
+FLR HARN,FLOOR HARNESS,플로어 하네스,-
+FLVV,FILL LIMIT VENT VALVE,"주유량에 따른 급유차단, 급유/평상시 연료 탱크내 증발가스를Canister로 VENT",-
+FM,FIELD MAAINTENANCE,야전장비,-
+FMC,FULL MODEL CHANGE,"기존차종을 단종하고 후속차종 개념으로 내장, 외장, 엔진, 샤시전반에 걸쳐, 전면적으로 개선 변경하는 모델",-
+FMCW,Frequency Modulated Continuous Wave,"주파수 변조 연속파 레이더. FM(변조된 송신파)를 수신받아 발생하는 주파수를 이용하여 거리특성을 알 수 있는 방식으로 속도, 거리측정이 가능. 안테나를 두 개 이상 사용할 경우, 위치를 파악할 수 있는 방식",-
+FMEA,FAILURE MODE EFFECTS ANALYSIS,미리 예상되는 문제점을 찾아내어 그 영항과 요인을 분석하는 방법(고장형태 및 영향분석),-
+FMED,Flywheel Mounted Eletric Device,병렬식 HEV의 한 방식으로 Soft type hybrid. 플라이휠에 BATT가 장착되는 형식으로 크기 제한이 있어서 EV Mode가 불가능하며 연비개선효과가 크지 않음. (ref. TMED),-
+FMS,Fleet Management System,"전기버스의 배터리 충전 현황, 실시간 차량 위치 조회, 차량 운행 정보 등 차량과 관련된 다양한 빅데이터 분석 및 관리가 가능한 전기버스 전용 원격 관제 시스템",-
+FMVSS,FEDERAL MOTOR VEHICLE SAFETY STANDARD,미 연방 자동차 안전 기준.,-
+FO,FORCAST ORDER,예상(예측) 오더.,-
+FO,FUTURE OBJECT,미래를 상징하는 차(신차 PROJECT 명),-
+FOMS,Friction-Optimized Moving System,마찰 저감 무빙 시스템.,-
+FOOT LP,FOOT LAMP,운전자의 발부분을 밝혀주는 램프.,-
+FOOT P/BRK LP,FOOT PARKING BRAKE LAMP,족동식 주차용 브레이크 스윗치.,-
+FOTA,Firmware Over-The-Air,펌웨어 원격 업데이트 기술 (ref. SOTA(Software Over-The-Air)),-
+FPC,Fuel Pressure Control,연료 압력 조절기,-
+FPCM,Fuel Pump Control Module,연료 펌프 컨트롤러 모듈.,-
+FPCV,Fuel Pressure Control Valve,연료 압력 조절 밸브,-
+FPD,Flat Panel Display,평판 디스플레이.,-
+FPM,Finger Print Module,"지문 인식 기술.지문 인증을 통한 차량 내 간편 결제(카페이)와 시동 기능, 그리고 개인화 기술까지 연동",-
+FPO,FINISH PAINT OUT,전착도장에 대한 표면처리 표기.,-
+FPS,Fuel Processing System,수소공급장치. 시스템 출력에 따른 수소 압력 제어를 통하여 필요한 수소량을 스택에 제공함,-
+FPSC,First Production Shipment Certification,초도양산부품인증. 양산 납품을 전제로 양산과 동일한 조건으로 초도 생산된 부품이 도면과 기술표준 요구사항에 부합하 는지의 여부를 중요 관리항목에 대한 전수검사 및 공정능력 측정을 통해 사전 품질을 확인하는 것이다.,-
+FR,FRONT ENGINE REAR DRIVE,"후륜구동. 차량 전방 엔진 배치, 뒷 바퀴로 구동하는 방식 - 고급승용차, 트럭등에 사용 - 장단점 : 승차감 및 차량 중량배분 유리, 차량 중량 상승",-
+FR C/LIGHTER,FRONT CIGAR LIGHTER,운전자쪽 CIGAR LIGHTER.,-
+FR COMBI LP,FRONT COMBINATION LAMP,전조 복합등.,-
+FR DMPR MTR,FRONT DAMPER MOTOR,앞 제동 모터.,-
+FR DR SW,FRONT DOOR SWITCH,앞쪽문이 열리면 계기판에 신호해주는 스윗치.,-
+FR ECS ACTR,FRONT ELECTRONIC CONTROL SUSPENSION ACTUATER,앞 좌석 전자 제어 현가 장치 작동기.,-
+FR ECS SOL,FRONT ELECTRONIC CONTROL SUSPENSION SOLENOID,앞 좌석 전자 제어 현가 장치용 솔레노이드.,-
+FR FOG LP,FRONT FOG LAMP,전방 안개등. 야간 주행시 일기 불순 지역에서 차량 운행시 보행자나 다른 차량이 원거리에서 판별 가능토록 하는 주위 표시등.,-
+FR FOG LP SW,FRONT FOG LAMP SWITCH,전방 안개등 작동 스윗치.,-
+FR HEIGHT SNSR,FRONT HEIGHT SENSOR,전고 감지 센서. (차 앞부분의 차고 높이),-
+FR S/SNSR,FRONT SPEED SENSOR,ABS용 속도 감지기. 바퀴의 회전수 감지 및 DISK BRAKE의 회전수를 일정하게 조정.,-
+FR SEAT HARN,FRONT SEAT HARNESS,프론트 시트 하네스,-
+FR T/SIG LP,FRONT TURN SIGNAL LAMP,앞 방향 지시기.,-
+FR WASHER MTR,FRONT WASHER MOTOR,앞 유리창 세척용 물을 뿜기 위한 모터.,-
+FR WPR MTR,FRONT WIPER MOTOR,우천시 앞쪽 유리면의 빗물을 제거하기 위한 와이퍼 동작 모터.,-
+FRE,FREsh,에어컨 외기모드.,-
+FRM,FRAME,프레임.,-
+FRONT,전면.,NOTHING,-
+FRONT ENGINE REAR DRIVE,전기관 후륜 구동.,NOTHING,-
+FRONT GUARD,-,적재물의 전방 쏠림에 의해 CAB 보호를 위한 적재함 (DECK) 전방향에 위치한 보호용 구조물.,-
+FRT,FRONT,앞,-
+FRT_DEICER,FRONT DEICER,앞유리 & 와이퍼 결빙 방지 장치,-
+FRU,Face Recognition Unit,얼굴 인식 유닛.,-
+FSIS,FRONT SIDE IMPACT SENSOR,"A/BAG SYSTEM의 일부로서 측면에서 발생하는 충격을 감지하여 SIDE A/BAG을 전개시키기 위한 충격 감지 센서 통상 용량 : 0.2mA, 정상소비전류 : 5~8mA, 최대구속전류 : 35mA로 설정.",-
+FSS,FULL SERVICE SUPPLIER,NOTHING,-
+FTC,FREQUENCY TRAVEL CONTROL,주파수 감응 제어기.,-
+FTCS,FULL TRACTION CONTROL SYSTEM,"얼음이나 눈, 비로 인한 저마찰로에서 발진 및 가속時 차륜 SLIP에 의한 발진성, 가속성, 등판성, 조향성 불능 등의 문제를 엔진 동력 및 브레이크를 이용 각 차륜의 SLIP 현상을 방지시킴으로서 ①발진성/가속성/등판성 향상 ②조향성능 향상 등을 도모할 수 있는 장치이다.",-
+FTIV,Fuel Tank Isolation Valve,PHEV의 ECU 신호에 따라 연료증발가스를 캐니스터로 배출하거나 차단하여 연료탱크의 적정압력을 유지하는 장치.,-
+FTP,FEDERAL TEST PROCEDURE,"미국 배출가스 시험 절차. 미국 연방 대기 환경법에 지정되어 있는 배출가스 시험 절차로써, 시험모드에는 LA-4 모드가 있음",-
+FTP,Foil screened Twisted Pair,"이더넷 케이블 중에 하나로 피복 안쪽을 호일로 한 번 감싸고 그 호일 안쪽에 구리접지선을 추가한 형태. (Ref : UTP, STP)",-
+FTPS,FUEL TANK PRESSURE SENSOR,연료탱크의 압력을 감지하는 센서,-
+FTS,Fuel Temperature Sensor,연료온도센서. 연료의 온도를 검출하여 주입할 연료량을 결정할 때 필요한 정보를 ECU로 송부,-
+FUDS,Federal Urban Driving Schedu,"도심주행모드. (ref. HWFET, NEDC)",-
+FUEL CONSUMPTION(연비),-,차량의 연료 소비율,-
+FUEL FILLER DOOR,FUEL FILLER DOOR,주유구 개패 조절 장치,-
+FUEL PUMP,-,연료 탱크의 연료를 기화기 또는 인젝터에 공급해주는 장치.,-
+FUEL PUMP BURNER,FUEL PUMP BURNER,연료를 태워서 엔진 온도를 올려주는 히터,-
+FUEL SENDER,-,연료 탱크의 연료량을 검출하여 게시판의 연료 게이지에 보내 주는 장치를 말함.,-
+FUEL TEMPERATURE SENSOR,FUEL TEMPERATURE SENSOR,연료 온도 감지 센서,-
+FULL LIFE EFFICIENCY,FULL LIFE EFFICIENCY,-,-
+FULL TOOL,FULL TOOL,"ALL TOOL 조건에 추가로 작업자, 환경, 생산 공정조건 (FEED, SPEED, CYCLE TIME, PRESSURE, TEMPERATURE)등이 양산과 동일한 상태에서 제작된 부품생산",-
+FUNCTION AND FITNESS VALIDATION,FUNCTION AND FITNESS VALIDATION,-,-
+FUSE & RLY BOX,FUSE AND RELAY BOX,퓨즈와 릴레이를 박스화 한것.,-
+FUSE BOX,FUSE BOX,F/LINK를 거치는 전원을 제외한 나머지 전원을 적정량의 FUSE를 이용하여 SHORT 발생시 회로를 보호하는 장치.,-
+FVCRL,FUSE VS CURRENT ROUTE LIST,FUSE와 전류의 경로를 나열한 양식,-
+FWD,FRONT WHEEL DRIVE,전륜 구동.,-
+FYI,For Your Information,(업무 용어) 참고 바람.,-
+G.C.W,GROSS COMBINATION WEIGHT,견인차량의 GVW 상태에서 견인 가능한 TRAILER 중량과 견인 차량 GVW의 합.,-
+G.V.W,GROSS VEHICLE WEIGHT(차량 총중량),완성차 상태에서 차량이 허용할 수 있는 최대적재 상태의 중량,-
+G/BOX,GEAR BOX,기어박스,-
+G/BOX LP,GLOVE BOX LAMP,"운전석 우측에 있는 소품, 잡 부품을 담는 박스를 밝혀주는 램프.",-
+G/BOX LP SW,GLOVE BOX LAMP SWITCH,소품을 담는 박스를 밝혀주는 점등 스윗치.,-
+G/SNSR,GRAVITY SENSOR,가속 감지 센서. 높이/위치 감지 센서.,-
+GA,GRADE ABILITY,등반 능력. 자동차가 화물을 싣고 변속기 제1단에서 올라갈 수 있는 최고의 경사.,-
+GAP,GAP,-,-
+GAS,GASOLINE,휘발유.,-
+GAS LIFTER,-,"차량의 HOOD, TRUNK. TAIL GATE 등의 개폐시 충격 완화 및 힘을 발생시키는 장치.",-
+GASKET,-,SPEAKER의 음이 SPEAKER 그릴과 SPEAKER 사이로 흩어지는 것을 방지하기 위해 SPEAKER와 GRILLE 사이를 밀착시켜 주는 것.,-
+GAWR,Gross Axle Weight Rating,총 축하중량.,-
+GBT,"Guobiao ( ??, 구오비아) / T ( 推?, 트이찌에, recommended)",중국 전기차 충전 표준,-
+GCU,GLOW CONTROL UNIT,예열 제어 장치.,-
+GDI,GASOLINE DIRECT INJECTION,EMS 시스템에서 연소실 내에 연료를 직접 분사하는 방식(실린더 내부 직접분사 방식),-
+GDS,Global Diagonostic System,"자동차 표준 진단 프로그램. 진단/계측/장비의 모든 기능을 동시에 실시하여, PC화면을 통한 진단 결과에 따른 정비정보를 제공",-
+GDU,Gear Deceleration Unit,기어 감속 장치.,-
+GEN,GENERAL,"전반적, 일반적.",-
+GL,GRAND LUXIRIOUS,최고로 호화롭게 꾸민차.,-
+GLASS ANT,GLASS ANTENNA,자동차의 뒷유리에 열선과 같이 붙어 있는 안테나.,-
+GLOW BOX TML,GLOW BOX TML,글루어 박스 터미널,-
+GLOW PLUG,-,냉시동시의 연소실 예열 장치. <기계> 디젤 엔진의 실린더 안에 부착된 소형 가열기. 시동을 걸기 전에 실린더 속의 공기를 미리 데우는 데 쓴다.,-
+GM/I,Ground Monitoring/Interrupt,접지 이상.,-
+GND,GROUND,접지.,-
+GO & STOP SYSTEM,-,"교통체증이 심한 거리에서 전방 차량이 저속으로 가다 서다를 반복할 경우, 차량을 자동 주행케하는 시스템",-
+GOJIRE,고지리,컨넥터 또는 사출물에 오삽입 및 오결합 방지.,-
+GOVERNOR,-,차량의 운행 조건에 맞도록 연료의 분사량을 조절하는 장치.,-
+GPC,Global Partnership Center,글로벌 상생협력 센터.,-
+GPC,Global Product Certification,품질경영시스템 심사원 인증 프로그램,-
+GPF,Gasoline Particulate Filter,가솔린 미립자 필터. 배기가스규제에 대응하기 위해 GDI엔진이 배출하는 입자상 물질을 저감하는 장치,-
+GPS,GLOBAL POSITIONING SYSTEM,전 세계 측위 시스템으로 GPS 위성을 CNS를 지원하는 시스템.,-
+GPU,Graphics Process Unit,그래픽 카드 칩. 그래픽 작업을 병렬 처리하여 사용자에게 출력해주는 역할.,-
+GRADEABILITY,-,최대 적재 상태에서 운행할 수있는 최대 경사각,-
+GS,GRAND SPORTS,당당한 스포츠 카.,-
+GSC,Gear Shift Cylinder,기어 쉬프트 실린더. 유압으로 각 기어를 제어,-
+GSP,GENUINE SPARE PARTS,순정 부품. 순수하게 A/S용으로만 사용되는 부품.,-
+GSPS,G SENSING PROPORTIONING VALVE,적재량을 감지하여 제동시 감속도와 브레이크 유압을 감지 제어하는 장치.,-
+GT,GLOVE TOP,세계 자동차 회사 선두주자,-
+GT,Grand Tourer,이탈리아어 Gran Turismo 그란 투리스모 약자. 영어로는 그랜드투어러(Grand Tourer). 장거리 운전을 목적으로 설계된 고성능의 자동차,-
+GTL,Gas to Liquid Products,천연가스를 액체화하는 공정,-
+GTS,Gas Temperature Sensor,"가스 온도 측정센서. 연료압력 조절기 Unit Body에 설치되어 있으며, 서미스터(Thermistor) 소자의 원리를 이용하여 LPG 온도를 측정하여 ECU로 송부, ECU는 이 온도 값을 이용하여 계통 내의 LPG 특성을 파악하여 분사시기를 결정함",-
+GV,GENERATION VEHICLE,차기세대 전술 차량.,-
+GVI,Global Value Innovation,전반적인 가치 혁신.,-
+GVPM,Global Vehicle Position Module,차량에 고정밀 GPS 정보와 TIME SYNC 정보를 제공하는 ECU.,-
+GVW,GROSS VEHICLE WEIGHT,차량 최대 허용 중량. 공차중량+승차정원+최대적재량,-
+GW,GROSS WEIGHT,총 중량.,-
+GT,grand touring car,GT는 그랜드투어링카(grand touring car)의 약어로 장거리 여행에 적합한 고성능 자동차를 말한다.,-
+H/CONT ILL,HEATER CONTROL ILLUMINATION,히터 조정기의 조명 장치.,-
+H/FREE,HANDSFREE,운전중 핸드폰이 아닌 마이크와 스피커를 통해서 통화가 가능함,-
+H/LP,HEAD LAMP,"야간 보안 장치로서 LOW BEAM, HIGH BEAM, TAIL로 되어 있으며 고속도로를 제외한 2차선 및 시내 주행시에는 HI BEAM을 사용하지 못하도록 규제하고 있음. 헤드램프는 2등식과 4등식이 있는데 2등식은 LOW시 LOW, HIGH시 HIGH LAMP가 점등이 되고, 4등식은 LOW시 LOW, HIGH시",-
+H/LP C/MTR,HEAD LAMP CLEANER MOTOR,전조등에 먼지 및 오물을 제거하기 위하여 물뿌림을 하는 장치.,-
+H/LP WASHER MTR,HEAD LAMP WASHER MOTOR,전조등 와셔 모타. (= H/LP C/MTR),-
+H/LP WASHER RLY,HEAD LAMP WASHER RELAY,H/LP의 워셔모터를 구동하기 위한 릴레이,-
+H/LP WASHER SW,HEAD LAMP WASHER SWITCH,전조등 와셔 작동 스윗치.,-
+H/RESISTOR,HEATER RESISTOR,난방 장치를 위한 저항기. HEATER MOTOR의 속도를 조정하는 조정기.,-
+H/UNIT,HYDRAULIC UNIT,"ABS, ESP용 모터+밸브+ECU구조의 유니트. 각부위 센서로부터 입력신호를 ECU에서 연산하여 밸브 및 모터를 이용하여 각바퀴의 유압을 제어하는 역할",-
+HA,HYUNDAI AFTER,"양산 시점 전,후에 관계없이 실차 또는 대상 성능시험 및 내구력 시험을 완료하고 설계자의 품질 요구 수준을 만족하여야 하는 부품.",-
+HAC,HILL START ASSIST CONTROL,언덕길에서 정차후 발진시 브레이크 제어를 통해 차량이 뒤로 밀리는 것을 방지하는 기능 (ESC 연계)효과 - 차량 밀림 방지를 통한 언덕길 주행안정성 향상,-
+HAC SYSTEM,HIGH ALTITUDE COMPENSATION SYSTEM,HAC SYSTEM은 HAC와 ADDITIONAL BLEED AIR LINE으로 구성되었으며 고지에서 대기압이 낮아지므로 이를 보상하기 위한 시스템.,-
+HACI,HYUNDAI AUTO CANADA INCORPORATED,현대 자동차 캐나다 법인.,-
+HAD,Highway Autonomous Driving,"고속도로 자율주행. 레이더와 레이저 레이더(Light Detection And Ranging radar, LiDAR)를 채택하여 차선 표시를 읽어 차량이 차선을 유지하고 추월하거나 다른 도로로 이동.",-
+HAI,HOT AIR INTAKE,난기 도입 장치.,-
+HAND RAIL,-,입석 승객의 안전성 확보를 위한 차축 방향의 PIPE.,-
+HAOS,hyundai ASSAN OTOMOTIV SANAYIVE TICARET A.S,현대자동차 터키 공장.,-
+HATCH BACK,HATCH BACK,왜건으로서의 다용도성을 활룡해 합리적으로 설계한 승용차다. 차의 뒤쪽에 뚜껑을 단 스타일로 뒷문을 열면 실내와 바로 연결된다.,-
+HAV,HOT AIR CONTROL VALVE,냉난기 제어 밸브.,-
+HAZARD RLY,HAZARD RELAY,비상 경고등.,-
+HAZARD SW,HAZARD SWITCH,비상 스윗치.,-
+HBA,High Beam Assist,하이빔 보조. 야간 및 저조도 환경에서 마주 오는 차량 운전자의 눈부심을 최소화하면서 전방 가시거리를 최대한 확보하기 위해 하이빔의 작동을 제어하는 주행안전 시스템.,-
+HBA,High Beam Assist,-,-
+HBA II,High Beam Assist II,하이빔 보조 II,-
+HBA II,High Beam Assist II,-,-
+HCC,Heated Catalysts Controller,가열식 촉매 제어기.,-
+HCS,HEIGHT CONTROL SYSTEM,차량의 중량에 따라 차고를 조절하는 시스템.,-
+HCU,Heater Control Unit,공조 관리 유닛.,-
+HCU,Hybrid Control Unit,하이브리드차만의 특징적인 기능을 운영하는 제어기.,-
+HDA,Highway Driving Assist,"고속도로 주행 보조. 장시간 달려야 하는 고속도로 및 자동차 전용도로 주행 중 운전자의 피로를 낮춰주기 위한 주행편의 시스템. (고속도로 또는 자동차 전용도로에서 본선 내에 자동차가 올바르게 운행되고 있다고 판단되면, 주행 속도를 운전자가 설정한 속도 또는 도로의 제한속도에 맞춰 스스로 운행하는 기술)",-
+HDA,Highway Driving Assist,-,-
+HDA Ⅱ,Highway Driving Assist Ⅱ,고속도로 주행 보조 Ⅱ,-
+HDA Ⅱ,Highway Driving Assist Ⅱ,-,-
+HDC,Hill Descent Control,경사로 저속 주행장치. 언덕 내리막길에서 정속주행될수 있도록 컨트롤 하는 기능이며 ESP사양에 기능이 내장되어 있다.,-
+HDP,Highway Driving Pilot,고속도로 자율주행,-
+HDP,Highway Driving Pilot,-,-
+HEATED STR'G WHEEL,HEATED STR'G WHEEL,겨울철 스티어링 휠에 내장된 열선의 발열로 짧은 시간안에 GRIP부 온도를 상승시켜 운전 편의성을 향상,-
+HEMS,HYUNDAI ENGINE MANAGEMENT SYSTEM,운전 상황에 따라 점화 시기와 연료 분사등을 전자 제어하여 최적으로 엔진 성능을 집중 CONTROL하는 시스템.,-
+HEV,HYBRID ELECTRIC VEHICLE,ENGINE과 전기 MOTOR를 병용하여 POWERTRAIN을 구성한 자동차를 말함.,-
+HEWCS,ELECTRICAL WIRING CAD SYSTEM,전장설계 / 전장해석 및 지원 시스템.,-
+HF EOP,High Flow Electric Oil Pump,고유량 전동식 오일펌프. DCT 기어 윤활과 클러치를 냉각시키는 윤활용 전동식 오일펌프. (엔진 회전수에 관계없이 펌프를 구동하여 냉각에 필요한 충분한 오일을 공급 & 기어들이 보다 부드럽게 돌아갈 수 있도록 윤활),-
+HFM,Hot Film Air mass flow SNSR,열막식 공기량 센서. 흡입 공기량을 직접 계측하는 방식(MAFS. Mass Air Flow Sensor)중에 하나로 핫 필름(Hot Film)을 이용해서 흡입되는 공기량을 측정함.,-
+HI BLOWER RLY,HIGH BLOWER RELAY,송풍기의 작동을 고속으로 하기위한 릴레이.,-
+HIC,HOT IDLE COMPENSATOR,고온때의 공전 보상 장치.,-
+HID,-,"제논 헤드라이트. 필라멘트를 사용하지 않고 벌브(Bulb)에 충전되어 있는 가스에 고전압을 쏘아 전극 사이의 방전을 통해서 빛을 내는 방식. 할로겐 헤드라이트에 비해 수명이 길고 더 밝으며, 소비 전력이 낮은 덕분에 발열이 작아 변형도 적음.",-
+HID H/LAMP,HIGH INTENSITY DISCHARGE HEAD LAMP,"제논, 수은 등이 가스를 주입한 캡슐에 전압을 가하여 전극 사이의 플라즈마 방전에 의한 빛을 방출하여 광량 정량화와 조사범위 확대로 뛰어난 야간 시인성을 제공하는 안정성이 향상된 전조등. 할로겐 헤드라이트에 비해 수명이 길고 더 밝으며, 소비 전력이 낮은 덕분에 발열이 작아 변형도 적음.",-
+HIE,Hydrogen IR-Emitter,"수소 충전구 적외선 송출기, 충전기와 차량 사이에 적외선 신호를 주고 받으며 차량 탱크 내 압력을에 맞춰 수소를 얼마나 더 넣을지 결정함",-
+HILS,Hardware-In-the-Loop Simulation,"실제 하드웨어를 포함하는 시뮬레이션 기법. 가상 환경에서 집중적으로 테스트할 컴포넌트들을 실시간으로 시뮬레이션 하면서 closed loop에서 메카트로닉 시스템, 특히 전자제어장치(ECU, electronic 제어 units)를 동작",-
+HI-SCANTOOL,-,자기진단에 이용되는 CHECK TOOL,-
+HITCH MEMBER,-,유럽지역에서 주로 사용되는 TRAILER(EX:캠핑용 차량)을 견인하는 차량에 연결하는 장치.,-
+HJ,HONEST ZONE,저지대 유도탄,-
+HL,HEAD LAMP LOW,LIGHT SW(HL),-
+HLL,Hidden Lighting Lamp,"히든 라이팅 램프. 시동이 꺼졌을 때는 그릴의 일부처럼 보이지만, 시동을 켜면 전면부 양쪽에 별이 떠있는 모습으로 LED를 점등함.",-
+HLLD ACTR,HEAD LAMP LEVELING DEVICE ACTUATOR,"전조등 높이(상,하) 조절 장치. 야간 주행시 운전자의 핸들 조작시 전조등 방향이 연동되게 하는 장치로서 운전을 용이하게 하는 기능.",-
+HLLD SW,HEAD LAMP LEVELING DEVICE SWITCH,"전조등 높이(상,하) 조절 스윗치. HLLD 작동 장치.",-
+HMA,HYUNDAI MOTOR AMERICA,현대 자동차 미국 현지 법인.,-
+HMI,Human-Machine Interface,사람과 기계의 상호 작용. 운전자들이 흔히 보이는 패턴을 분석하여 손이 닿기 쉬운 곳에 적절한 기능을 배치해 직관적으로 조작할 수 있도록 디자인하고 버튼을 배열한 것,-
+HMIL,Hyundai Motor India Limited,현대 자동차 인도 공장.,-
+HMM,HONDA MULTI-MATIC,HONDA에서 개발한 무단 변속기로써 CVT와 유사하다. HLLD 작동 장치.,-
+HMSL,HIGH MOUNTED STOP LAMP,RR SPOILER나 RR GLASS의 상단 또는 하단에 설치하여 후방 또는 후후방 운전자에게 차량 제동시 상황을 조기 인식시켜 추돌을 방지하기 위한 보조제동등.,-
+HMU,Hydrogen storage Management Unit,수소저장시스템 제어.,-
+HMU,Hydrogen storage system Management Unit,수소 탱크 시스템 제어기,-
+HOD,Hands On/Off Detection,-,-
+HOME LINK,HOME LINK,"집안의 시스템(실내등, 보일러, 차고문…)을 리모콘으로 조작할 수 있는 기능이 있을 시 리모콘의 주파수를 차량의 HOME LINK내에 입력하여 차량에서 제어가 가능하도록 한 시스템(북미 사양) - ECM과 통합됨.",-
+HOOD SW,HOOD SWITCH,엔진 뚜껑을 여는 스윗치.,-
+HORN,HORN,"경음기로서 차량의 가장 앞쪽에 위치하며 HI, LOW로 구분되어있다.",-
+HORN RLY,HORN RLY,경고음을 구동하기 위한 릴레이,-
+HOT SHOT,HOT SHOT,성애 및 이물질 제거를 위해 WASHER액을 가열 시키는 장치,-
+HP,HORSE-POWER,마력.,-
+HP EOP,High Pressure Electric Oil Pump,고압 전동식 오일펌프. DCT 변속기 제어를 위해 오일을 공급하는 제어용 전동식 오일펌프. (변속기 제어에 필요한 유압을 축압기에 공급 및 축압기의 압력이 일정 범위를 유지하는 역할),-
+HPC,High-Performance Computing,고성능 컴퓨팅. 고급 연산 문제를 풀기 위하여 슈퍼컴퓨터 및 컴퓨터 클러스터를 사용하는 것.,-
+HPC(AV COMPUTER),High Performance Compute,"High Performance Compute. 자율주행의 가장 상위 제어기. 각종 센서(카메라, 레이더, 라이더, 안테나 등)으로부터 정보를 받아 연산 후 차량 주행을 제어.",-
+HPCU,Hybrid Power Control Unit,"하이브리드 전력 제어 모듈. 하이브리드 시스템 제어는 물론, 모터 제어 및 고전압 배터리의 전압을 12V로 변환하는 기능 등을 수행. 구동 모터 & HSG(Hybrid Starter Generator: 하이브리드 스타터 제너레이터) 토크를 제어하는 인버터(Inverter) & 차량의 구동력을 분배하고 차량 운전 모드를 관장하는 HCU(Hybrid Control Unit) & 차량 전 장부하에 전원을 공급하고, 보조 배터리를 충전하는 LDC(직류 변환 장치)로 구성",-
+HPP,High Pressure Pump,고압 연료펌프.,-
+HPS,Hydraulic Power Steering,유압식 파워스티어링. 차량의 스티어링을 보다 쉽고 편하게 하기 위해 유압의 힘을 빌리도록 한 것,-
+HS1,HEAD LAMP SIGNAL 1,LIGHT SW(HS1),-
+HS2,HEAD LAMP SIGNAL 2,LIGHT SW(HS2),-
+HSA,Hill-Start Assist,경사로 밀림 방지장비,-
+HSG,Hybrid Shaft Gernerator,엔진시동/고전압 충전,-
+HSG,Hybrid Starter Generator,"친환경 차종 시동발전기. 배터리의 전기에너지를 사용하여 엔진 시동을 걸어주고, 배터리의 충전율 저하 시 엔진의 동력을 이용하여 발전하고 배터리에 전기에너지를 충전함",-
+HSL,HOT SOAK LOSS,고온 소크 시험. 차량이 주행완료한 상태에서 차량연료탱크내 연료의 온도가 상승하였을때 자연적으로 증발되는 증발가스의 누출 여부를 확인하는 시험.,-
+HSM,Hardware Security Module,"제어기 ECU에 내장된 보안 모듈로서, 자동차 제어기 S/W에 향상된 암호화 기능 및 위/변조 방지 기능을 제공.",-
+HTCS,High Tumble Combustion System,고텀블 연소 시스템.,-
+HTD ACTR,HEATER ACTUATOR,열선 작동 장치.,-
+HTD GLASS,HEATED GLASS,열선 유리.,-
+HTD MIRR,HEATED MIRROR,열선 반사경.,-
+HTD TIMER,HEATED TIMER,HTD GLASS의 작동 시간을 20분동안 작동 시킨 후 OFF 시키는 장치.,-
+HTR ILL,HEATER ILLUMINATION,히터 조명.,-
+HTRAC,Hyundai TRACtion,"현대자동차 AWD (4WD) 기술명. 현대자동차를 의미하는 영문 이니셜 'H'와 4륜 구동 시스템의 기술적 특성을 상징하는 'Traction(구동, 선회)의 합성어.",-
+HU,HEAD LAMP UP,LIGHT SW(HU),-
+HUD,HEAD UP DISPLAY,차량의 주행 정보가 앞창 유리에 반사되어 운전자가 시선의 이동 없이 주행 상태를 알고 제어 할수 있는 전자 경보 시스템. Combiner / Windshield / AR 방식이 있다,-
+HUMIDITY SNSR,HUMIDITY SENSOR,습도 감지기.,-
+HV,High Voltage,고전압,-
+HVAC,HEATER VENTILATED AIR CONDITIONING,공조 시스템,-
+HVAC,HEATER VENTILATED AIR CONDITIONING,공조시스템,-
+HVI,Human Vehicle Interface,"사람과 자동차의 상호 작용. 운전자가 보다 효율적인 방법으로 자동차와 소통(interaction)할 수 있도록 지원하는 시스템 (운전자에게 ‘필요한 정보’가 ‘적절한 시기’에, ‘쉽게 지각할 수 있는 형태’로 제공되어 ‘올바른 판단’을 할 수 있도록 지원)",-
+HVIL,High-Voltage Interlock Loop,"(HV용어) 고전압 커넥터 인터락 루프. 고전압 커넥터를 탈거할 때, 무조건 고전압 계통 차단시켜 안전하게 정비하도록 하는 역할.",-
+HWFET,ighWay Fuel Economy Test,"고속도로주행모드. (ref. FUDS, NEDC)",-
+HYBRID CAR,HYBRID CAR,하이브리드 차량 : 두가지 이상의 동력원을 사용하는 차량을 총칭하는 운송수단으로 본 연구에서는 엔진과 모터의 두 동력원을 탑재한 차량을 의미한다,-
+HYD UNIT,HYDRAULIC UNIT,ABS 유압 조절 장치.,-
+HYDRAULIC CAB TILTING,-,CAB TILTING SYSTEM으로 CAB TILT'G을 유압장치로 작동하는 구조를 말함.,-
+HZ,HERTZ,주파수 단위.,-
+I.D CARD,IDENTIFICATION KEY,IMMOBILIZER 장착 차량에서 I.D 등록 후 보관하는 KEY,-
+I/C,INTERCOOLER,과급장치가 부착된 엔진에서 가압된 흡입 공기를 냉각해주는 장치.,-
+I/HDL_MOOD_LP,INSIDE HANDLE MOOD LAMP,VI(에쿠스 후속)차종의 Door Extn 에 적용되는 신규 시스템,-
+I/P ABAG,I/P BOX AIR BAG,I/P BOX 에어백,-
+I/P J/BOX,INPANEL JUNCTION BOX,실내에 위치하는 정션 박스.,-
+I/PNL,INSTRUMENT PANEL,앞 계기판. CRUSH PAD와 같은 의미로 쓰임.,-
+I/S MIRR,INSIDE REAR VIEW MIRROR,자동차의 실내에 장착되어 있는 실내 후사경을 말함.,-
+I/UP SOL,IDLE UP SOLENOID,"엔진 공회전(무부하) 출력 상승 솔레노이드. H/LP, HEATER 및 P/STEERING 등이 작동할 때에도 전기적 부하로 엔진의 RPM이 떨어져 엔진의 공회전 상태가 불안해 진다. 이를 방지하기 위하여 INTAKE MANIFOLD의 부압 통로를 열어서 공회전을 안정시키는 솔레노이드.",-
+I/UP SOL VALVE,IDLE UP SOLENOID VALVE,IDLE시 RPM을 안정 시키기 위해서 IN-MAIN의 VACUMM을 이용하여 보상 시켜줌. (1450RPM ± ) (RPM:REVOLUTIONS PER MINUTE ),-
+IACU,Integrated Air Cleaning Unit,공기를 이용해서 외부 센서를 닦아주는 제어기,-
+IATF,International Automotive Task Force,"유럽과 미국을 통합하는 글로벌 규격으로 탄생한 자동차 관련 품질시스템 요구사항(설계,개발,생산,설치 및 서비스)",-
+IAU,Identity Authentication Unit,"스마트폰 디지털 키. 스마트폰만 있으면 시동에서 주차까지 모두 가능하게 만드는 시스템. (NFC와 BLE 사용자 인증 기술을 통해 디지털 키를 공유할 수 있고, 접근 권한 관리까지 가능)",-
+IAU,Intelligent Authentication Unit,차량 키를 별도로 소지하지 않아도 스마트폰의 NFC를 통해 도어를 개폐 및 시동을 가능하게 제어하는 사용자 인증 유닛,-
+IBAU,Integrated Brake Actuation Unit,"통합 브레이크 엑츄에이터 장치. 친환경 차량에서 모터 제동을 위해 제동 요구량을 파악하고, 각 유압 제어하여 페달 답력 확보함.",-
+IBJ,IN BOARD JOINT,D/SHAFT 조인트중 차량 내측(T/M 또는 DIFF)에 장착되는 조인트 주로 슬라이딩 조인트가 장착됨,-
+IBMS,Intelligent Battery Management System,지능형 배터리 관리 시스템.,-
+IBS,Intelligent Battery Sensor,"배터리 상태(충전 상태, 노화 상태, 시동 능력 등)를 계산한 후 에너지 관리 제어기(엔진제어기 등)로 전송하여 최종적으로 연비 향상을 위한 발전제어 시스템, ISG(Idle Stop & Go) 시스템에 적용되는 부품.",-
+IBU,Integrated Body control Unit,통합 바디 제어기. BCM+SMK+TPMS를 통합한 제어기,-
+IC,INTEGRATED CIRCUIT,직접회로.,-
+IC,INTER COOLER,흡기 냉각기.,-
+IC ROUTE GUDIE,IC R/GUIDE,전자식 안내 시스템.,-
+ICC,In Cabin Camera,차량 내부 카메라.,-
+ICC,INTELLIGENT CRUISE CONTROL(지능정속 주행),레이다로부터 입력되는 전발 차량들의 정보를 종합하여 자차선내의 전방 차량과의 안전거리 유지 및 자동정속 주행 기능을 도시에 수행하는 시스템,-
+ICCB,In Cable Control Box,전기자동차 홈 충전 장치. 가정용 전원으로 EV/PHEV 충전시 필요한 안전성 확보를 위한 휴대용 충전기 제어장치,-
+IC-CPD,In-Cable Control and Protection Device,케이블 일체형 제어 및 보호 장치. 충전케이블에 제어 및 보호장치를 장착하여 충전기가 아닌 일반 콘센트에서 충전이 가능하도록 하는 표준.,-
+ICCS,INTELLIGENT CRUISE CONTROL SYSTEM,지능형 크루즈 콘트롤 시스템. 운전자가 스위치를 작동시키면 그 순간의 속도로 정속 주행을 하며 차량이 있을 경우에는 선행차량과의 적절한 거리를 유지하도록 스로틀과 브레이크를 자동으로 제어하여 주행 안정성 향상과 운전자의 편리성을 증대시키는 시스템.,-
+ICCU,In-Cable Control Unit,가정용 전원으로 EV/PHEV 충전시 필요한 안전성 확보를 위한 휴대용 충전기 제어장치.,-
+ICCU,Integrated Converter and Charger Unit,Converter/OBC 통합협 제품.,-
+ICCU,Intelligent Charge Control Unit,지능형 충전 제어 유닛.,-
+ICE,Internal Combustion Engine,내연 기관 엔진. 휘발유나 경유를 연료로 사용하는 엔진을 이용해 운동에너지를 얻는 내연기관 자동차,-
+ICH,Insulation Crimp Height,절연 클림프 높이 측정값,-
+ICM,INTEGRATED CIRCUIT MODULE,RELAY BOX 내부의 전선을 인쇄회로기판으로 대체하고 RELAY BOX와 배선을 I/O컨넥터로 연결하여 박스의 크기를 컴팩트하게 만든 모듈,-
+ICMS,In-Cabin Monitoring System,차량 내부 영유아 방치 방지 센서.,-
+ICS,IN CAR SENSOR,SEMI AUTO A/CON 적용시 차내 온도 및 습도 감지기.,-
+ICS,INTEGRATED CHILD SEAT,REAR SEAT BACK에 내장되어 있는 CHILD SEAT,-
+ICU,IMMOBILIZER CONTROL UNIT,전자적인 방법을 이용한 차량도난 방지 장치의 CONTROL UNIT,-
+ICU,Integrated Cental control Unit,통합제어유닛. 다른 제어기로부터의 요청을 Logic 신호 또는 CAN 신호를 통하여 입력 받아 ICU의 제어 Logic을 통하여 필요한 기능을 동작시키기 위한 출력을 공급하는 유닛,-
+ICV,INLET CHECK VALVE,연료주유시 압력상승으로 인한 연료의 역류를 방지하는 장치.,-
+ICW,Insulation Crimp Width,절연 클림프 폭 측정값,-
+ID,IN SIDE DIAMETER,내경.,-
+IDB,Integrated Dynamic Brake,지능형 통합 브레이크,-
+IDLE 조정 SW,-,트로틀 밸브가 공회전 개도를 검출하고 신호를 컴퓨터로 보낸다. 독립형과 트로틀 포지션 센서에 내장되어 있는 것이 있다. 독립해서 설치되고 있는 것은 수동으로 트로틀 개도를 조정하는 SAS(SPEED ADJUSTING SCREW) 를 겸하고 있다.(엔진 공회전을 조정하는 스우치),-
+IDLE POSITION SWITCH,-,ACCEL PEDAL을 밟았는지 놓았는지를 감지하여 ECU에 입력 시키는 스윗치. 이 신호는 공전 속도 조절 서보를 작동 시킴.,-
+IDLE SPEED ECM HOME LINK,IDLE SPEED ELECTRONIC CONTROL MODULE HOME LINK,"Idle Speed Control Valve, Idle Speed Control Actuator를 말하며 엔진의 공회전 속도를 조절하는 기능 함",-
+IDLE SW,IDLE SWITCH,"엔진 공회전(무부하) 출력 스윗치. 트로틀 밸브의 열림 상태(공회전 상태)를 ECU에 전송하여 공회전 상태를 검사하여 연료 분사량, 분사 시기, ISC SERVO를 제어.",-
+IEB,Integrated Electric Brake,"통합 전자식 브레이크. ESC, ABS 등의 유압시스템을 총괄하는 장치",-
+IEC,INTERNATIONAL ELECTROTECHNICAL VOCABULARY PUBILICA,국제 전자/기술 위원회.,-
+IFB,INTERFACE BOX UNIT,"LPI 엔진에서 기본적인 제어나 결정은 ECU에서 하지만 연료시스템 (인젝터 제어, 연료펌프제어, 연료차단 솔레노이드, 가스온센서, 가스압센서등)은 별도의 IFB라는 모듈에서 제어함.",-
+IFB,INTERFACE BOX UNIT,"LPI 엔진에서 기본적인 제어나 결정은 ECU에서 하지만 연료시스템 (인젝터 제어, 연료펌프제어, 연료차단 솔레노이드, 가스온센서, 가스압센서등)은 별도의 IFB라는 모듈에서 제어함.",-
+IFS,Intelligent Front-lighting System,"지능형 전조등. ADB(Adaptive Driving Beam)과 동일, 하이빔 주행 중 선행차 및 대항차 감지 시 해당 부분만 하이빔을 소등하는 시스템.",-
+IFS,Intelligent Front-Lighting System,-,-
+IGN COIL,IGNITION COIL,점화 코일. 12V의 전압을 150V~200V의 전압으로 변압. 플러그에 전기 스파크를 튀게 하기 위하여 고전압을 발생 시키는 일종의 변압기.,-
+IGN LOCK SW,IGNITION LOCK SWITCH,점화 장치 잠금 스윗치.,-
+IGN SW,IGNITION SWITCH,점화 스윗치. 점화 스윗치가 ON 되면 배터리 전압은 점화 스윗치에서 ECU로 흐르게 되며 또한 메인 릴레이 코일을 여자하기 위하여 ECU 내의 파워 TR을 구동시킨다. 이렇게 되면 메인 릴레이 스윗치가 ON 되어 전원은 메인 릴레이 스윗치를 통해 배터리에서 ECU로 공급된다.,-
+IGNITION SYSTEM,-,"압축 혼합기에 점화하여 연료를 연소시키는 장치로 점화코일, 배전기, 점화플러그등으로 구성된다.",-
+IGPM,Integrated Gateway and Power control Module,게이트웨이 통합 플랫폼 모듈. 통신 규약이 서로 다른 네트워크간의 데이터 처리를 가능하게 하는 게이트웨이를 SJB에 탑재.,-
+IHP,INDICATED HORSE-POWER,지시 마력.,-
+IHS,INTERGRATED HARNESS SYSTEM,"하네스 설계 프로그램으로 중량, 번들 싸이즈등의 정보를 얻을 수 있다. SWS사 사용주인 프로그램",-
+IIHS,Insurance Institute for Highway Safety,"미국 고속도로 안전보험협회. 1959년 설립된 비영리단체로, 매년 출시된 수 백대의 차량의 충돌 안정 성능과 충돌 예방 성능을 종합적으로 평가해 결과를 발표함.",-
+IL,Insertion Loss,(EMC 용어) 삽입 손실.입력단에 들어간 파워가 출력단으로 나오면서 소자(또는 회로) 내부의 손실 나타냄.,-
+ILC,IDLE LIMITER CAP,공전 조정 나사의 봉인.,-
+ILCU,Integrated LED Control Unit,-,-
+ILCU,Integrated Lighting Control Unit,자동차용 램프 LED광원에 전류를 공급 및 제어하는 모듈. 주로 차량 전조등에 사용되어 일반적인 On/Off 제어와 더불어 Sequential Turn Signal 등의 다양한 Lighting 기능을 구현,-
+ILDE STOP SYSTEM,-,연비향상을 위하여 3초 이상 정지시 시동을 자동 정지시키고 출발시 자동 시동됨.,-
+ILO,INTERNATIONAL LABER OFFICE,국제 노동 기구.,-
+ILS,INTEGRATED LOGISTICS SUPPROT,"무기체계의 효과적이고 경제적인 군수지원을 보장하기 위하여 무기체계의 소요자료 작성시부터 소요결정,설계,개발,획득 운영 및 폐기 시까지 제반 군수지원요소를 종합 관리하는 활동.",-
+ILS-P,INTEGRATED LOGISTICS SUPPORT PLAN,종합 군수지원 계획,-
+IMEB,Integrated Mobis Electronic Brake,"CBS 및 ABS와 함께 TCS, ESC, EMB,Brake by Wire, 회생제동 등 자율주행과 친환경 차량을 위한 모비스 제동시스템",-
+i-MEB,Integrated Mobis Electronic Brake,"CBS 및 ABS와 함께 TCS, ESC, EMB,Brake by Wire, 회생제동 등 자율주행과 친환경 차량을 위한 모비스 제동시스템",-
+IMMO UNIT,IMMOBILIZATION CONTROL UNIT,"차량의 도난을 방지하기 위한 시스템이며 기계적인 일치뿐만 아니라 TRANSPONDER이라는 메모리 칩이 고유 암화값을 가지고 있어 시동을 위해 KEY를 돌리면 KEY SET에 조립된 ANTENNA COIL이 TRANSPONDER의 암화값을 IMMO UNIT에전달하여 IMMO UNIT의 암호 값을 확인한 후 시동의 가,불가를 결정하고 ECU에 최종 정보를 제공하여 차량의 시동을 제어하여 도난을 방지하게 됨.",-
+IMMOBILIZER SYSTEM,-,차량 도난 방지를 위해 IGN. Key의 전자 신호를 감지하여 시동을 허용/불허하는 장치임.,-
+IMMS,INTEGRATED MAINTENANCE MANAGEMENT SYSTEM,"전산시스템에 의한 장비의 사양/이력, 점검/계획작업, 고장, 자재, 경비, 인력관리로 보전업무 표준화 및 각 본전부서간 DATA 공유를 통한 보전 업무 과학화를 위한 시스템",-
+IMS,INTEGRATED MEMORY SEAT,"운전석의 SEAT POSITION, INSIDE/OUTSIDE MIRROR, STEERING WHEEL등의 위치를 MEMORY하여 다른 운전자에게 착좌 자세를 쉽게 찾을 수 있는 SYSTEM",-
+IMS,INTERGRATED MEMORY SYSTEM,"운전자가 자신에게 맞는 최적의 시트위치, 아웃사이드 미러 위치 및 핸들 위치등을 IMS 컴퓨터에 입력시킬 수 있으며 다른 운전자가 운전하여 위치가 변경되었을 경우 IMS 컴퓨터는 기억시킨 위치로 자동 복귀시키는 편의장치.",-
+IMS MIRR MTR,INTERGRATED MEMORY SYSTEM MIRROR MOTOR,미러의 동작 모터의 위치를 기억시킴.,-
+IMS SW,INTERGRATED MEMORY SYSTEM SWITCH,IMS의 기능 ON OFF기능.,-
+IMT,INSERT MOUNT TECHNOLOGY,"삽입실장기술 PCB 기판의 Plated Through Hole 내 부품의 Lead를 삽입,납땜하는 방법을 말함.",-
+IMU,Inertial Measurement Unit,"관성 측정 장치. 3축 가속도센서와 2축 자이로센서 데이터를 사용하여 6개의 위치와 자세정보(x, y, z, roll, pitch, yaw) 중 Roll Pitch각을 구하는 ARS(Attitude Reference System) 모듈",-
+IMV,Inlet Metering Valve,주입구 계량 밸브. 레일 압력 조정 밸브로 고압펌프에 장착되어 있으며 펌프에서 레일로 송출되는 연료량을 조절하여 레일의 연료 압력을 제어하는 역할 → 분사 시스템의 효율을 높이고 리턴되는 연료의 압력 강하 범위를 축소시켜 압력 강하로 발생하는 열을 감소 시킴으로서 연료 탱크 온도를 낮춤,-
+IN,ITEM NUMBER,항목 수.,-
+INCAR_HUMIDITY,INCAR HUMIDITY,차량내 습도 감지기,-
+INDIRECT LIGHT'G,-,직접 조명이 아닌 간접 조명방식으로 버스의 좌측과 우측에 색깔이 들어간 아크릴 판으로 가려 간접조명을 비춘다.,-
+INDUSTRY AVERAGE,INDUSTRY AVERAGE,-,-
+INF,INFlator,인플레이터. 부풀게 하는 것을 뜻하며 통상적으로는 에어백 가스 발생 장치를 명칭함,-
+INHIBIT SW,INHIBIT SWITCH,"차단 스윗치. (A/TM ONLY) A/TM에서 변속기의 위치를 판정하는 SWITCH. 시동은 N과 P 위치에서만 걸린다. 이 신호를 ECU로 전달하여 변속기가 N, P위치임을 판정하게 하여 ISC SERVO를 구동하여 IDLE 회전수를 제어한다.",-
+INITIAL EFFICIENCY,INITIAL EFFICIENCY,-,-
+INITIAL PRODUCTION PART,INITIAL PRODUCTION PART,-,-
+INITIAL PRODUCTION TEST,INITIAL PRODUCTION TEST,-,-
+INITIAL TEST,초기 시험,"TEST A - 통전 시험, 절연저항 시험, 내전압 시험 TEST B - 필요시 부하를 포함한 열 상승 시험(IEC 6-2-14), 전류 통전시험을 을 통하여 기본적인 회로 테스트.",-
+INJ,INJECTOR,연료 분사기. ECU의 신호를 받아 SOLENOID를 작동 시켜 연료를 분사하는 장치. INJ는 솔레노이드 밸브를 가진 분사 노즐로 ECU에서 오는 분사 신호에 따라 연료를 분사한다. INJ 노즐의 구멍은 일정한 크기이며 연료 압력 또한 일정하기 때문에 분사량은 니들 밸브가 열린 시,-
+INJ HARN,INJECTOR WIRING HARNESS,인젝션 하네스,-
+INJECTOR CAMSHAFT POSITION SENSOR EXTENSION,INJECTOR CAMSHAFT POSITION SENSOR EXTENSION,인젝터 캠축 위치 센서,-
+INR,INNER,안쪽.,-
+INS,INSPECTION DRAWING,점검.,-
+INSPECT,INSPECTION,제품 품질 개선시까지 검수를 요하는 품목.,-
+INSPECTION AGREEMENT,INSPECTION AGREEMENT,-,-
+INSPECTION STANDARD,INSPECTION STANDARD,-,-
+INST DRG,INSTALLATION DRAWING,장착 도면.,-
+INST HARN,INSTRUMENT WIRING HARNESS,인스투루먼트 하네스,-
+INSTRUMENT CLUSTER,INSTRUMENT CLUSTER,"복합 계기로서 운전자가 한눈에 모든 상태를 파악 할 수 있도록 각종 IND 및 WARNING LP, GAUGE 등을 이용하여 각부의 이상 유무를 알리는 계기.",-
+INT,INTERIOR,내장.,-
+INT,INTERMITTENT,간헐적.,-
+INT,Internal,내부의,-
+INT,INTERRUPTER,차단기,-
+INT WPR RLY,INTERMITTENT WIPER RELAY,와이퍼의 동작을 간헐적으로 하기 위한 릴레이.,-
+INTAKE ACTR,INTAKE ACTUATOR,내외기 조절기. 외부의 공기를 차 실내로 유입하거나 실내의 공기를 순환시키는 작동을 선택하는 것,-
+INTAKE SUTTER,-,인테이크 셔터는 배기 브레이크 작동시 흡기다기관의 흡입공기를 작게하여 배기압이 피스톤에 효율적으로 적용 하게 함으로써 소음을 줄이고 브레이크 효율을 높인다.,-
+INTAKE SYSTEM,-,엔진을 작동시키기 위하여 실린더 안에 혼합기를 흡입하는 장치,-
+INTARDER,-,미션과 엔진사이의 시프티축에 강력한 자장을 일으켜 브레이크 역할을 하게 하는 장치(엔진안에 위치),-
+INTER LOCK,-,"2개 이상이 관련되는 기기 및 설비 등에 있어서 상호의 기능을 만족하기위해 서로의 조건을 조합하는 것을 이르는 것이다. 일반적으로, 설비 파손 방지 또는 안전 확보 등을 목적으로 해 인터록을 잡는다.",-
+INTER LOCK SW,-,PTO 사용시 차량의 움직임이 없어야 함으로 기어 상태는 중립상태가 되어야 한다. 따라서 PTO가 들어 갔을 때 동시에 기어가 들어가지 못하도록 서로 인터록을 걸어주어 작업의 안정성을 꾀함.,-
+INTERIOR,-,실내 내장품의 끝마무리.,-
+INTERLOCK SOL,INTERLOCK SOLENOID,변속기의 일부. 3~4단으로 선택한 상태를 나타내고 있다. 인접된 각 레일의 샤프트 러브에 인터록 플레이트가 물려 3~4단 이외에는 작동하지 않도록 하는 솔레노이드.,-
+INTERNAL QUALITY AUDIT,INTERNAL QUALITY AUDIT,-,-
+INTERNAL QUALITY AUDITOR,INTERNAL QUALITY AUDITOR,-내부품질심사원(ISO 내부심사원)- 심사에 대한 독립적인 권한을 가지고 품질심사(ISO 내부심사)를 수행하기 위해 자격이 부여된 사람,-
+ION GENARATOR,ION GENARATOR,-,-
+IoT,Internet of Things,"사물인터넷. 각종 사물에 센서와 통신 기능을 내장하여 인터넷에 연결하는 기술. 즉, 무선 통신을 통해 각종 사물을 연결하는 기술",-
+IP,Identification code for Protection,"외부 고체물질이나 액체물질에 대한 방진 보호 및 방수 등급이 어느정도인지를 나타내는 표시 (보호등급). 첫 번째 숫자는 방진 등급, 두 번째 숫자는 방수 등급",-
+IP,IMPORT PARTS,수입품.,-
+IP,INTIAL PRODUCTION(초도생산),군용차랑에 있어 최초로 양산 설비로 생산되는 차량을 말함.,-
+"IP, UH/BOX",-,"회로의 전원, 신호 분배를 하나에 집약 시켜 놓은 장치.",-
+IPD,Intelligent Power Device,반도체 스위치. 보호회로와 유도성 부하 등의 에너지 흡수 회로를 내장한 고성능 반도체 파워 스위치.,-
+IPM,INTELLIGENT POWER MOUDLE,"Intelligent Power Module의 약자로 기존의 Fuse , Relay를 대체하여 디지털 신호로 부하 작동을 가능케 하고, 동작 상태를 운전자가 직접 육안으로 확인토록 Warning이 가능한 콘트롤 모듈임.",-
+IPS,INTELLIGENT POWER SWITCH,"지능형 전원 스위치,",-
+IPSM,InPanel Switch Module,-,-
+IPXXB,International Protection XXB,국제보호등급(International Protection + Code) 중의 하나로 손가락 접근 방지 보호등급. 승객실 또는 짐칸(수화물 공간)을 제외한 공간에서 손가락 모형이 직접 접촉되는지 여부를 확인하는 항목.,-
+IPXXD,International Protection XXD,국제보호등급(International Protection + Code) 중의 하나로 철사(전선) 접근 방지 보호등급. 승객실 또는 짐칸 (수화물 공간) 안에서 철사 모형이 직접 접촉되는지 여부를 확인하는 항목.,-
+IQS,INITIAL QUALITY SURVEY,초기 시장품질 조사. J.D POWER社가 미국내에서 판매된 차량의 초기 3개월동안에 발생된 품질 문제를 조사하여 품질 불만족 점수로 나타낸 것(점수가 낮을수록 양호),-
+IRE,Initial Risk Evaluation,"부품 초기위험도 평가. 부품제조공정승인(PSO) 및 초도양산부품인증(FPSC)업무 등 사전품질확보 수행단계에서 중요부품에 대한 집중관리를 하기 위하여 제품기획 단계에서 부품별 초기위험도 평가를 통해 부품 중요도를 高,中,低로 구분하는 것이다.",-
+IRS,INDEPENDENT REAR SUSPENSION,후륜 독립 서스펜션.,-
+IS,INSIDE,내경.,-
+ISA,IDLE SPEED ACTUATOR,공회전 속도 조절 장치. ECU에서의 신호에 의하여 공기 흡입 호스와 서지 탱크에 연결된 BY-PASS 통로를 여닫는 액츄에이터에 의해 공기의 양이 조절되어 공회전 속도가 제어된다.,-
+ISA,INTELLIGENT SPEED ADAPTATION,도로상의 무선 송신 장치의 제한 속도를 수신하여 차량의 속도를 강제로 제한하여 교통사고를 예방하는 시스템,-
+ISC,IDLE SPEED CONTROL,엔진의 공회전 속도를 제어하는 장치. 엔진의 부하 상태 정보를 ECU에서 입수 및 적정 조건을 산출하여 트로틀 밸브를 개폐하여 IDLE을 조정하는 기능.,-
+ISC MTR,IDLE SPEED CONTROL MOTOR,ECU의 신호에 의한 공전 속도 제어용 모타.,-
+ISC SERVO,IDLE SPEED CONTROL SERVO,"트로틀 밸브를 BY-PASS하는 별도의 공기 통로에 설치되어 STEP MOTOR로 통로를 열고 닫음으로서 RPM을 조절할 수 있도록 ECU에서 제어됨. 이 시스템 모타는 전진, 후진 방향 설정이 자유롭고, ECU의 신호에 의해 매우 민첩하게 작동 되므로 MPS와 같은 FEED BACK SENSOR 등이",-
+ISCA,IDLE SPEED CONTROL ACTURATOR,엔진의 공회전 속도를 제어하는 장치. 엔진의 부하 상태 정보를 ECU에서 입수 및 적정 조건을 산출하여 트로틀 밸브를 개폐하여 IDLE을 조정하는 기능.,-
+ISG,IDLE STOP & GO,정차시 엔진OFF를 통한 연비 개선 및 CO2 배출량 감소 ->연비 개선 및 유럽지역 세제 혜택부여로 인해 적용 확대 추세,-
+ISIR,INITIAL SAMPLE INSPECTION REPORT,"초도 부품 검사 성적서.모든 부품에 해당하는 것으로 신뢰성,검사협정 보증을 말함. ESIR을 거쳐 설계 및 제품에 검증을 마치게 되면, 양산용으로 금형을 신규로 제작한뒤, 양산제품을 생산하게 된다. 이때 고객사에 양산품에 대한 검증자료로서 제출하는 것이 ISIR이다",-
+ISLA,Intelligent Speed Limit Assist,지능형 속도제한 보조시스템. 전방 카메라 또는 내비게이션의 제한속도 정보를 초과해 주행 시 경고. 수동 속도 제한 보조 (MSLA) 또는 스마트 크루즈 컨트롤 (SCC) 작동 시 운전자가 +/- 스위치를 조작해 제한속도에 맞춰 설정속도를 변경하는 기능을 제공,-
+ISLW,Intelligent Speed Limit Warning,지능형 속도제한 경고,-
+ISLW,Intelligent Speed Limit Warning,-,-
+ISO,INTERNATIONAL STANDARDIZATION ORGANIZATION,"국제 표준화 기구.국제 규격의 제정, 보급 및 제품/서비스의 국제적 교환을 촉진하기 위해 설립된 기구 (UN 산하기구)",-
+ISU,INTELIZENT SW UNIT,시멘스사가 개발한 J/BOX를 대신할수 있는 DEVICE.,-
+ITC,INTERCHANGABILITY INCORPORATED,호환성. 설계 변동시 신형과 구형 부품간의 공동 사용 결정.,-
+ITM,Integrated Thermal Management,통합유량제어밸브. 자동차 엔진을 통과한 냉각수의 배출량과 배출 방향을 조절하는 시스템.,-
+ITMS,Integrated Thermal Management System,통합열관리모듈. 엔진의 온도를 신속하게 조절해 연비를 높이고 엔진 내구성 및 가속 성능을 개선.,-
+IVI,In-Vehicle Infotainment,정보를 뜻하는 인포메이션(Information)과 오락을 뜻하는 엔터테인먼트(Entertainment)의 합성어로 운전자에게 여러 정보와 오락 기능을 동시에 제공하는 시스템.,-
+IVIS,In Vehicle Information System,"차내 정보 시스템. 휴대폰, 내비게이션, 멀티미디어 기기 등의 다양한 기기들을 하나의 시스템으로 통합하여 효과적으로 조작하고 표시할 수 있는 차량 내 정보시스템.",-
+IVT,Intelligent Variable Transmission,지능형 가변 변속기 - 현대가 자사에서 만든 CVT(Continuously Variable Transmission). 동력 전달을 해주는 벨트가 고무에서 체인으로 바뀌어서 내구성을 높임.,-
+IWCU,Intergrated Washer Control Unit,자율주행 센서의 외부 오염을 방지하기 위한 와셔 분사 시스템,-
+J.D.POWER AND ASSOCIATES,J.D.POWER AND ASSOCIATES,제이디파워사. 자동차관련 소비자 만족도 조사를 전문적으로 실시하는 회사,-
+J/BLOCK,JUNCTION BLOCK,회로 접속 박스.,-
+J/BOX,JUNCTION BOX,"회로 접속 박스.회로의 전원, 신호 분배를 하나에 집약 시켜 놓은 장치.",-
+JACV,JET AIR CONTROL VALVE,과속시 젯트 에어 역류 방지.,-
+JAKE BRAKE,-,INTARDER와 동일,-
+JASO,JAPANESE AUTOMOTIVE STANDARD ORGANIZATION,일본 자동차 규격.,-
+JIS,JAPANESE INDUSTRIAL STANDARDS,일본 공업 규격.,-
+JIS,JAPEANSE INDUSTRIAL STANDARD,일본 공업 규격,-
+JMS,JET MIXTURE SOLENOID VALVE,각 운전 MODE에 따라 규정된 비율로 솔레노이드를 구동하여 연료를 공급.,-
+JNT,JOINT,이음매.,-
+JOINT CONN,JOINT CONNECTOR,조인트 콘넥터,-
+JPT CONN,JUNIOR POWER TIMER CONNECTORS,엔진 부위에 사용되는 방수 컨넥터로써 터미널은 스텐네스로 코팅되어 진동등의 물리적 영향을 적게 받아 전류공급을 원활히 한다.,-
+JUDDER,JUDDER,"디스크의 DTV, R/OUT과다, 열변형, 이상마모 등에 의해 발생되는 제동토크의 변화로 제동시 스티어링 휠, 브레이크 페달, 차체가 진동하는 현상",-
+K/BOL,KNEE BOLSTER(무릎 구속 장치),차량 충돌시 운전석/조수석 승객의 무릎 부위를 구속하여 승객이 받는 에너지를 줄여 상해치를 줄이는 장치.,-
+K/D SW,KICK DOWN SWITCH,"갑자기 엑셀레이터를 밟을때 급발진을 막아 저속으로 기어를 변환하는 스윗치. K/D BAND BRAKE가 작동하기 전에 위치를 검출, K/D시의 응답을 좋게 하기 위하여 K/D BRAKE 작동 전까지는 K/D 서브에 높은 유압을 보내 작동 시간을 줄이고 그 이후는 적정한 유압으로 작동하여",-
+K/LESS CHK,KEY LESS CHECKER,무선 송신기를 이용하여 문을 잠그며 또한 경계상태로 들어가 문을 강제적으로 열려고 할 경우,-
+K/LESS ENTRY,KEY LESS ENTRY,무선송신기를 이용하여 문을 개폐시키는 장치.,-
+K/LESS RECEIVER,KEY LESS ENTRY RECEIVER,경보음이 울리고 시동이 걸리지 않는 도난 방지 경보 시스템이 적용되어 있음.,-
+KAB,Knee AirBag,칵핏모듈 하단에 장착되어 차량 정면 충돌시 탑승자의의 무릎을 보호 하는 역할,-
+KATRI,KOREA AUTOMOBILE TESTING AND RESEARCH INSTITUTE,"자동차성능시험 연구소. 자동차관련 연구 및 기술개발을 통하여 국내자동차 관련 산업의 기술 정보 지원, 정부정책 및 자동차관련법개정을 위한 기술지원, 공인시험 및 평가 기관으로서 건교부 지시를 받고 결함 조사도 실시하고 있음",-
+KD,KNOCK DOWN,"완성차의 부품을 일부 분해하여 수출, 수입하는 방식.",-
+KD PART,KNOCK DOWN PART,외국에서 수입하는 부품,-
+KDQR,KNOCK DOWN QUALITY REPORT,KD 품질보고서,-
+KEY OPERATED WARNING,-,IGNITION KEY를 KEY SET에 꼽은 상태에서 DOOR를 열 경우 CHIME BELL 작동.,-
+KEY SOL,KEY SOLENOID,키 솔레노이드,-
+KEYINTER LOCK DEVICE,KEYINTER LOCK DEVICE,"AT차의 키에 부착되어 있는 기구로서, 인터록은 서로 짝을 이루는것을 의미하며, 주차하였을 때 시프트 레버를 파킹(P)의 위치에 넣지 않으면 키 스위치가 빠지지 않고, 키 스위치를 빼면 시프트레버가 P위치에 고정되는 구조. AT차가 주차중에 움직이지 않도록 하기 위한 것.",-
+KEYLESS ENTRY SYSTEM,-,REMOCON으로 DOOR를 LOCK/UNLOCK 할 수 있는 장치.,-
+KICK BACK,KICK BACK,노면으로 부터의 충격이 스티어링 휠에 전달되는것. 랙&피니언의 경우 특히 이런 경향이 강하지만 이것은 시스템 구조적으로 역방향의 힘을 전달하는 가역성에 의한 것이다.,-
+Kick off,-,킥 오프. 프로젝트 팀과 고객과의 처음 가지는 모임. 통상 그 프로젝트와 기타 프로젝트 계획 입안에 필요한 기본요소들을 확정함.,-
+KIT,-,ROOT PARTS(기초 부품)에 대한 공급 단위.,-
+KNEELING,-,"장애인이나 노약자가 버스에 승,하차시 입구의 계단이 보도의 높이에 맞춰 내려와 휠체어나 노약자의 승,하차를 용이하게 하기 위한 장치.",-
+KNOCK SNSR,KNOCK SENSOR,Knocking(진동) 검출기. Sylinder Block에 부착되어 Block에 전해지는 Knocking(비정상 연소에 따른 온도 상승으로 발생되는 소음이나 압력)의 진동을 압전 효과를 이용하여 감지하고 전기 신호로 변환하여 ECU로 전송.,-
+KOBD,KOREAN ON BOARD DIAGNOSTICS,"자동차 배출가스 관련부품의 오작동으로 인해 배출가스가 증가할 경우, 차내 계기판의 정비지시등(Check Engine등)을 점등시켜 운전자에게 알려주는 장치",-
+KPH,KELO-METER PER HOUR,매 시간당 주행 거리를 KM로 표시,-
+KPI,KEY PERFORMANCE INDICATOR,"핵심 성과 지표,기업의 전략을 달성하기 위한 활동의 성과를 측정하는 지표로서, 성과 도출이 미진한 경우 이의 원인이 무엇인지를 신속하게 파악하여 개선 조치가 이루어질 수 있도록 한다.",-
+KS,KOREA STANDARD,한국 공업 규격.,-
+L/AIR PRESS BZ,LOW AIR PRESSURE BUZZER,AIR TANK의 압력이 떨어지면 싸이트 정지시나 브레이크 작동 등 다른 여러 시스템에 문제를 야기시키므로 미리 이를 경고하여 압력이 떨어지지 않도록 하는 기능.,-
+L/B,LONG WHEEL BASE(장축),휠(WHEEL) 베이스가 단축(SHORT BODY)보다 크게 변경 개발,-
+L/C,LONG CARGO,장축 카고,-
+L/L,LOAD LIMITER(에너지 흡수 장치),차량 충돌시 일정 이상의 힘이 S/BELT에 가해지면 WEBB'G을 풀어주어 에너지를 흡수하는 장치.,-
+L/L L1,LONG LEAD L1,장기적인 설계(기본 윤곽) L1 도면은 설계를 고려한 Part 구성 및 기본단면을 3차원으로 작성한 도면을 의미한다.,-
+L/L L2,LONG LEAD L2,"장기적인 설계(와이어 프레임, SURFACE) L2도면은 상관 Part와의 조립을 고려한 개략적인 제품의 형상을 3차원으로 작성한 도면을 의미한다.",-
+L/L L3,LONG LEAD L3,장기적인 설계(FACE 및 SOLID 처리) L3 도면은 중요부위(Mounting) Fillet 생성 및 Trimmed Surface를 3차원으로 작성한 도면을 의미한다.,-
+L/L L4,LONG LEAD L4,"장기적인 설계(FORM TOOL을 이용하여 FACE, SOLID DATA를 최종마무리하는 것) L3도면은 완전한 제품 형상을 3차원으로 표현한 도면을 의미한다.",-
+L/MONITOR BUZZ,LIGHTING MONITOR BUZZER,전조등을 켜 놓았으면 신호해주는 장치.,-
+L/P SW,LOW PRESSURE SWITCH,저압 스윗치.,-
+L/UP CHKR,LOCK UP CHECKER,2단에서 1단으로 다운 시프트는 하지만 1단으로부터 2단 또는 2단으로 업 시프트는 할 수 없도록 한 장치.,-
+LADAR,LAser Detection And Ranging,레이다 시스템. 레이저를 표적에 조사(照射)한 후 반사광 으로부터 획득한 표적까지의 거리 정보와 방위각/고각을 포함한 표적의 3차원 영상정보를 얻을 수 있는 능동형 전자광학장비.,-
+LAMBDA SNSR,LAMBDA SNSR,LAMBDA는 공연비 센서라고도 하며 가솔린에서의 산소센서와 같은 역할을 한다.,-
+LAP BELT SW,LAP BELT SWITCH,무릎 안전 벨트 스윗치.,-
+LAP RETRACTOR,LAP RETRACTOR,무릎 안전 벨트 장치.,-
+LASHING HOOK,-,VAN 차량 화물칸 FLOOR부 화물 고정용 ROPE 끼우는 고리.,-
+Lb,LIBRA,파운드 무게 단위.,-
+LBA-D,Low Beam Assist-Dynamic,하향등 제어 보조 시스템 (로우빔 보조-가변형). 야간 및 저조도 환경에서 전방 가시거리를 최대한 확보하기 위해 차량의 추가 램프 작동 여부를 결정하고 로우빔의 방향을 제어해주는 주행안전 시스템,-
+LBA-D,Low Beam Assist-Dynamic,-,-
+LBA-S,Low Beam Assist-Static,로우빔 보조-고정형,-
+LBA-S,Low Beam Assist-Static,-,-
+LBS,LAP BUCKLE SWITCH,PASSIVE S/BELT의 BELT 스윗치.,-
+LCD,LIQUID CRYSTAL DISPLAY,액정 화면 표시.,-
+LCL,Longitudinal Conversion Loss,(EMC 용어) 종 방향 변환 손실. 입력된 차동모드 신호와 케이블에서 발생된 공통모드 신호의 비 - 회로망에 연결된 리드에서 종(비대칭) 신호의 존재로 인한 원하지 않는 횡(대칭모드) 신호가 발생되는 정도를 나타내는 척도. Ref) LCTL,-
+LCO,"LiCoO2, Lithium Cobalt Oxide","리튬산화코발트 계열 배터리. 층상 구조를 가지고 있고 전류를 통하면 충전과 방전 과정에서 산화, 환원 가역 반응을 하는 물질",-
+LCTL,Longitudinal Conversion Transmission Loss,(EMC 용어) 종 방향 변환 전송 손실. 입력단의 차동모드 신호와 출력단의 공통모드 신호의 비율로 나타냄. Ref) LCL,-
+LCU,Light Control Unit,"조명제어시스템의 구성품으로, 상위의 중앙관제장치와 MCU, 하위의 LCU 를 연결하는 기기.",-
+LCV,LIGHT COMMERCIAL VEHICLE,경상용차(총 중량이 3.5 미터 톤 이하인 상용 운반 차). 승객보다는 화물 운반을 목적으로 하는 차.,-
+LD,LOCKING DIFFERENTIAL,"차동제한장치. 차량의 좌우 구동륜간 노면 마찰력 차이가 과다한경우(한쪽 바퀴가 진흙탕에 빠진경우) 노면 마찰력이 작은쪽 바퀴를 구속하여 험로탈출성을 향상시킨 차동장치. 작동원리는 후륜 좌우바퀴의 회전 수 차이가 100RPM 이상 발생시(눈길, 웅덩이, 빗길 등 조건), 후륜 축을 완전 일체화 하여 양쪽 후륜 바퀴에 최대의 견인력을 제공함으로써 탈출성능을 대폭 향상시킴",-
+LDC,LOW VOLTAGE DC/DC CONVERTER,"고전압 배터리에서 12V 저전압 배터리로 변환시켜 주기 위한 컨버터 시스템. 자동차의 대부분 부품들 (전조등, 와이퍼, 펌프, 제어보드 등) 은 12V에서 동작.",-
+LDM,LED Driver Module,LED 광원에 전류를 공급하여 제어하는 전장품. Sequential Turn Signal 등 다양한 기능 구현.,-
+LDO,Low Drop-Output,저손실 타입 리니어 레귤레이터. 낮은 입출력 전위차에서도 동작하는 리니어 레귤레이터.DC/DC 컨버터와 달리 레귤레이팅 할 때 전압강하가 작으며 리플(Ripple)이 작다는 장점이 있음.,-
+LDW,Lane Departure Warning,"차선 이탈 경고 시스템. 주행 중 사고를 미리 방지하기 위해 차량이 차로를 이탈한다고 판단되는 경우, 진동이나 소리 등으로 운전자에게 위험을 경고해주는 주행안전 시스템.",-
+LDW,Lane Departure Warning,-,-
+LDWS,LANE DEPARTURE WARNING SYSTEM,차선이탈 경보장치 전방 카메라를 이용하여 의도하지 않은 차선 이탈 (Lane Departure)을 감지하여 운전자에 대한 시청각적 경고 (Warning)를 수행함으로써 차선 이탈을 경고하는 Safety System,-
+LED,LIGHT EMITTING DIODE,발광 다이오드.,-
+LEV,LOW EMISSION VEHICLE,"저공해차. 캘리포니아 배기 규제 단계 중의 하나로써, NMOG 0.075g/mile 규제를 만족하는 차량. 2003년까지 미국에서 적용된 가솔린 배기 규제",-
+LFA,Lane Following Assist,차로 유지 보조,-
+LFA,Lane Following Assist,-,-
+LFD,LETER FORCE DEVIATION,타이어의 광방향 힘의 평균치.,-
+LFP,"LiFePO4, Lithium Iron Phosphate","리튬인산철 계열 배터리.올리빈 구조를 가지고 있어서 안정적이며, 결정구조가 연화되는 현상이 적어 수명이 길지만 리튬 이온 확산 속도가 낮아 전기 전도성이 낮음.",-
+LFV,LETER FORCE VARIATION,타이어의 광방향 힘의 최대치.,-
+L'G VALVE,LEVELING VALVE,주행중 CAB 상하운동에 의한 CAB 높이변화시 AIR 흡입 방출로 CAB 높이를 유지하는 VALVE,-
+LH,LEFT HANDLE,차량의 왼쪽 방향을 가리킴.,-
+LH FR DR,LEFT HANDLE FRONT DOOR,왼쪽 앞문.,-
+LH FR DR SW,LEFT HANDLE FRONT DOOR SWITCH,왼쪽 앞문 스윗치.,-
+LH H/LP,LEFT HANDLE HEAD LAMP,왼쪽 전조등.,-
+LH HORN,LEFT HANDLE HORN,왼쪽 경보기.,-
+LH RR DR,LEFT HANDLE REAR DOOR,왼쪽 뒷문.,-
+LH RR DR SW,LEFT HANDLE REAR DOOR SWITCH,왼쪽 뒷문 스윗치.,-
+LH S/REP LP,LEFT HANDLE SIDE REPEATER LAMP,왼쪽 사이드에 부착되는 T/SIG LP.,-
+LH SPKR,LEFT HANDLE SPEAKER,왼쪽 스피커.,-
+LH T/SIG LP,LEFT HANDLE TURN SIGNAL LAMP,좌측 방향 지시등,-
+LHD,LEFT HANDLE DRIVE,운전대가 왼쪽에 있는 차량.,-
+LICENSE LAMP,-,번호판 조명등. 야간 주행시 번호판을 식별할 수 있도록 부착된 조명등.,-
+LIDAR,Light Imaging Detection And Ranging,광원'과 수신기를 사용하여 원격의 개체를 탐지하고 거리를 측정하는 센싱 기술. 방출된 광 펄스가 물체에 부딪쳐 반사되어 LIDAR 시스템으로 돌아오면 수신기가 돌아온 광 펄스를 감지함.,-
+LIDAR,Light Imaging Detection And Ranging,레이져(광학)를 이용하여 주행 환경의 물체의 형상과 배치를 파악할 수 있는 자율주행 제어기,-
+LIGHTING WIPER SW,LIGHTING WIPER SWITCH,"핸들 아래쪽에 위치하여 각종 램프 및 와이퍼, 와샤 조작 스윗치.",-
+LIMOUSINE,LIMOUSINE,승용차의 길이와 크기를 늘려 운전석과 뒷좌석 사이에 유리 칸막이를 한 호화모델. 주로 VIP용으로 쓰인다.,-
+LIN,LOCAL INTERCONNECT NETWORK,"일방향 통신으로써 수신, 또는 송신의 기능밖에 없으며, CAN에 비해 저가이며, M/F SW, DRIVER SAFETY P/WDW ECU, ASSIST SAFETY P/WDW ECU등에 적용한다.",-
+LINEARITY,LINEARITY,-,-
+LKA,Lane Keeping Assist,차로 이탈방지 보조 시스템. LDW의 기능이 확장된 시스템으로 차로 이탈로 인한 위험을 감지했을 때 경고뿐만 아니라 조향까지 제어해주는 주행안전 시스템.,-
+LKA-L,Lane Keeping Assist-Line,차로 이탈방지 보조-차선,-
+LKA-L,Lane Keeping Assist-Line,-,-
+LKA-R,Lane Keeping Assist-Road-Edge,차로 이탈방지 보조-도로경계,-
+LKA-R,Lane Keeping Assist-Road-Edge,-,-
+LKAS,LANE KEEPING ASSIST SYSTEM,차선유지보조장치 전방 카메라를 이용하여 의도하지 않은 차선 이탈 감지하여 MDPS를 이용한 Haptic Feedback을 수행함으로써 차선 유지 (Lane Keeping)를 보조 (Assist)하는 Safety System,-
+LNG,LIQUEIFIED NATARAL GAS,액화 천연 가스(NGV 참조),-
+LNT,Lean NOx Trap,질소산화물 흡장촉매 장치.,-
+LO,LAY OUT,시설 설비의 배치.,-
+LOAD LIMIT,LOAD LIMIT,안전벨트로 인한 승차자의 가슴 부위상해를 최소화 하는 장치로 안전벨트에 가해 지는 하중이 규정이상 발생시 안전벨트를 일정량만큼 줄여 주는 장치,-
+LOT,-,동일재료로 동일시점에 동일한 조건에서 같은 방법으로 만들어진 제품의 무리.,-
+LOUVER,-,AIR CONDITION AIR 토출 GRILLE(조절식),-
+LP,LAMP,조명등.,-
+LP,LOCAL PART,국내 개발품.,-
+LPB,LIST OF PARTS BASIS,기초 부품 목록.,-
+LPG,LIQUEFIED PETROLEUM GAS,액화 석유가스.,-
+LPG CUT SOL,LIQUEFIED PETROLEUM GAS CUT SOLENOID,액화 석유 가스.,-
+LPG GAUGE,LIQUEFIED PETROLEUM GAS GAUGE,액화 천연가스의 양을 측정해 표시해 주는 장치.,-
+LPG SW,LIQUEFIED PETROLEUM GAS SWITCH,LPG 스윗치.,-
+LPI,LIQUID PETROLEUM INJECTION,LPG연료를 고압액상(5~15bar)으로 유지한 후 ECU제어로 INJECTOR를 통해 기통별로 분사하는 방식,-
+LPI,LIQUID PROPANE INJECTION,간단히 설명하면 지금까지 국내에서 LPG엔진은 기화기에서 기화한 LPG를 Mixer에서 공기와 혼합후 엔진에 흡입하여 연소시켰습니다만 LPi엔진에서는 액체상태로 엔진에 분사하여 연소시킴으로써 출력향상 및 배출가스 감소 등의 효과를 얻을 수 있습니다.,-
+LPL,License Plate Lamp,라이센스 램프. 야간 운행 시 차량 번호판 알림,-
+LRO,LATERAL RUN OUT,횡방향흔들림. TIRE의 횡방향 흔들림의 크기,-
+LSD,LIMITED SLIP DIFFERENTIAL,"공회전 방지 장치(차동 제한 장치부). LSD는 포터, 스타렉스 차량에 많이 장착되는 옵션으로 눈길, 모래길과 같은 곳을 주행할 때 한 쪽 타이어가 빠져 나오지 못할 경우 다른 한 쪽 바퀴에 동력이 전달 되어 쉽게 빠져 나올 수 있도록 고안된 동력 보조 장치입니다.",-
+LSI,LARGE SCALE INTEGATION,대규모 집적회로,-
+LSPV,LOAD SENSING PROPORTIONING VALVE,감압밸브. ABS 미장착 화물/승합 차량에서 화물/승객의 적재 중량을 감지하여 후륜 브레이크 작동 유압의 감압비를 조정해서 제동 안정성을 확보 해주는 장치,-
+LT,LIGHT-TRACK,경 트럭.,-
+LTS,LEAD TIME STOCK,기간 재고. 부품이 발주되어 입고시까지 기간중에 발생되는 수요를 충족시키기 위한 재고.,-
+LUGG LP,LUGGAGE LAMP,트렁크 룸 조명등.,-
+LUGGAGE CAPACITY,-,각종 규격의 BOX가 BOOT에 들거갈 때 BOX 전체의 용적. 일반적으로 북미 경우 SAE. 기타지역 VDA 정의를 이용한다.,-
+LVDS,Low-Voltage Differential Signaling,저전압 차등신호. 저렴한 연선 구리 케이블에 고속으로 동작이 가능한 전기적 신호 시스템.,-
+LVS,Low Voltage System,저전압 시스템. 리튬이온 배터리를 이용해 일반 자동차에서도 납축 배터리를 대체하거나 납축 배터리에 추가 장착하는 방식으로 사용할 수 있는 저전압 배터리 시스템 (일반 자동차의 납축 배터리는 12V 전압을 쓰는데 LVS를 사용하면 48V까지 높일 수 있음),-
+LWR,LOWER,하부.,-
+LX,LUX,조도의 단위. 럭스.,-
+M/CAR,MASTER CAR,설계 개선안이 반영된 Proto 최종 모델. 개발 품질목표를 만족하고 실제 양산 조립 시 판매 가능한 수준으로 제작된 시작차량을 의미한다.,-
+M/CYL,MASTER CYLINDER,BRAKE 액압을 발생시키는 장치.,-
+M/F SW,MULTI FUNCTION SWITCH(COLUMN SWITCH),"다기능 스윗치. LIGHTING, T/SIG, HORN, WIPER, CRUISE 등을 작동 시키는 스윗치.",-
+M/H ANT,MICRO-HELIX ANTENNA,장방형 PCB 기판에 지그재그로 도체가 형성되어 있는 증폭형 안테나,-
+M/LP,MARKER LAMP,야간 운행시 차량의 높이및 폭을 상대방 운전자가 알아 볼수 있도록 해주는 표시등.,-
+M/R,MASTER CAR,설계 개선안이 반영된 PROTO 최종 모델.,-
+M/T,MANUAL TRANSMISSION,수동 변속기.,-
+M+S,MUD AND SNOW,사계절용. 사계절용 타이어란 표시,-
+M1,-,연구소 파일럿동에서 사용한 설비 및 지그를 양산공장으로 이관하여 양산공장에서 오프라인 및 인라인 생산훈련을 통한 공정원의 작업 숙지 단계이다. 부품 투입조건은 P2 품확치 동일 수준으로 P2 품질수준을 확인하다.,-
+M2,-,"P1, P2 단계의 문제점, 대책, 조치결과를 최종 확인하는 단계로 완성차의 품질, 설비, 치구와 양산성을 최종적으로 확인함을 의미한다",-
+MAB,MULTI AIR BAG,"전, 측면의 충격을 방지하는 다중 AIR BAG.",-
+MACH,MACHINE,기계.,-
+MAF SNSR,MASS AIR FLOW SENSOR,공기량 센서.,-
+MAG/VALVE,MAGNETIC VALVE,CAB TILT'G시 AIR 흐름을 차단하여 정속 CAB TILT'G 할 수 있도록 AIR를 제어하는 VALVE,-
+MAHS,Motor Assist Hydraulic Steering,자제어 시스템의 판단에 따라 자율주행 대형트럭의 조향 각도를 정밀하게 제어하는 시스템.,-
+MAIN HARN,MAIN WIRING HARNESS,메인 하네스,-
+MAIN HARN EXTN,MAIN WIRING HARNESS EXTENSION,메인 하네스 익스텐션,-
+MAIN RLY,MAIN RELAY,제어 릴레이. 각종 전기부품에 전원을 공급/차단하여 전류의 흐름 상태를 제어하여 부품을 보호하는 릴레이.(CONT 및 시동관련 회로들),-
+MAIN WIRG CONN,MAIN WIRING CONNECTOR,메인 와이어링 콘넥터,-
+MAIN-AMP,-,AUDIO의 2차 증폭부로서 음질과 밀접하게 관계됨.,-
+MANAGEMENT REVIEW,MANAGEMENT REVIEW,"품질방침, 품질목표와 관련하여 최고경영자가 품질시스템의 적합성과 상태를 공식적으로 평가하는 것",-
+MANUFACTURING PROCESS DIAGRAM,MANUFACTURING PROCESS DIAGRAM,-,-
+MAP,MANIFOLD ABSOLUTE PRESSURE,공기압센서. Intake manifold내의 압력을 측정하는 센서,-
+MAP LP,MAP LAMP,지도 식별용 조명등. (앞좌석 천정에 장착됨.),-
+MAP SNSR,Manifold Absolute Pressure sensor,"흡입기관에서 공기와 연료의 혼합 가스 압력을 감지, 이를 통해 ECU에서 흡입 공기량을 산출하여 해당 부하에 적합한 인젝터의 기본 분사 시간을 결정.",-
+MASKING,마스킹,인간의 가청주파수 밴드내의 특정주파수 성분이 부각 또는 소멸되는 현상.,-
+MASTER KEY,-,"통상 IGNITION 시동 및 DOOR,GL/BOX LOCK, T/LID등을 모두 개폐할 수 있는 KEY",-
+MASTER SAMPLE,MASTER SAMPLE,-,-
+MATL,MATERIAL,재질.,-
+MAX,MAXIMUM,최대.,-
+MBR,MEMBER,구성원.,-
+MBUX,Mercedes-Benz User eXperience,-,-
+MCA,Motor Clutch Actuator,기존 엔진과 변속기 사이 Clutch 구동모터가 있던 방식에서 일체형으로 변경된 개선 엑츄에이터,-
+MCB,Multi Collision Brake,다중 충돌방지 자동 제동 시스템.,-
+MCP,MASTER CONTROL POINT,"차체조립 정도 향상 및 산포 최소화를 위해 차체를 구성하는 단품 또는 SUB ASSY의 가장 중요한 기능 부위 및 가공 또는 조립시 정확한 고정이 되는 곳을 정해서 부품제작, JIG제작, 조립검사등 제품생산에 관련된 전부분에서 사용하는 일관된 기준 POINT를 말함.(JIG HOLE)",-
+MCS,Megawatt Charging Standard,메가와트 충전 표준 시스템. 클래스 6~8급 대형트럭의 전기화를 위한 미래 충전표준.,-
+MCS,Mobile Charging System,비상충전시스템.,-
+MCU,Micro Controller Unit,마이크로 컨트롤러 유닛.,-
+MCU,Motor Control Unit,모터 제어 유닛.,-
+MD ENG,MODULATED DISPLACEMENT ENGINE,MMC가 독자 개발한 밸브 조정 장치를 내장한 엔진.,-
+MDPS,MOTOR DRIVEN POWER STEERING,엔진동력을 이용하는 POWER STEERING PUMP를 삭제하고 전동 MOTOR를 이용하여 POWER STEERING기능 수행. 차의 주행조건과 운전자의 움직임을 감지해 주행 안정성을 높여주는 장치,-
+ME,MORNING EFFECT,아침 수분 응축에의한 디스크 표면 마찰계수 변화에 의한 스퀼성 소음 대부문 디스크 온도 상승후 사라짐,-
+MEA,Membrane Electricity Assembly,"막전극접합체. FCEV에서 수소 연료를 전기에너지로 바꾸기 위한 장치 중에 하나로, 수소 이온을 이동시켜주는 고분자 전해질막(Polymer Electrolyte Membrane), 전해질막의 양면에 백금 촉매를 도포하여 구성되는 촉매전극인 양극(Anode, 공기극)과 음극(Cathode, 연료극)으로 구성",-
+MEASUREMENTS,MEASUREMENTS,양의 값을 결정하기 위한 일련의 작업,-
+MEASUREMENTS TRACE ABILITY,MEASUREMENTS TRACE ABILITY,-,-
+MEASURING INSTRUMENT,MEASURING INSTRUMENT,-,-
+MEASURING SYSTEM,MEASURING SYSTEM,특정 측정을 수행하기 위해 조립된 측정 기기와 기타 장비의 완전한 조합,-
+MEB,Modular Electric drive Matrix platform,폭스바겐그룹(Volkswagen Group)에서 개발한 전기자동차 전용 플랫폼. 세단부터 크로스오버 그리고 SUV에 이르기까지 다양한 차종에 적용 가능.,-
+MEMORY ERASE,MEMORY ERASE,CRUISE 기억을 지우는 장치.,-
+MEP,MEAN-EFFECTIVE PRESSURE,평균 유효 압력.,-
+MF BATT,MAINTENANCE FREE BATTERY,배터리액 총전이나 보수가 불필요한 배터리,-
+MFC,Multi Function Camera,다기능 전방 인식 카메라.,-
+MFR,Multi Face Reflector,"다면 반사경 - 전구 뒤의 반사판을 다각도로 위치시켜 빛이 사방으로 퍼지는 것을 막고, 보다 멀리까지 도달할 수 있게끔 도와주는 방식",-
+MG,MAP GEAR(차기 변속단),시프트 선(변속 맵)에 의해 현재 지시되고 있는 변속단.,-
+MH,MAN HOUR,공수. 한사람이 1시간동안 할수 있는 작업량.,-
+MHSG,Mild Hybrid Starter & Generator,마일드 하이브리드 차량의 엔진 시동 제어 장치. 엔진을 시동하거나 엔진의 출력에 의해 발전시키는 기능을 수행함.,-
+MIL,MALFUNCTION INDICATOR LIGHT,"엔진 경고등. 엔진 또는 차량에 문제 발생시, 차량 계기판에 점등되는 것",-
+MIN,MINIMUM,최소,-
+MIP,MADE IN PLANT,"당사 제작품.OTR안쪽의 판넬 즉, BRAKET류…",-
+MIS,MULTI-INFORMATION SYSTEM,"운전석의 우측에 설치된 영상 화면을 통해서 현재 차량의 위치를 확인하고, 지도를 통한 목적지 찾기 등 효율적인 주행을 위한 정보 장치.",-
+MISFIRE MONITORING-TOOTH ERROR CORRECTION,MISFIRE MONITORING-TOOTH ERROR CORRECTION,-,-
+MISTAKE PROOFING,MISTAKE PROOFING,부적합품 제조를 예방하기 위한 공정 또는 설계의 개선수단으로 그 좋은 예가 FOOL PROOF이다,-
+ML,MOTOR LIGHT,경하중 엔진 오일. API 분류.,-
+MLM,Mood Lamp Module,차량 내 무드램프 제어를 위한 유닛,-
+m-LSD,mechanical-Limited Slip Differential,-,-
+N,안승민,2023-01-30 am 11:46:27,-
+MM,MOTOR MODERATE,중하중 엔진 오일. API 분류.,-
+MOCI,Motor On Caliper Intergration,MOC(Motor On Caliper)와 ESC(Electronic Stability Control) 통합한 시스템.,-
+MOD,Mobility On Demand,수요응답형 버스. 주민들의 이동 수요에 따라 실시간으로 노선을 바꾸며 탑승객을 찾아가는 버스,-
+MODE ACTR,MODE ACTUATOR,"송풍 방향 조절기. 공조시스템의 덕트에서의 공기를 벤트(vent), 플로어(floor) 또는 디프론트(defront) 출구로 나가는 풍향을 제어하는 기능",-
+MODULATOR,MODULATOR,변조기.,-
+Monocoque,-,모노코크. 승용차에 주로 사용되는 일명 '일체형 차체',-
+MOOD LP,MOOD LAMP,버스에서 중앙 좌우로 늘어선 등을 말하는데 이 등은 형광 및 백열등 겸용으로 상황에 따라 제어할 수 있다.,-
+MOSFET,METAL OXIDE SEMICONDUCTOR FIELD EFFECT TRANSISTOR,"반도체 결정의 표면에 실리콘 등의 얇은 절연산화막을 형성하고 그 위에 전극을 형성, 금속게이트를 배치한 구조로 된 반도체 스위칭 소자를 말함.",-
+MOST,MULTIMEDIA ORIENTED SYSTEMS TRANSPORT,차량용 멀티미디어 시스템의 표준 네트워크 기술 AV 시스템들과 네비게이션 등 멀티미디어 제품들을 한가닥의 광케이블로 제어할 수 있게 해줌,-
+MP,MASS PRODUCTION,양산(대량양산),-
+MPH / mph,MILES PER HOURS,매시간당 마일수.,-
+MPI,Multi Point Injection,다점 연료 분사. 가장 기본적인 엔진 형태로 엔진 속 실린더마다 연료분사 밸브인 인젝터를 설치하여 연료를 분사하는 방식.,-
+MPPT,Maximum Power Point Tracking,"최대 전력점 추종. 태양광 일조량, 기온, 부하 등의 조건이 변화할 때, 태양전지의 출력전력이 최대전력점 근접에서 작동하도록 태양광 어레이가 받는 임피던스를 계속적으로 조정하는 시스템",-
+MPR,MANDATORY PRODUCT REQUIREMENT,필수제품 요구사항.,-
+MPROP,MAGNETIC PROPORTIONING VALVE,연료량 조절밸브,-
+MPROP_WTS,MPROP & WATER TEMPERATURE SENSOR,"연료량 조절밸브 & 냉각수 온도 감지 센서(WTS :엔진 냉각수의 온도를 측정하는 센서입니다. 엔진의 공회전 스피드에 영향을 미치며 라디에이터 팬을 작동시키는 기준 WTS = ECTS, CTS ECTS = ENGINE COOLANT TEMPERATURE SENSOR CTS = COOLANT TEMPERATURE SENSOR",-
+MPS,MOTOR POSITION SENSOR,트로틀 밸브의 개폐 시기를 알수 있도록 전동 동기 피니언 위치를 감지.,-
+MPV,MULTI PURPOSE VECHICLE,"레져, 스포츠, 등을 동시에 만족하는 다목적 차.",-
+MPV,MULTIPURPOSE VEHICLE(다목적차),"출.퇴근용 및 LEISURE용등, 다목적(화물 및 10인 이하 승객 운송등)용도로 사용",-
+MR,Mid-ship engine Rear wheel drive,엔진이 앞바퀴와 뒷바퀴 사이에 있고 뒷바퀴를 구동시키는 방식. 무거운 부품인 엔진이 중앙 가까이에 있어 코너링시 유리하기때문에 스포츠카에 주로 적용,-
+MRM,Minimum Risk Maneuver,긴급 상황에서 사고 위험 요소를 줄여주는 자율주행차량 기술.,-
+MROS,MONTHLY REPLENISHMENT ORDER SYSTEM,월 정규 주문 시스템.,-
+MRP,MATERIAL REQUIPMENTS PLANNING,자재 소요 계획. 일정 계획에 의거 필요한 자재에 대한 계획을 작성.,-
+MS,MATERIAL SPECIFICATION,재질 사양. SPEC NO. 201-01 참조.,-
+MS,MODE SWITCH,"파워, 이코노미, 홀드모드등 정해진 변속 패턴을 절환하는 스위치.",-
+MS,MOTOR SERVICE,고하중 엔진 오일. API 분류.,-
+MSA,Measurement System Analysis,"공정 결과에 영향을 주는 측정변동 요인(측정자, 측정기 등)을 분석하여 측정 Data의 신뢰성을 확보함으로써 올바른 공정해석 및 공정개선을 유도하기 위한 분석기법이다.",-
+MSD,Motion System Design,-,-
+MSDI,Multiple Switch Detection Interface IC,Analog switch의 입력을 감지하는 Multiplexer 역할.,-
+MSLA,Manual Speed Limit Assist,"수동 속도제한 보조. 운전자가 특정 속도 이상으로 주행하는 것을 원하지 않는 경우 속도 제한 설정 →. 제한 속도를 초과하여 주행할 경우, 차량 주행속도가 제한속도로 내려갈 때까지 경고 및 경고음이 발생.",-
+MSLA,Manual Speed Limit Assist,-,-
+MSM,Multi String Manager,BMU 제어기,-
+MSP,Mission Services Platform,"Mission Services Platform의 Main Compute. 나머지 MSS와 4G/5G 연결, Fleet Management(차량 이동, 승객 탑승/하차, 모니터링), User Experience(원격 승객 도움서비스, HMI, Entertain 등)",-
+MTC,MANUAL TEMP.CONTROLLER,수동 컨트롤러,-
+MTG,MOUNTING PLANT,장착.,-
+MTR,MOTOR,모타.,-
+MTS,MOBILE TELEMATICS SYSTEM,휴대 전화기를 이용하여 서비스를 이용하기 위한 유니트,-
+MTS,MOBILE TELEMETICS SYSTEM,"위치추적 시스템과 무선통신 기술을 결합하여 실시간 교통정보, 원격 차량관리, 긴급구난 등의 정보를 제공하는 기능을 가진 SYSTEM",-
+MULE-CAR,MULE CAR,엔진선행개발 목적으로 기존 양산차에 신엔진만 탑재하여 엔진성능평가 실시를 위해 제작하는차,-
+MUSB,MUlti-channel Slow Blow fuse,멀티 채널 슬로우 블로우 퓨즈 (다경로 슬로우 플로우 퓨즈). 초기 기동시 돌입전류 (Inrush current)를 발생하는 Fan 과 같은 유도성(Inductiv) 부하에 적용하는 S/B를 여러개 연결 할 수 있는 멀티 퓨즈.,-
+MUT,MULTI UNIT TEST,자가 진단 장치.,-
+MUTIC,MULTI PURPOSE TIMING CONTROLLER,TIME CONTROL UNIT를 한 개의 다목적 CONTROLLER로 통합.,-
+MUX,MULTIPLEX WIRRING SYSTEM,전자제어 시스템 사이의 수십회선의 WIRE 접속을 한 두개의 WIRE로 접속하는 통신 방식을 사용하는 시스템.,-
+MY,MODEL YEAR,"상품의 시장수명, 초기 시장에서부터 FMC까지의 기간. 차량 상품성 개선을 위한 변경 및 EMISSION 대응 등 변경범위가 매우 적은 제품 개발을 의미",-
+N/A,NO APPLICATION,미적용 표기방법,-
+N/BACK SW,NETURAL BACK SWITCH,"A/TM 장착 차량에서 변환 레버를 N, P에 위치하지 않으면 전원이 연결되지 않아 시동이 걸리지 않게 하는 장치.",-
+N/FILTER,NOISE FILTER,잡음 제거기. ECU의 통제를 받아 ENG의 균일 폭발 및 엔진 부조를 방지하여 소음과 진동을 줄여 승차감을 좋게하는 시스템.,-
+N/MDL,NEW MODEL,신규 모델의 개발.,-
+NA,NATURAL ASPIRATION,자연 흡기.,-
+NAS,NAS stands for North American Specification (cars manufactured for North American market),"북미, 캐나다 사양",-
+NAVI,NAVIGATION,"위성으로부터 최단거리, 도로 막힘 상황 등의 도로에 관한 정보를 받아 운전자에게 알려주는 장치.",-
+NCA,NiCoAl,"니켈+코발트+알루미늄.대용량 배터리 제조에 적합하지만 충, 방전 가능 횟수가 수 백번 정도에 불과하다.",-
+NCAP,New Car Assesment Program,신차안전도평가. 소비자에게 자동차의 안전도 관련 정보를 제공함으로서 안전한 자동차의 소비를 촉진하고 자동차업체들이 보다 안전한 자동차를 제작하도록 유도하기 위해 해당 지역/국가에 판매되는 자동차에 대한 안전도를 시험하는 것.,-
+NCC,Navigation-based Cruise Control,내비게이션 기반 크루즈 컨트롤,-
+NCC,Navigation-based Cruise Control,-,-
+NCM,NiCoMn,"니켈+코발트+망간를 합성해서 만든 삼원계 배터리. 대용량 배터리 제조에도 무리가 없으며 수천번 충, 방전이 가능.",-
+ND,NO DRAWING,도면이 없는.,-
+NDA,Non-Disclosure Agreement,기밀유지 협약. 기업 간에 사업비밀을 공유하면서 사용을 제한할때 체결하는 계약,-
+NEDC,New European Driving Cycle,(자동차 용어) 과거 유럽연합(EU)에서 채택한 자동차 연비 측정 방식.,-
+NEEDLE VALVE,-,분사노즐 홀을 개폐시키는 바늘 모양의 밸브,-
+NEWTRAL STEER,NEWTRAL STEER,언더 스티어나 오버 스티어가 아닌 정상적인 상태의 조향특성을 말한다. 일반적인 승용차량은 안전한 운전이 가능하도록 완만한 언더 스티어 특성을 같도록 설계하여 안전한 운행을 하도록 한다.,-
+NFC,Near Field Communication,비접촉식 근거리 무선통신기술. 10cm 이내 거리에서 단말기 간 양방향 데이터 송수신 가능,-
+NFDC,New European Driving Cycle,"유럽주행모드. (ref. FUDS, HWFET)",-
+NGV,NATURAL GAS VECHICLE,"천연 가스 자동차. 1930년 이탈리아에서 개발이 시작된 천연가스 자동차는 연료 특성상 이산화탄소 배출량이 적고, 옥탄가가 높아 고압축화가 가능하며, 매장량이 풍부하여 현재는 시판후 개조에 의한 가솔린/CNG의 BI-FUEL 자동차가 이탈리아등 세계적으로 100만대 정도가",-
+NHTSA,NATIONAL HIGH WAY TRAFFIC SAFETY ADMINISTRATION,북미 고속 도로 교통안전 위원회.,-
+NLEV,NATIONAL LOW EMISSION VEHICLE,"미국 연방 저공해차 미국 연방주가 시행하는 것으로써, 캘리포니아주의 LEV 와 동일한 법규임",-
+NLR,NON LOCKING RETRACTOR SEAT BELT,RETRACTING은 되지만 비상시 SEAT BELT가 LOCK'G 되진않는 BELT.,-
+NO,NUMBER,번호.,-
+NOM,NORMA OFFICIAL MEXICANA,멕시코표준규격제도. 멕시코 수출용 타이어 품질 인증 마크,-
+NONCONFORMITY,NONCONFORMITY,한가지 이상의 품질특성 또는 품질시스템 요소가 규정된 요건에서 벗어나거나 빠져있어 규정된 요건을 충족시키지 못하는 것,-
+NOTCH BACK,NOTCH BACK,"차체 뒤쪽의 유리창이 트렁크 쪽에서 꺽이면서 평평하게 계단식으로 돼 있다. 차체를 옆에서 보았을 때 엔진룸 승객룸 트렁크의 구분이 뚜렷, 세단형이라고도 말한다.",-
+NPS,HYSRAULIC NORMAL POWER STEERING SYSTEM,유압 조향 장치. 운전자가 조향을 쉽게 할 수 있도록 유압을 공급 받아 바퀴를 회전 시키는 장치,-
+NSCC-C,Navigation-based Smart Cruise Control-Curve,내비게이션 기반 스마트 크루즈 컨트롤-곡선로,-
+NSCC-C,Navigation-based Smart Cruise Control-Curve,-,-
+NSCC-R,Navigation-based Smart Cruise Control-Ramp,내비게이션 기반 스마트 크루즈 컨트롤-진출입로,-
+NSCC-R,Navigation-based Smart Cruise Control-Ramp,-,-
+NSCC-Z,Navigation-based Smart Cruise Control-Zone,내비게이션 기반 스마트 크루즈 컨트롤-안전구간,-
+NSCC-Z,Navigation-based Smart Cruise Control-Zone,-,-
+NTF,No Trouble Found,원인불명고장.,-
+NUM,NUMBER,번호.,-
+NVARM,NON VOLATILE RANDOM ACCESS MEMORY,"전원 ON시 RAM 기능을 부과하고, OFF시 ROM 기능을 끊고 기억 내용을 유지하는 성질을 가진 메모리.",-
+NVH,NOISE VIBRATION HARSHNESS,"소음, 진동, 거칠음 등의 시험.",-
+NVS,NIGHT VISION SYSTEM(나이트 비젼 시스템),"야간 주행시 HEADLIGHT 범위 밖의 상황을 적외선 카메라를 이용, 감지하여 WINDSHIELD에 HEAD UP DISPLAY로 보여줌. 적외선 카메라를 이용해 도로상의 사람/동물 등을 감지하여 HUD로 나타내는 시스템을 말함.",-
+O/D,OVER DRIVE,"12V 전압이 TCU에 입력, 비입력에 따라 D렌지에서 1단에서 3단까지만 변속과, 1단에서 4단까지 변속이 가능하게 하는 장치.",-
+O/D,OVER DRIVE,AUTO T/M에서 기어비가 1:1이상인 변속단.,-
+O/D SW,OVER DRIVE SWITCH,A/TM 차량에서 가속력 증가 스윗치.,-
+O/P SW,OIL PRESSURE SWITCH,엔진 윤활유 압축 스윗치.,-
+O/S HNDL SW,OUTSIDE HANDLE SWITCH,O/S MIRROR를 조작하기 위한 스위치.,-
+O/S HTD MIRR,OUTSIDE HEATED MIRROR,백미러 열선. 성에 제거용 스윗치.,-
+O/S MIRR & FOLD MTR,OUTSIDE MIRROR AND FOLD MOTOR,바깥쪽에 있는 후방 감시용 유리와 O/S MIRROR를 하차시 접을 수 있도록 하는 모터.,-
+O/S MIRR MTR,OUTSIDE MIRROR MOTOR,O/S MIRROR를 예전엔 손으로 수동 조작을 하였으나 요즘엔 모터를 이용하여 실내에서 스위치를 이용하여 조작한다.,-
+O/S MIRR SW,OUTSIDE MIRROR SWITCH,백미러 작동 스윗치. 스윗치를 조작하여 좌/우의 BACK MIRROR를 상/하/좌/우로 원활하게 조작하는 기능.,-
+O/T SNSR,OIL TEMPERATURE SENSOR,엔진 윤활유 온도 감지기.,-
+O2 SNSR,O2 SENSOR,배기중의 산소 농도가 이론 공연비에 비하여 희박한지 농후한지를 판단하는 센서.,-
+O2 SNSR,OXYGEN SENSOR,"산소 농도 감지기. EXHAUST MANIFOLD에 부착되어 배기 가스 중의 산소 농도를 검출하여 ECU로 FEED BACK하여 공연비를 조정하게 한다. 배기 가스 중에 산소가 얼마나 포함되어 있나 즉, 공기와 연료의 비율이 이론 공연비보다 더 진하면 약 1V를 출력하며 비율이 연하면 O V",-
+O2 SNSR CHK,OXYGEN SENSOR CHECKER,"산소 농도 감지기. 점검 장치. O2 SNSR에 금으로 된 얇은 판이 끊어졌는지 여부를 점검하는 장치. 농후하면 1V, 희박하면 0V.",-
+OBC,On Board Charger,탑재형 충전기. 상용 AC 전원을 사용하여 플러그인 하이브리드차 및 전기차에 탑재되어있는 직류(DC) 고전압 배터리를 충전하는 장치 / 충전기의 AC 입력을 배터리의 DC로 변환하는 장치,-
+OBD,ON BOARD DIAGNOSTIC,자기 진단 장치. 차량의 power train system 중 배출가스에 영향을 주는 각종 부품 및 system에 대한 자기 고장 진단 시스템,-
+OBD II,ON BOARD DIAGNOSTICSⅡ,자기 진단 장치. E/M 규제 초과 원인이 되는 E/M 관련 부품의 오작동 혹은 열화를 감지하여 경고등 점등이 되게하는 장치,-
+OBJ,OUT BOARD JOINT,D/SHAFT 조인트중 차량 외측(WHEEL)에 장착되는 조인트 주로 BJ가 장착됨,-
+OC,OVERALL CIRCLE,타이어 원주 길이,-
+OCC,OXIDIZING CATALYTIC CONVERTER,산화 촉매 반응기.,-
+OCS,OCCUPIED CLASSIFICATION SENSOR,보조석 탐승 감지 센서. ODS 또는 PODS와 유사하나 다수의 셀들이 배치되어 승객의 앉은 부위 형상을 감지,-
+OCV,Oil Control Valve,오일 컨트롤 밸브는 CVVT의 핵심부품으로 오일펌프로부터 공급된 엔진오일을 ECU의 제어를 받아 CVVT로 가는 유체 통로의 방향을 변경시켜 밸브 개폐시기를 조정하는 역할을 한다.,-
+OD,OUTSIDE DIAMETER,완충 장치를 하지 않으면 충격에 의해 손상이 될 수 있으므로 완충 장치를 두어 충격이 젖혀지도록 한 장치.,-
+ODO,ODOMETER,(자동차의) 주행 기록계(計),-
+ODS,Occupant Detection System / Sensor,동승석의 승원의 탑승유무나 승원 식별하는 시스템,-
+OEC,Outside Electro Chromic mirror,사이드 미러 광량 조절 기능. ref: : ECM (Electronic Chromic Mirror) - 룸미러 광량 조절 기능,-
+OEM,ORDER EQUIPMENT MANUFACTURING,주문자 상표 생산 방식.,-
+OEM,ORIGINAL EQUIPMENT MANUFACTURING,주문자 상표 부착 방식. 생산 라인.,-
+OF,OPTICAL FIBER,광섬유를 이용한 차세대 WIRE.,-
+OH,ON HEAD,보유 재고.,-
+OH,OVER-HANG,"차축, 중심에서 차체의 앞 또는 뒤 끝까지의 수평거리.",-
+OHSAS,Occupational Health & Safety Management System,영국표준협회가 중심이 돼 제정한 조직의 보건과 안전경영시스템에 관한 국제 표준. 조직이 자율적으로 산업재해를 예방하기 위해 위험 요인을 파악하고 지속적으로 관리하는 등 규격의 요구사항을 만족할 경우 제3자 인증기관의 심사를 거쳐 OHSAS 18001 인증을 취득할 수 있다.,-
+OICA,-,세계 자동차 공업 협회.,-
+OJT,On the Job Training,업무 및 산업현장 또는 기업교육 등에서 직무 중에 이루어지는 훈련.,-
+OMS,Occupant Monitoring System,동승자 모니터링 시스템. 시트 열선 / 시트 벨트 경고 / 에어컨 / 에어백 전개 등과 관련된 편의 시스템의 정보와 차내 영유아 및 물건 방치 경고로 활용됨.,-
+OMU,Optical Monitoring Unit,-,-
+OMU,Outside Mirror control Unit,"아웃사이드 미러 제어 유닛.자동 폴딩(Folding)/언폴딩(Unfolding), 사이드 미러 위치 제어, 열선출력, 퍼들 램프, 사이드 미러 광량 조절 기능, BCW, 외기 온도 측정 등의 기능을 포함.",-
+OPCV,Oil Pump Control Valve,오일 펌프 컨트롤 밸브.,-
+OPD,Overvoltage Protection Device,"고전압 차단 릴레이. 과충전방지기능 중에 하나로 과충전시 1단계로 BMS가 릴레이 차단, 2단계(1단계에서 차단되지 않을 경우)에서 OPD(Over-voltage Protection Device)가 전류를 차단",-
+OPERATION PNL,OPERATION PANEL,버스의 상부에 에어 퓨리너와 에어컨이 장착되는 볼록 튀어나온 부분을 말하며 환기 및 냉난방을 위한 공간이다.,-
+OPNG,OPENING,시작.,-
+OPPOSED,OPPOSED WIPER SYSTEM,WIPER PIVOT 축이 앞창 유리 하단 양끝단에 위치시켜 유리폭이 큰 경우 WIPER ARM을 대칭형으로 작동되는 WIPER SYSTEM.,-
+OPT,OPTION,선택.,-
+OPTICAL FIBER,OPTICAL FIBER,광섬유를 이용한 차세대 WIRING HARNESS.,-
+OPTS,Oil Pressure Temperature Sensor,오일 압력 온도 센서,-
+OPU,Oil Pump Unit,오일펌프 제어 유닛,-
+ORVR,ONBOARD REFUELING VAPOR RECOVERY,주유 증발가스 방지 장치. 주유시 발생하는 증발가스를 대기중으로 방출하지 못하게 하고 차량에 부착된 캐니스터가 흡수하도록 하는 일련의 장치,-
+OS,OUTSIDE,외부.,-
+OSAC,ORIFICE SPARK ADVANCE CONTROL,실린더 안의 점화 스파크 조절기.,-
+OTA,Over The Air,자동차 소프트웨어를 유선이 아닌 무선으로 업데이트 할 수 있는 새로운 기술 (ex : 인포테인먼트 시스템 SW 업데이트나 지도 업데이트를 위해 정비소 방문 or USB 메모리 or SD카드 꽂는 등의 방식),-
+OTR,OUTER,외부 판넬.,-
+OTS,OIL TEMPERATURE SENSOR,"오일 온도 감지 센서- CVVT의 작동유체는 엔진오일로, 엔진오일의 온도에 따라 밀도의 변화가 생기는데 이러한 온도에 따른 변화량을 보상하기 위하여 오일온도 센서(OTS)를 장착한다.오일온도 센서는 오일컨틀로 밸브(OCV)로 엔진오일이 들어가기 전에 온도를 측정하여 엔진컴퓨터(ECU)에 보내고 엔진컴퓨터는 오일컨트롤 밸브(OCV)를 구동하여 보정한다.",-
+OUT SOURING,OUT SOURING,"기업내의 비 핵심 기능에대해서 외부의 전문적이고 효율적인 업체에 용역을 주는 경영 전략이라고도 할 수 있습니다.즉, 아웃소싱은 경영 전략의 하나로서 받아 들여져야 하며 여태까지 기업들이 해왔던 Subcontracting(하청계약)과는 다르다.",-
+OVER HEAD CONSOL LAMP,OVER HEAD CONSOL LAMP,오버헤드 컨솔 램프(썬글라스 등을 넣을 수 있는 수납공간),-
+OVER SPEED WARNING,-,일정속도 이상 주행시 CHIME BELL 작동.,-
+OVM,OWNER'S VEHICLE METERIAL,운전자가 손수 간단한 차량정비를 할 수 있도록 모든 차에 기본적으로 들어있는 자가정비용 공구,-
+OVV,OUTER VENT VALVE,배기 밸브.,-
+P/ANT,POWER ANTENNA,자동 안테나. RADIO 전원을 ON하면 올라가고 OFF하면 내려오는 안테나.,-
+P/ANT MTR,POWER ANTENNA MOTOR,자동 안테나 모타.,-
+P/BRK AUTO RELEASE,PARKING BRAKE AUTO RELEASE,FOOT PARKING BRAKE 시스템에서 파킹 브레이크가 잠겨있을 때STOP LAMP(ON)와 INHIBIT SWR(R) 또는 SPORT MODE SW(D)의 입력을 받으면 자동으로 모터가 동작하여 파킹 브레이크가 풀리는 시스템.,-
+P/BRK SW,PARKING BRAKE SWITCH,주차 브레이크 스윗치. P/BRAKE 레버를 당기면 SW가 작동되어 CLUSTER의 WARNING LAMP가 켜져 BRAKE 작동 상태를 확인. 차량 출발시 주차 레버를 해제하지 않았을 경우 CLUSTER의 WARNING 램프는 브레이크 작동을 경고한다.,-
+P/CAR,PROTO CAR,"생산라인을 통하지 않고 초기차량의 Installation 확인, 설계문제점 및 성능(내구성, 목표성능,법규대응 등)을 확인하기 위해 제작되는 차량을 의미한다.",-
+P/CONN,POWER CONNECTOR,"수출시 사용자의 부주위에 의한 실수로 룸램프, 도어램프, 앰프,디지털클럭,튜너,오디오등의 전원을 한개의 퓨즈에 물려 퓨즈를 제거하여 수출하고, 도착하여서 다시 끼워 작동을 시키기 위해 사용되는 퓨즈, 보통 2개의 FUSE를 사용하여 한번에 끼우고 뺄수 있도록 제작됨. 단, 시동에 관련 된 회로는 필히 제외해야 한다.",-
+P/E SW,POWER ECONOMIC SWITCH,고개 및 언덕 주행시 힘을 필요로 할때 작동되는 스위치.,-
+P/GEN,PULSE GENERATOR,펄스파 발생기. K/D DRUM의 회전수와 TRANSFER DRIVE GEAR의 회전수를 검출하고 회전수의 비로서 변속 시기를 검출.,-
+P/HTR,PREHEATER,차실내 신속 난방 및 한냉지 보조 HEAT'G 장치로 사용.,-
+P/IC,POWER IC,AUDIO에서 소신호음을 받아 스피커를 구동할 수 있는 대신호로 증폭시키는 것.,-
+P/LP,PERSONAL LAMP,실내 개별등.,-
+P/NO,PART NUMBER,"자동차의 각 구성부품을 식별하기 위하여 부여되는 부품의 고유번호로서, 한 부품은하나의 부품번호만을 가지며, 한 부품번호에는 하나의 부품만이 대응된다.",-
+P/POSITION SW,PARKING POSITION SWITCH,주차 위치 스윗치.,-
+P/SEAT,POWER SEAT,좌석의 위치를 전기적인 힘으로 운전자의 체형에 맞게 움직이게 하는 시트.,-
+P/SEAT SW,POWER SEAT SWITCH,시트를 앞/뒤/상/하로 작동시키는 스윗치.,-
+P/STRG,POWER STEERING,유압식 핸들 조작 장치.,-
+P/STRG O/P SW,POWER STEERING OIL PUMP SWITCH,POWER STEERING을 작동 시키는 유압 펌프 스윗치.,-
+P/STRG PRESS SW,POWER STEERING PRESSURE SWITCH,강력 조향 장치 압력 스윗치. POWER STEERING HANDLE을 돌릴 경우 압력의 변화를 전압의 변화로 전환하여 ECU에 입력. ECU는 이 신호로 ISC SERVO를 제어.,-
+P/STRG SW,POWER STEERING SWITCH,유압식 핸들 조작 스윗치.,-
+P/T,PRETENSIONER,차량 충돌시 SEAT BELT의 WEBB'G을 되감아 초기 구속력을 향상 시켜주는 장치.,-
+P/TR,POWER TRANSISTOR,"전원 공급시간과 공급시기를 제어하는 장치. 흡입 매니폴드에 장착되어 있으며 ECU에 신호를 받아 점화 코일 1차 전류를 ON 및 OFF로 전환하여 점화시기 즉, 통전 시간과 통전 시기를 제어하는 역활.",-
+P/VAL,PROPORTIONING VALVE,MASTER CYLINDER에서 발생한 액압을 전후좌우 BRAKE에 일정한 비율로 분배하는 장치.,-
+P/WDW MAIN SW,POWER WINDOW MAIN SWITCH,창문 상/하 작동 스위치.,-
+P/WDW MTR,POWER WINDOW MTR,창문 상/하 작동 모터.,-
+P_S_RSVR,Power Steering Reservoir,"파워 스티어링 시스템에 사용되는 오일을 공급·보충하기 위하여 사용되는 반투명의 플라스틱 탱크로, 캡 내부에 레벨 게이지가 설치되어 있는 것도 있다.",-
+P0,PILOT #0,신차종 생산시 시운전을 위해 직접 생산 LINE에 투입한 최초의 차량(차체부문),-
+P1,PILOT-1,"Body 정도확보, 설비 및 치구 품질확보, 작업자 훈련, 내구시험차량 제작 등을 목적으로 만드는 차. All Tool 제품 제작으로 부분적 제품 하자는 인정함",-
+P2,PILOT-2,"시험결과 제시된 부품, 설비, 치구 등의 문제점 개선 반영결과 확인 및 미개선, 미완료 문제점 개선 Data를 수집하고 차량/부품 종합품질확인 내구시험 및 제원 확인 목적으로 제작한 차량. Full Tool 조건 제품 제작으로 검사기준서 대비 95% 합격 or 결함 불가 조건이 추가됨",-
+PAB,PASSENGER A/BAG,FRNT_ASS측 AIR BAG,-
+PAB,PASSENGER AIR BAG,조수석 에어백.,-
+PA-PDR,Parking Assist-Perpendicular Reverse,주차 보조-직각후진,-
+PA-PDR,Parking Assist-Perpendicular Reverse,-,-
+PA-PRL,Parking Assist-Parallel,주차 보조-평행,-
+PA-PRL,Parking Assist-Parallel,-,-
+PAS,PREVIEW ACTIVE SUSPENSION,조정성 및 승차감을 동시에 만족시켜 주는 전자 제어 서스펜션.,-
+PASDS,POWER AND SIGNAL DISTRIBUTE SYSTEM,전원분배를 간략하게 나타낸것. (전원체계표),-
+PASS OC,PASSENGER OCCUPATION,기본의 PPD(PASSENGER PRESENCE DETECTION) 기능이 업그레이드 된 것으로 동승자의 탑승 유무만을 감지하던 PPD와는 달리 6세미만의 아이들을 감지하는 기능이 추가됨.,-
+PASS STPS,PASSENGER SEAT TRACK POSITION SENSOR,"운전자, 동승자의 시트 위치를 감지하여 에어백의 전개 크기를 조정하여 운전자 및 동승자의 안전을 최대화함.",-
+PASS_OC_STPS,PASSENGER OCCUPATION SEAT TRACK POSITION SENSOR,기존의 탑승자의 유무만을 감지하던 PPD의 한단계 진보된 시스템으로써 탑승자의 유무뿐만 아니라 6세 이하의 어린이를 감지하는 센서와 시트의 위치를 감지하는 시스템,-
+PASSIVE S/BELT UNIT,PASSIVE SEAT BELT UNIT,자동 안전 벨트 장치.,-
+PBP,PASSENGER BELT PRETENTIONER,벨트 조절 장치.,-
+PBS,PAINTED BODY STORAGE,자동차 제조공정중 도장완료후의 BODY를 대기시켜 놓는 장소,-
+PBU,PERFUME BLOWER UNIT,탑승자 선택 모드에 따른 향기를 제공하는 시스템 (무드테라피 기능 연동 : 시트+조명+사운드+발향 시스템),-
+PBV,Purpose Built Vehicle,목적기반 모빌리티,-
+PCA-F,Parking Collision-Avoidance Assist-Forward,주차 충돌방지 보조-전방,-
+PCA-F,Parking Collision-Avoidance Assist-Forward,-,-
+PCA-R,Parking Collision-Avoidance Assist-Reverse,주차 충돌방지 보조-후방,-
+PCA-R,Parking Collision-Avoidance Assist-Reverse,-,-
+PCB,PRINTED CIRCUIT BOARD,회로를 PRINT한 판(전자부품 집적회로),-
+PCCU,Plasma Carbon Conversion Unit,플라즈마 탄소전환장치. 이산화탄소에 메탄을 혼합해 고부가가치 산업용 가스인 수소와 일산화탄소를 생산,-
+PCR,PRODUCTION CONTROL REPORT,생산 지시 통보서.,-
+PCSV,PURGE CONTROL SOLENOID VALVE,변속시 유압제어. TCU는 각 센서로부터 받아들인 정보를 각각의 변속에 알맞은 변속시의 유압 특성을 판단 PCSV를 DUTY 제어,-
+PCSV,Purge Control Solenoid Valve,연료탱크의 증발된 탄화수소(HC)가스를 캐니스터 (Canister)에 보관 하고 있다가 ECU의 신호를 받아 다시 서지탱크로 유입시키는 역할 (연료탱크의 증발가스를 적절히 개폐하여 증발가스의 외부 유출로 인한 대기오염 방지와 연료의 증발 손실 방지),-
+PCU,POWER CONTROL UNIT,파워 컨트롤 유니트,-
+PCV,Positive Crankcase Ventilation,Crank Case 환기 밸브. 엔진 하단 부품을 구성하는 Crank case 또는 엔진 상단부를 구성하는 실린더 헤드와 흡기관을 연결하는 밸브. 배출 가스 저감 장치로 미연소 혼합기를 부분 진공을 이용하여 흡기관 연소실로 다시 끌여들임,-
+PCV,PRESSURE CONTROL VALVE,브레이크 압 조절 밸브. (정화),-
+PCV,Purge Control Valve,퍼지 컨트롤 밸브. 평상시엔 스프링에 의해 닫혀있으나 허용범위 외의 압력일 시 자동으로 열리는 밸브. 엔진에서 생성된 블로바이 가스를 매니폴드 부압 유무에 따라 가스를 에어 클리너 쪽으로 보내 재연소시킴.,-
+PCW-F,Parking Collision Warning-Forward,주차 충돌 경고-전방,-
+PCW-F,Parking Collision Warning-Forward,-,-
+PCW-R,Parking Collision Warning-Reverse,주차 충돌 경고-후방,-
+PCW-R,Parking Collision Warning-Reverse,-,-
+PD,Proximity Detection,충전기가 충전구에 꽂혀있는지 확인 여부 (충전구가 꽂혀있으면 전기차 이동이 불가),-
+PDC,Park Distance Control,주차 거리 제어,-
+PDC,Powernet Domain Controller,"기본형, 표준형, 고급형으로 플랫폼화된 실내정션블록 (GN7 이후 적용).",-
+PDL,PART DISTRIBUTION LIST,부품 공급서.,-
+PDM,POWER DISTRIBUTION MODULE,전원분배모듈,-
+PDP,PROCESS DEVELOPMENT PLAN,제품의 품질목포를 달성하도록 공정특성을 구체적으로 검증하고 관련있는 공정조건을 최적화하는 과정이다,-
+PDS,Power Door Closer System,"전자동 도어 오픈/클로즈 시스템 (PDS SYSTEM), 액츄에이터를 통해 도어 개폐 스위치로 도어 오픈/클로즈 작동 시킴",-
+PDT,PeDal Travel sensor,페달 경로 센서. 브레이크 페달에 가해진 힘과 그에 따른 페달 이동을 측정하도록 구성된 페달 센서,-
+PDU,Power Distribution Unit,전력 분배기. 보조전원공급장치로부터 전력을 공급받아 전기차의 전장부품과 등화류에 전원을 공급하는 부품,-
+PDU,Protocol Data Unit,프로토콜 데이터 단위. 데이터 통신에서 상위 계층이 전달한 데이터에 붙이는 제어 정보 (신호와 메세지 사이의 추상화 계층),-
+PDW-F,Parking Distance Warning-Forward,주차 거리 경고-전방,-
+PDW-F,Parking Distance Warning-Forward,-,-
+PDW-R,Parking Distance Warning-Reverse,주차 거리 경고-후방,-
+PDW-R,Parking Distance Warning-Reverse,-,-
+PE,Product Enhancement,상품성 개선,-
+PE,Protective Earth,전기차 AC 충전 보호 Earth,-
+PE ROOM,Power Train Engine Room,파워 트레인 엔진룸,-
+PEC,Pacific Engineering Corporation,협력사 퍼시픽 엔지니어링 코퍼레이션,-
+PEI,PRODUCT EQUIPMENT INFORMATION,제품 사양 일람표. 사양기획차원에서 설계원가 추정. 제품 사양 특성 구분을 위해 마케팅/설계/원가등 관련 부문간의 협의된 제품 사양 통보를 말함.,-
+PEL,PRODUCT EQUIPMENT LIST,"차종, 연식,지역, BODY TYPE, TRIM LEVEL별 ITEM의 적용특성(STD,OPT)을 나타내는 제품사양 일람표",-
+PEM,Power Electronics Module,전기자동차에서 기존 내연차의 엔진역할을 담당하는 구동부품.,-
+PERSONAL IC CARD,-,IMMOBILIZER기능과 KEYLESS ENTRY 기능 통합으로 편의성 향상.,-
+PERSONAL IDENTITY CARD DOOR WARNING SWITCH,PERSONAL IDENTITY CARD DOOR WARING SWITCH,KEY 소유자 이외의 사람이 문을 열때 경고를 울리는 시스템의 스위치,-
+PFC,Power Factor Correction,역율 개선 회로. AC - DC 변환 컨버터에서 전압과 전류 위상이 불일치하여 역률이 나빠지는 문제를 개선한 회로.,-
+P-FMEA,PROCESS FAILURE MODE AND EFFECTS ANALYSIS,공정에서 발생하는 잠재적 고장형태와 이와 연관된 원인/매커니즘이 고려되고 개선을 위한 수단으로 활용되어지는 분석적 기법이다,-
+Ph,PHONE,음 세기의 단위. 표.,-
+PHOTO CELL,-,버스 답단에 설치하여 승객의 승하차를 감지하기 위한 적외선 센서.,-
+PHOTO SNSR,PHOTO SENSOR,광전 감지기.,-
+PHV,PRESSURE HOLD VALVE,브레이크액 압 유지 밸브.,-
+PHY,Physical Interface Transceiver,(통신용어) 논리 신호 (0 or 1) - 물리적 신호를 상호 변환하면서 전송하는 인터페이스.,-
+PIC,Personal Identification Card,차량의 주위에 KEY 소유자가 인식이 되면 자동으로 도어를 오픈하는 시스템.,-
+PIEZO,PIEZOelectric element,"피에조 소자 (압전 소자). 압력을 가함으로써 전압을 발생 (압전 효과)시키거나, 전압을 가함으로써 변형을 (역압전 효과)일으키는 디바이스. 얇은 판을 붙여주고 전원을 공급하면 미세한 떨림으로 인해 소리가 나게 되는데, 이를 이용해 부저(Buzzer)로 사용된다",-
+PILOT,PILOT,"신차종으로서 Jig 및 Press Panel의 정도확인, 부품 장착성과 기능확인, 작업방법과 작업성 검토, 내구성 및 시험용 차량지원, 작업자 숙련 및 완성차 품질확인 등을 목적으로 신규 설비 Line에서 제작되는 차.",-
+PIO,Port Installed Option,"차량이 인도 되기 전, 토잉 팩(Towing Pack) 장착하여 소비자한테 차량 인도 (장착점 : 글로비스 VPC 센터)",-
+PL,PAY-LOAD,적제 하중.,-
+PLAIN BACK,PLAIN BACK,스포츠카나 미드십엔진의 수퍼카에서 흔히 볼 수 있다. 패스트백에 비해 뒷부분의 옆면적이 크지만 최근의 플레인백의 영향을 받아 구별할 수 없는 스타일이 많다.,-
+PLATOON SYSTEM,군집 주행 시스템,AIV와 통신을 이용하여 다 차량이 군집 주행을 가능하도록 하는 시스템을 말함.,-
+PLBM,Parking Lithium Battery Module,-,-
+P-LBM,Parking-Lithium Battery Module,리튬 배터리 모듈. 차량 대기 중 빌트인 캠(소위 블랙박스) or OTA 시스템에 의한 방전을 막기 위한 추가적인 배터리 모듈.,-
+PLC,Power Line Communication,전기선을 통하여 인터넷을 할 수 있는 통신 방법 (케이블 어셈블리의 통신매체와 커플링되어 전력 충전 시스템으로부터 전송되는 전력선 통신),-
+PLC,Programmable Logic Controller,프로그래밍 가능한 논리 제어기. 기본적인 시퀀스 제어 기능에 수치 연산 기능을 추가하여 프로그램 제어가 가능하도록 하며 메모리에 있는 프로그램의 시작과 끝을 순환(SCAN)하면서 로직을 수행하면서 자율성이 높은 제어 장치,-
+PLL,PHASE LOCKED LOOP,위상 동기 회로. (라디오),-
+PM,PROJECT MANAGER,"PROJECT의 일정 준수 및 원가 절감 등을 위해 PROJECT 관련 업무 추진, 조정, 감독하는 자.",-
+PM SNSR,Particulate Matter Sensor,엔진내 미세먼지를 검출하여 엔진 동작을 개선시키기 위한 센서,-
+PMC,Power Module Complete,연료전지 통합 모듈. 연료전지 스택과 운전장치를 포함하는 전기에너지 생성 통합 모듈,-
+P-MDPS,Pinion-MDPS,모터가 피니언 기어에 장착되는 방식의 EPS. 주로 중형~중대형 차량에 사용,-
+PNL,PANEL,판넬.,-
+PODS,PASSIVE OCCUPANT DETECTION SYSTEM,좌석에 앉은 승객의 무게를 측정해 입력값으로 변환하여 전자제어장치와 안전벨트 장력센서로 보내져 전체적인 입력신호를 결정. 여기서 산출된 전체적인 입력신호에 따라 에어백 전개 여부가 결정,-
+PoE,Power over Ethernet,"이더넷 전원 장치. 네트워크 장비에 전원을 연결하지 않고, UTP 케이블을 이용하여 데이터 및 전력을 함께 전송하는 기술.",-
+POF,Plastic Optical Fiber,"플라스틱 광 섬유. 유리광섬유(GOF, Glass Optical Fiber)의 단점을 보완하면서 개구수도 높아 비전무가도 다루기 쉽고, 구축 비용 또한 저렴한 장점을 가진 소재",-
+POP,POINT OF PRODUCT,생산관리시점정보시스템,-
+POWER OUTLET,POWER OUTLET,전원 분배기,-
+POWER STEERING PUMP,POWER STEERING PUMP,파워 핸들 펌프(POWER STEERING : 엔진의 힘을 이용하여 핸들의 조작을 용이하게 하는 장치.),-
+POWER TILT'G,-,전기적인 힘을 이용한 CAB TILT'G,-
+PP,PILOT PRODUCTION,본격적인 양산전에 Line 및 작업자의 숙련 및 점검을 위해 선행하여 생산하는것. (현재는 잘 사용하지 않는 용어임.),-
+PP,PILOT PRODUCTION (초도양산),본격적인 양산전에 Line 및 작업자의 숙련 및 점검을 위해 선행하여 생산하는것.,-
+PP,PLANT PRODUCTION,당사 제작품.,-
+PPAP,PRODUCT PART APPROVAL PROCESS,"양산부품 승인절차 양산부품이란 양산 설비, 금형, 치형구, 계측기, 공정, 작업자 및 제반공정이 관리조건이 완비된 상태에서 생산된 부품(정규 양산체제 조건완비) 고객 대리인 지정할 경우, 고객 요구 조건에 따라 PPAP 실행 고객 대리인 지정하지 않을 경우, 최소 300ea, 1~8hrs 동안의 연속 생산분에 의한 대표부품의 측정 및 시험 실시",-
+PPD,PASSENGER PRESENCE DETECTION,PPD는 앞 조수석 시트에 설치하여 조수석 승객 유무를 감지하는 센서이다. 만일 승객이 탑승하지 않았다면 충돌이 일어나더라도 조수석 에어백은 전재되지 않는다. 따라서 수리시 조수석 에어백을 교환할 필요가 없다. 15kg 이상 감지시 승객 있음으로 인정한다.,-
+PPM,PARTS PER MILLION,백만분의 일의 값.,-
+PPR,PRODUCT PROBLEM REPROT & ACTION RECORD,제품 문제점 통보 및 조치 결과서.,-
+PPR,PRODUCTION PROBLEM REPORT,생산 문제 보고 - G/E가 파견되지 않은경우 고객측으로부터 생산문제를 보고 받을때,-
+PPV,PROPOSITION VALVE,"후륜 조기 잠금으로 인해 브레이크가 미끄러지는 것을 방지하고, 서비스 브레이크 작동 범위 내에서 더 높은 제동 효율을 유지하기 위해 전륜과 후륜에 이상적인 유압을 분배하는 역활.",-
+PQR,Procedure Qualification Record,(품질 관련) 절차 인정 기록서,-
+PR,PLY-RATING,타이어 탄성 지수.,-
+PRA,Power Relay Assembly,"고전압 전원 ON/OFF 릴레이. 전기차 시동 스위치 ON 시, 300V 이상의 전압이 인버터 콘덴서(전기에너지를 저장)에 가해지면서, 콘덴서의 물리적 원리에 따라 순식간에 업청난 전류가 흘러 타버리게 되므로 짧은 시간 동안 전류 값을 30A 이하로 일정한 수준에서 유지시켜 콘덴서가 거의 99% 충전되는 순간에 300V 이상의 직류 전압을 연결시켜주는 장치",-
+PRAC,Park Release Actuator Controller,파킹 릴리이즈 액추에이터 제어 장치. 차량이 중립단으로 주차된 상태에서 사전에 설정된 조건을 만족하는 경우 주차단으로 변경.,-
+PRE,PREHEATER,차실내 신속 난방 및 한냉지 보조 HEAT'G 장치로 사용,-
+PRESS SW,PRESSURE SWITCH,에어컨 동작을 위한 압축 스윗치.,-
+PRIVACY GLASS,-,차량 내부를 잘 볼 수 없도록 짙게 SUNTING 된 GLASS,-
+Process Flow Diagram,공정 흐름도,재작업 또는 수리를 포함하는 공정 전반에 걸친 자재의 흐름을 나타낸 그림으로 공정흐름도 (Process Flow Chart)라고도 불리운다,-
+PRODUCT BASIC DEVELOPMENT PAPER,개발 기본 계획서,"기본 CONCEPT, 기본 LAYOUT, 상품성 목표, 예상대수, 목표 가격, 개발 및 생산 투자액 등 상품 기본구성안을 설정한 기획서.",-
+PRODUCT CONCEPT,상품 컨셉,"개발부품 니즈에 따라 설정된 주요목표와 사내외 조건에 따라 설정한 상품의 이미지 및 아이디어, 개략적인 차의 내용 및 디잔인이 결정되며 이미지가 확정되면 이것을 실현하게 하는 복수의 기획 목표안으로 변환한다. 이 복수 기획목표안들 가운데 최적의 것을 기획안으로",-
+PROJ H/LP,Projection Head Lamp,"프로젝션 헤드램프. 뒤쪽 반사판을 사용하지 않고, 대신 앞쪽의 둥근 렌즈를 통해 한 곳에 빛이 모이도록 투사하는 방식",-
+PROJECT,-,"신상품. 파생차종.FACE LIFT, POWER TRAIN 추가 및 성능 개선 등을 위해 추진되는 개별 사업계획으로서 각각 해당 PM이 선정되어 총괄한다.",-
+PROT,PROTECTOR,DOOR에 장착되는 SPEAKER를 빗물로부터 보호하기 위해 SPEAKER의 CONE지를 보호(RAIN COVERA),-
+PROTO CAR,-,"생산라인을 통하지 않고 초기차량의 Installation 확인, 설계문제점 및 성능(내구성, 목표성능,법규대응 등)을 확인하기 위해 제작되는 차량을 의미한다.",-
+PRV,PRESSURE REGULATOR VALVE,인젝터에 연료 압력을 일정하게 조절해주는 밸브,-
+PRV,PRESSURE_REGULATING_VALVE,인젝터에 연료 압력을 일정하게 조절해주는 밸브,-
+PSA,Potential Supplier Assessment,잠재적 신규업체 평가.경쟁력 있는 우수업체를 발굴하기 위해 정식업체 등록이전에 자체 평가를 통해 신규 Bidding에 참가할 수 있는 적격업체를 선정하는 절차.,-
+PSAACRF,Power Sum Attenuation to Alien Cross Talk Ration Far End,(통신 용어) 원단누화의 감쇄율. 여러 개의 통신 회선의 누화로 인해 발생되는 전송신호의 손실 비율의 합. Ex) (입력1+2+3) - (출력1+2+3),-
+PSAFEXT,Power Sum AFEXT(Alien Far End Cross Talk),(통신 용어) 원단누화 합. Ref) AFEXT,-
+PSANEXT,Power Sum ANEXT(Alien Near End Cross Talk),(통신 용어) 근단누화 합. Ref) ANEXT,-
+PSB ECU,Pre-safety Seat Belt ECU,"충돌사고 전 시트벨트와 승객간 슬랙을 제거하여 승객 안전성을 최적화하고, 위험상황(급제동/급선회/위험감지/차선이탈) 시 승객 조기구속 및 위험 사전 경고",-
+PSD,Power Sliding Door,"자동차 도어 개폐 시 편의성 향상을 위해 슬라이딩 도어를 자동으로 여닫을 수 있는 도어, 전자식 슬라이딩 도어라고도 함.",-
+PSFB,Phase Shift Full Bridge,"위상 천이 풀 브리지 컨버터. 작은 RMS 전류, Zero-Voltage Switching(ZVS) 능력, 용이한 제어알고리즘 등의 장점을 가지고 있어 전기자동차용 DC-DC 컨버터에 주로 사용",-
+PSI,POUND PER SQUARE-INCH,압력의 단위.,-
+PSIS,Pressure Side Impact Sensor,"압력방식 측면 충돌센서로 운전석/조수석 차량도어 내부에 장착되며, 차량 측면의 충돌 사고시 도어 내부의 압력 변화를 감지해 ACU에 압력 데이터를 전달",-
+PSM,PORSCHE STABLILTY MANAGEMENT,포르쉐 주행 안전 장치,-
+PSM,Power Seat Module,파워시트모듈. 차량의 시트의 위치를 제어,-
+PSO,PROCESS SIGN OFF,부품제조공정승인. 신규 부품에 대한 사전 품질계획 및 활동을 통해 부품품질을 설계수준에 만족케 하고 협력업체의 생산 및 공정능력을 PILOT투입 이전에 확보케 하여 양산 초기품질 안정과 양산이후 품질 산포를 최소화하기 위한 활동이다.,-
+PSO,PRODUCTION STANDARD ORDER,생산 표준 통보서.,-
+PSU,Power Seat Unit,파워 시트 유닛.,-
+PSU,Power Supply Unit,일반 AC 전원이 없는 곳에서 고전압을 사용하기 위한 장치,-
+PSU,Pressure Source Unit,압력 자원 장치. 고압(180bar)의 제동 압력을 생산/저장.,-
+PSV,PURGE SOLENOID VALVE,TCS 장착 차량에만 적용. 듀티 제어식이며 캐니스로부터 퍼지 에어의 유입을 제어하는 역할.,-
+PTC,POSITIVE TEMPERATURE COEFFICIENT,"주변온도에 따라 발열량이 상대적으로 증감하는 센서 방식으로 실내HVAC UNIT내 위치하며 DSL차량에만 장착되어 PTC소자를 이용한 공기예열 작용한다. - 용량:1KW,소비전류:75A임. - 동작순서 (외기온도:5도이하,냉각수온:40도이하 밧데리전압(10V이상) 센서->ECU->히터컨트롤->PTC 히터",-
+PTC,Positive Temperature Coefficient Heater,"자동차 냉각수의 온도가 일정온도에 도달하기 전에 전기발열을 통해 난방을 작동하는 시스템(가솔린 차량은 냉각수의 온도가 빨리 상승하므로 PTC 미장착, 디젤 차량은 비교적 늦게 올라가기 때문에 일반적으로 보조난방장치인 PTC를 장착) 전기차는 엔진룸이 없기 때문에 PTC를 보조난방이 아닌 주난방으로 사용.",-
+PTC HTR,POSITIVE TEMPERATURE COEFFICIENT HEATER,"주변온도에 따라 발열량이 상대적으로 증감하는 센서 방식으로 실내HVAC UNIT내 위치하며 DSL차량에만 장착되어 PTC소자를 이용한 공기예열 작용한다. - 용량:1KW,소비전류:75A임. - 동작순서 (외기온도:5도이하,냉각수온:40도이하 밧데리전압(10V이상) 센서->ECU->히터컨트롤->PTC 히터",-
+PTG,POWER TAIL GATE,파워테일게이트(테일게이트를 전동으로 열고 닫을 수 있는 시스템),-
+PTJ,PILLOW JOURNAL TRIPOD JOINT,등속조인트. 등속 조인트 T/M 측에 주로 장착 되는 조인트. 절각과 슬라이딩이 동시에 가능,-
+PTL,POSITIVE TEMPERATURE COEFFICENT,정온도 특성.,-
+PTL,POWER TRUNK LEAD,트렁크를 전동식으로 개폐할수 있도록 하는 장치,-
+PTLM,Power Trunk Lid Module,-,-
+PTM,Power Trunk Module,파워 트렁크 모듈.,-
+PTO,POWER TAKE OFF,"주행 이외의 목적(DUMP,특장차)으로 동력을 얻기 위하여 T/M에 부착하는 장치로서 트랜스미션에서 발생되는 동력의 일부를 DUMP DECK LIFT시 필요한 동력으로 공급하는 장치",-
+PURGE SOLENOID,-,증발 가스를 조정하기 위한 솔레노이드. 연료 탱크의 증발 가스를 솔레노이드를 이용하여 서지 탱크에 유입 시켜 연료 절감과 폭발/화재를 예방한다.,-
+PUSHER AXLE,-,"작업시 작업면이 평편하지 않거나 경사지 또는 차체의 고정이 필요할 때 싸이트에서 보조 받침대가 나와 지면에 차체를 단단하게 고정하여 작업의 안정성을 높인다. 특히 특장차(펌프카,카고등)에 많이 쓰임.",-
+PVF,Preceding Vehicle Following,"선행차량 추종 자율주행. 차선 인식 시스템(LKAS, LDWS)을 대체한 것으로, 판독 불가능한 차선이나 공사 구간 도로를 구별할 수 있는 기능이다. 차량의 주변을 감지하면서 주행 경로와 선행 차량의 속도를 인식하여 주행 여정을 계산하고 안전거리를 유지",-
+PVP,PRODUCTION VALIDATION PROCESS,양산품에 대한 유효성을 검증.,-
+PWI,PAD WEAR INDICATOR,"브레이크 패드에 장착된 구리재질 판으로 마찰재가 완전 마모되어 없어지기전에 구리재질이 디스크와 접촉, 소음을 유발함으로써 패드 마모상태를 운전자에게 알려주는 장치",-
+PWM,Pulse Width Modulation,"입력의 직류전압을 잘게 잘라 출력전압을 Pulse상으로 하여 그 Pulse의 수, 간격,폭등을 제어하는 목적으로 하는 주파수의 교류를 얻을 수 있는 것이다. 이것에 의해 동일동로에서 다른 실효치의 전력을 얻는 것이 가능하게 됨. 적용 : COOLIING MDL, MOTOR 속도--> WIPER 간",-
+PZEV,PARTIAL ZERO EMISSION VEHICLE,무공해차. Battery Electric Vehicle(BEV) technology 발달로 도입된 개념으로 모든 운전 mode/condition에서 오염물질을 거의 배출하지 않는 차,-
+QA,QUALITY ASSURANCE,어떤 항목이나 제품이 설정된 기술적인 요구사항과 일치하는가를 적절하게 확인함,-
+QCM,Quick Change Machine,(로봇기반) 배터리 교환장치. LUM(Lift Up Machine)/LOM(Lift Off Machine) 시스템의 매커니즘 기술을 이용하여 전기자동차의 핵심 부품인 배터리를 교체함으로써 1~2분 안에 전기자동차용 배터리 교체,-
+QCMS,Quick battery Changing Machine System,배터리 자동 교환 충전 시설.,-
+QDM,Quick Deliverly Mold,초단납기에 제작 지원하는 시스템,-
+QFD,QUALITY FUNCTION DEPLOYMENT,"고객의 요구사항이 제품, 개발 및 생산의 각 단계에 있어서 적절한 기술력 요구사항으로 표현되어지는 구조적인 방식이다.",-
+QIR,QUALITY INFORMATION REPORT(품질정보보고서),"품질상의 불만,문제점에 대하여 전산망으로 구축된 품질정보처리 Syetem, 또는 품질정보보고서에 의해 입수되는 외부정보 및 기 판매차량에 문제점 발생의 우려가 있는 내부정보와 기타 완성 차종의 품질확보를 위한 제반정보.",-
+QIR,QUALITY INFORMATION REPROT (품질 정보 보고서),양산이후 발생된 품질문제에 대해 현상 및 원인들을 작성한 보고서. FIELD로부터 품질본부에 일정한 서식으로 제기되는 품질정보 통보서,-
+QOS,Quality of Servic,(통신 용어) 서비스 품질. 트래픽을 생성하는 애플리케이션의 필수 동작에 맞게 라우터나 스위치 같은 네트워크 디바이스가 해당 트래픽을 전달할 수 있도록 트래픽을 조작하는 것.,-
+QTP E-BUS,Quick Top Pick E-BUS,배터리 교환방식 전기버스.,-
+QTR,QUARTER,1/4.,-
+QTY,QUANTITY,수량.,-
+R/DECK,REAR DECK,뒷 적재함.,-
+R/DRIVER,RECEIVER DRIVER,냉매를 받아들이는 장치.,-
+R/FAN,RADIATOR FAN,냉각수의 온도가 올라가면 THERMO SW가 작동하여 팬 모타에 의해 작동 냉각수의 온도를 떨어뜨리는 장치.,-
+R/FAN MTR,RADIATOR FAN MOTOR,냉각수의 온도가 올라가면 THERMO SW가 작동하여 팬 모타에 의해 작동 냉각수의 온도를 떨어뜨려 엔진 룸 내의 열을 식혀주는 모터.,-
+R/GUIDE,ROUTE GUIDANCE,행선지 알림 시스템,-
+R/ON A/CON,AIR CONDITION ON THE ROOF,BUS ROOF 상부에 설치되는 AIRCONDITION,-
+R/ON A/CON,AIRCONDITION ON THE ROOF,BUS ROOF 상부에 설치되는 AIRCONDITION(OPERRATION PNL),-
+R/W DIODE,RELAY WITH DIODE,다이오드가 있는 릴레이.,-
+RAB,REAR SIDE AIRBAG,고급차량의 후석 승객의 정면 충돌시 안전성을 확보키 위해 FRONT SEAT BACK 후면 또는 ROOF에 장착하는 후석용 AIR BAG,-
+RAC,ROYAL AUTOMOBLE CLUB,영국 왕립 자동차 클럽.,-
+RAD,RADIATOR,방열기.,-
+RAD,Runaway Arresting Device,"배터리 셀(Battery Cell) 과충전에 의해 부풀어 오르는 상황이 되면, RAD 에 의해 고전압 +/- 릴레이, 프리차지(Pre-Charge) 릴레이 코일단의 접지 라인을 차단",-
+RADAR,RAdio Detection And Ranging,"전파'를 사용하여 멀리 떨어져 있는 물체를 감지하고, 그 속도와 배치를 정의하는 기술",-
+RADIO,RADIO,라디오.,-
+RADIO PHONE,-,기존 AUDIO를 CAR-PHONE과 일체화하여 기능성/편의성을 향상시킨 시스템.,-
+RAIN SENSOR,RSS,Windshield Glass위의 빗물의 양을 센서가 감지하여 Wiper의 작동속도를 자동으로 조절하는 시스템.,-
+RAIN_SNSR,RAIN SENSOR,Windshield Glass위의 빗물의 양을 센서가 감지하여 Wiper의 작동속도를 자동으로 조절하는 시스템,-
+RAM,Rear Area Module,차량/실내 후방부에 장치된 기기의 통신모듈,-
+RANC,Road-noise Active Noise Control,능동형 노면소음 저감기술. 주행 중 타이어와 아스팔트 노면이 만나면서 발생하는 노면 소음을 획기적으로 줄여주는 기술,-
+RAS,Rear Active Steering,후륜 조향 스티어링,-
+RASIC,"Responsible, Approve, Support, Inform, Consult",(업무 용어) 프로젝트 팀 요원들의 역할 및 책임을 도식적으로 기술해 놓은 것 (ref : R&R).,-
+RATED RPM,-,원동기에서 최대 출력이 발생되는 회전수.,-
+RCAR,Research Council for Automobile Repairs,자동차수리위원회. RCAR 테스트는 저속 전/후면 충돌시험을 통해 신차의 손상성과 수리성을 측정하는 테스트로 1~26등급 사이에서 등급이 산정되며 결과에 따라 해당 모델의 자차보험료 할인·할증 등급이 결정함.,-
+RCCA,Rear Cross-Traffic Collision-Avoidance Assist,후방 교차 충돌방지 보조. 저속 후진 시 좌/우측에서 다가오는 차량과의 충돌 위험을 감지하면 경고. 경고 후에도 충돌 위험이 높아지면 자동으로 제동.,-
+RCCA,Rear Cross-Traffic Collision-Avoidance Assist,-,-
+RCCW,Rear Cross-Traffic Collision Warning,후방 교차 충돌 경고,-
+RCCW,Rear Cross-Traffic Collision Warning,-,-
+RCTA,Rear Cross Traffic Alert,"후측방 경보 시스템. 좌우 시야가 막힌 주차 공간 등에서 후진 주행 시 레이더가 차량 좌우 최대 20m 범위에서 접근하는 물체를 감지하면, 후방 카메라 영상에 접근 방향의 경고 화살표를 표시하고, 경고음을 3회 울려 운전자에게 다가오는 위험을 경고하는 시스템",-
+RCU,Redundancy Control Unit,"[자율주행차량] 리던던시(이중화, 여분 또는 중복) 브레이크 시스템. 전기장치 고장이나 외부 충격 등으로 브레이크가 정상 작동하지 않을 경우에도 비상제동장치가 스스로 작동 .",-
+RCU,Relay Control Unit,릴레이 컨트롤 유닛.,-
+RCU,Remote Control Unit,원격 제어 장치.,-
+RCV,Recirculation Control Valve,":. 흡기 시스템 내부 압력 과다 시, 과급공기를 바이패스(Bypass : 우회) 시켜주는 장치.",-
+RDB,Routing DataBase,라우팅 데이터베이스. 각기 다른 CAN (P-CAN / C-CAN / M-CAN / B-CAN / E-CAN 등) 통신 테이터의 경로 설정(Routing) 해주는 차량용 게이트웨이 역할.,-
+RDC,Rear Door Curtain,리어 도어 커튼.,-
+RDC,Regional Distribution Center,"지역물류센터(광역물류센터). 완성차 공장 및 협력업체에서 부품을 확보한 뒤 권역물류센터(PDC)로 보내는 곳. (EX : 서울 창고 - 서울, 경기도에 상품을 배송 / 대전 창고 - 대전, 충남지역에 상품을 배송)",-
+RDE,Real Driving Emission,실도로 배출가스 관리제도 _ 실험실에서 배기가스 측정을 하는게 아닌 실제 도로를 주행하면서 배기가스에 어떤 오염물질이 얼마나 섞여있는지 측정하는 배출가스 규제제도,-
+RE,ROTARY ENGINE,로터리 엔진.,-
+READING LAMP,READING LAMP,실내등의 일종으로 뒷좌석 양쪽에 위치해서 야간 독서시 불빛이 타인에게 방해가 되지 않도록 제작되어 독서시만 사용한다.,-
+REAR SAFETY GUARD,-,차량 후부로 보행자 및 추돌차량의 말려듬 방지.,-
+REAR STEP PLATE,-,발을 디딜수 있도록 고안된 리어 범퍼 상단면에 장착된 판.,-
+REC,RECirculation,에어컨 내기모드.,-
+REC QTY,RECEIVED QUANTITY,입고 수량.,-
+RECEIVER DRIER ASSY,-,"에어컨 시스템을 순환하는 냉매에 섞인 오물과 수분을 걸러주며,냉매가 증발기로 유입되기 직전에 일시 보관하는 장치이다. 켄덴서와 팽차밸브 사이에 장착된다. 또 리시버 탱크에는 냉매가 이상 고압 또는저압이 발생시 자동으로 시스템을 차단시키는 고,저압 압력 스위치(H",-
+REED SW,REED SWITCH,차량 속도 감지기 스윗치.,-
+REED SW,REED SWITCH,에어콘 관련 스윗치로서 C/LIGHTER에서 작동하여 담배 연기를 밖으로 배출하기 위한 스윗치.,-
+REG,REGULATOR,ALT에서 발전된 전류를 승용차에 필요한 12V로 조정되어 차내 공급 및 12V로 BATT에 충전됨. ALT 내부에 위치하고 있다.,-
+REJ QTY,REJECT QUNTITY,부품이 입고된 후 품질 관리 검수에서 불합격 판정을 받은 수량.,-
+RESISTANCE_TML,RESISTANCE TERMINAL,종단 저항,-
+RESISTOR,RESISTOR,송풍기 스윗치에 있는 저항기.,-
+RETARDER (리타더),-,미션과 엔진사이의 시프티축에 강력한 자장을 일으켜 브레이크 역할을 하게 하는 장치(미션쪽에 위치) / 대형 상용차량의 변속기에서 유압기동장치를 사용해 제동력을 제공하는 브레이크,-
+RETN PUMP,RETURN PUMP,복귀 펌프. ECS와 관련된 쇼바를 전자로 조정.,-
+RETN RLY,RETURN RELAY,복귀 릴레이.,-
+REVERSE WARNING BUZZER,-,차량 후진시 이를 알리기 위한 BUZZER,-
+RFI,Radio Frequency Interference,무선 주파수 간섭.,-
+RFQ,REQUEST FOR QUOTATION,부품에 요구되는 성능과 사양을 평가하여 설계에서 업체로 제시하는 사양 및 제원.(견적 요청서),-
+RH,RIGHT HANDLE,오른쪽 핸들.,-
+RHD,RIGHT HANDLE DRIVE,핸들이 오른쪽에 위치한 차량.,-
+RHEO,RHEOSTAT,가감 저항기. 차량 각 부위의 조명 밝기를 조절하는 장치.,-
+RHEOSTAT,RHEOSTAT,"조광기, 가감저항기",-
+RING HAND RAIL,-,핸드레일 중간중간에 손잡이(ring)를 설치.,-
+RKE,Remote Keyless Entry,버튼식 무선키.,-
+RL,Return Loss,(EMC 용어) 반사 손실. 입력단에 들어간 전력이 반사되어 발생한 손실.,-
+RLSM,Rear Left Seat Module,뒷자석 좌측 시트 모듈,-
+RLY,RELAY,스윗치의 접점을 보호하기 위해 사용되는 부품.,-
+RLY BOX,RELAY BOX,릴레이 박스.,-
+RLY FAILSATE,RELAY FAILSAFE,ABS 관련 보조 작동 릴레이.,-
+RLY MTR,RELAY MOTOR,릴레이를 작동 시키는 모타.,-
+R-MDPS,Rack Gear-MDPS,MDPS가 렉기어에 위치한 방식. 모터가 두 바퀴를 연결하는 조향축에 위치하기 때문에 조향감이 가장 뛰어나지만 단가가 가장 비쌈.,-
+RO,Repair Order,"수리 지시서. 필드 정비소 차량 수리후 등록하는 정보 (차량 생산정보, 현상, 수리내용 등)",-
+ROA,Rear Occupant Alert,"후석 승객 알림시스템. 운전자 하차 시, 뒷자석 승객의 탑승 여부를 확인하라는 메세지를 경고음과 함께 내보내는 기능.",-
+ROC,REQUIRED OPERATIONAL CAPABILITIES,수요군이 요구하는 군용차량의 주요 성능을 뜻하며 가장 중요한 개발 목표가 됨.,-
+ROOF VENT,ROOF VENT,버스의 탑승한 승객이 버스 내부의 공기를 환기 시 밴트를 손으로 열고 닫는다. 루프 밴트 자동 개폐장치도 있어 손으로 열고 닫을 필요없이 스위치를 작동시키면 자동으로 밴트가 개폐될 수 있도록 함으로써 편의성에 의의가 있다.,-
+ROOF_ANT_3VAN,ROOF ANTENNA 3VAN,루프 안테나,-
+ROOM LP,ROOM LAMP,실내등. 천정에 위치한 실내등. ON/OFF/DOOR로 구분되어 있음. ON:켜짐 OFF:꺼짐 DOOR:DOOR가 열리면 ON DOOR가 닫히면 꺼짐.,-
+ROOM MIRR,ROOM MIRROR,실내 거울.,-
+ROOM RLY BOX,ROOM RELAY BOX,실내 릴레이를 한곳에 집중.,-
+ROPS,Roll-Over Protection System,전복 방지 및 안전 시스템 = 차량 전복에 대응한 안전 시스템.,-
+ROV,ROLL OVER VALVE,"연료탱크 증발가스로 인한 연료탱크 과압 방지 및 주행 및 차량 전복시 연료누출 방지, 연료증발가스를 캐니스터로 보냄",-
+RP_SNSR,RAIL PRESSURE SENSOR,연료 레일 압력센서 회로 ( 연료레일에 설치된 연료 압력 센선에 이상이 있다는 것을 나타낸다.),-
+RPAS,REAR PARKING ASSIST SYSTEM,BWS(BACK WARNING SYSTEM)의 새로운 용어,-
+RPDW,REAR PARKING DISTANCE WARNING,RPAS와 동일,-
+RPM,REVELUTION PER MINUTE,매 분당 회전수.,-
+RPN,Risk Priority Number,"FMEA에서 시정조치에 대한 우선순위를 결정하기 위한 위험도지수로 심각도(S), 발생도(O), 검출도(D)를 곱하여 얻어진다.",-
+RPP,Remote Parking Pilot,원격 자율주차. 차량 외부에서 운전자의 원격 제어로 주차 및 출차가 가능.,-
+RPS,Rail Pressure Sensor,레일압력센서 혹은 연로압력센서. 디젤차량의 커먼 레일(Common Rail) 내의 연료압력을 측정해 ECU로 입력시켜 연료 분사량 및 연료 분사시기를 결정하는 신호로 사용,-
+RPS,RAIL_PRESSURE_SNSR,NOTHING,-
+RR,REAR,후면부.,-
+RR,Rear engine Rear wheel drive,엔진이 뒤에 달리고 뒷바퀴를 구동하는 방식. (승용차엔 잘 쓰이지 않고 버스에 많이 쓰이는 방식),-
+RR,ROOF RACK,지붕 선반.,-
+RR A/CON,REAR AIR CONDITIONER,후면부 에어콘.,-
+RR C/LIGHTER,REAR CIGAR LIGHTER,뒷좌석 담배 점화용 라이터.,-
+RR DEFOG,REAR DEFOGGER,성에 제거 장치. 뒷쪽 유리의 열선을 이용하여 수분 및 성에를 제거하는 장치.,-
+RR DR CURTAIN,Rear Door Curtain,탑승자가 스위치를 조작하여 눈부심 방지를 위한 후석 도어 커튼을 제어하는 시스템,-
+RR ECS ACTR,REAR ELECTRONIC CONTROL SUSPENSION ACTUATER,뒷쪽 전자 제어 현가 장치 작동기.,-
+RR ECS SOL,REAR ELECTRONIC CONTROL SUSPENSION SOLENOID,뒷쪽 전자 제어 현가 장치용 솔레노이드.,-
+RR FOG LP,REAR FOG LAMP,후방 안개등.,-
+RR FOG LP SW,REAR FOG LAMP SWITCH,후방 안개등 작동 스윗치.,-
+RR HARN,REAR WIRING HARNESS,리어 하네스,-
+RR HTD (-),REAR HEATED GLASS (-),뒤쪽 유리에 열선을 삽입하여 성애제거나 얼었을 경우 열선을 온하여 녹여주어 운전자의 시야를 확보하는 장치.,-
+RR HTD (+),REAR HEATED GLASS (+),뒤쪽 유리에 열선을 삽입하여 성애제거나 얼었을 경우 열선을 온하여 녹여주어 운전자의 시야를 확보하는 장치.,-
+RR HTD RLY,REAR HEATED RELAY,리어 히티드를 구동하기 위한 리레이,-
+RR HTD SW,REAR HEATED SWITCH,후면부 성에 제거를 위한 열선 동작 스윗치.,-
+RR HTD TIMER,REAR HEATED TIMER,리어 히티드를 구동하였을 경우 장시간 사용시 과부하가 걸려 시스템에 영향을 주고 많은 전류를 소모하므로 타이머를 설정하여 이런 에러를 방지한다.,-
+RR MTR,REAR MOTOR,리어 모타.,-
+RR REMOTE CONTROL,REAR REMOTE CONTROL,"뒷좌석 시트 중간에 있는 CONTROL PANEL로서 RADIO, A/CON 등을 작동 시키는 장치.",-
+RR SEAT HTD SW,REAR SEAT HEATED SWITCH,겨울에 뒷 시트가 차가울때 따뜻하게 하는 스윗치.,-
+RR WASHER MTR,REAR WASHER MOTOR,후면부 와샤 작동 모타.,-
+RR WASHER SW,REAR WASHER SWITCH,후면부 와샤 동작 스윗치. MAIN으로부터 전원을 공급 받아서 스윗치 조작시 뒷쪽 유리창에 물을 뿌려주는 장치.,-
+RR WPR MTR,REAR WIPER MOTOR,후면부 와이퍼 작동 모타.,-
+RR WPR SW,REAR WIPER SWITCH,후면부 와이퍼 동작 스윗치. MAIN으로부터 전원을 공급 받아서 스윗치 조작시 뒷쪽 외이퍼를 조작시켜 이물질을 제거하는 장치.,-
+RR_HTD_AV,REAR HEATED GLASS AV PLUS,뒷 유리 열선,-
+RR_HTD_TS,REAR HEATED TWIN SWING,트윈 스윙 도어 열선,-
+RR_HTR_ACT,"REAR HEATER ACTUATOR (MODE ACT,TEMP ACT EXT'N)",리어 히터,-
+RR_HTR_CONT,REAR HEATER CONTROL,리어 히터 컨트롤,-
+RR_P_W_MTR,REAR POWER WINDOW MOTOR,창문 상/하 작동 모터.,-
+RR_SIS,REAR SIDE IMPACT SENSOR,"A/BAG SYSTEM의 일부로서 측면에서 발생하는 충격을 감지하여 SIDE A/BAG을 전개시키기 위한 충격 감지 센서 통상 용량 : 0.2mA, 정상소비전류 : 5~8mA, 최대구속전류 : 35mA로 설정.",-
+RR_WIPER_CONT_UNIT,REAR WIPER CONTROL UNIT,리어 와이퍼 조작 장치,-
+RR_WIPER_TG,REAR WIPER TAIL GATE,후방 와이퍼,-
+RRSM,Rear Right Seat Module,뒷자석 우측 시트 모듈,-
+RSC,Roll Stability Control,"(자이로 센서, 핸들 조양각 센서 등의 센서로부터) 차량 전복 위험성이 감지될 때, 각 바퀴에 제동력을 걸어주거나 혹은 토크를 줄여 최대한의 전복을 사전 예방하는 장치.",-
+RSPA,Remote Smart Parking Assist,원격 스마트 주차 보조. 차량 외부에서 원격으로 주차 및 출차를 할 수 있도록 도와주는 기능.,-
+RSPA,Remote Smart Parking Assist,-,-
+RSPA (ENTRY),Remote Smart Parking Assist (Entry),원격 스마트 주차 보조 (보급형),-
+RSPA (ENTRY),Remote Smart Parking Assist (Entry),-,-
+RTD,RETADER,전기적인 힘을 이용한 보조 BRAKE.,-
+RTLS,Real Time Location System,실시간 위치 추적 시스템. 실시간으로 사물의 위치 정보 측위를 통해 다양한 서비스를 제공하는 시스템. 근거리 및 실내와 같은 제한된 공간에서의 위치 확인 및 위치 추적 시스템을 통칭하며 사람 또는 사물의 위치를 파악할 수있음,-
+RTNL,RETAINER,"틀, 지지대",-
+RTS,Refrigerant Temperature Sensor,냉각수 온도 센서.,-
+RV,RECREATIONAL VECHICLE,"LEISURE용으로 사용 가능한 차( SUV,MPV,STATATION WAGON등 포함)",-
+RVA,Remote Vehicle Assistance,"원격 차량 지원. 차량이 공사 구역을 지나거나 도로가 침수되는 등의 상황 발생 시, 관제센터가 로보택시의 자율 주행 시스템에 즉시 연결을 시도해 새로운 경로를 제공하거나 필요한 지원이 신속히 이루어질 수 있도록 하는 기술",-
+RVA,Remote Vehicle Assistance Electronic Controller,"Mission Services System 부품 중 하나로 카메라와 센서 정보를 실시간으로 remote control center에 전송시켜서, remote control center가 혹시 발생할 간단 또는 복잡한 원격 조정에 활용할 .수 있도록 하는 제어기",-
+RVM,Rear View Monitor,"전자미러 기능을 포함한 후방 모니터. 후진 시에는 후방 장애물과의 충돌을 방지하기 위해 운전자에게 후방 상황을 보여주고, 주행 중에는 룸미러보다 더 많은 후방 영역을 보여주어 사각영역을 줄여주는 주차안전/주행안전 시스템.",-
+RVM,Rear View Monitor,-,-
+RVM w/ PG,Rear View Monitor with Parking Guidance,후방 모니터 (주차가이드 기능 포함),-
+RVM w/ PG,Rear View Monitor with Parking Guidance,-,-
+RWD,REAR WHEEL DRIVE,후륜 구동.,-
+RWS,Rear Wheel Steering,후륜조향을 적용함으로서 회전반경을 축소시켜 조향 효율성 및 주행 안정성을 제공,-
+RWS,Rear Wheel Steering,"차량의 움직임에 따라 뒷바퀴의 조향각이 바뀌며, 더 부드러운 코너링과 차선 변경을 가능하게 해주는 시스템",-
+S.A.E,SOCIETY OF AUTOMOTIVE ENGINEERING,자동차 기술자협회,-
+S.O.D.,"Severity, Occurrance, Detection","설계 및 공정FMEA에서 위험우선순위도(RPN)의 결정시 사용되는 각각의 평가지수 1)심각도(S) : 만일 발생할 경우, 잠재적 고장형태가 그 다음의 구성품, 하위시스템, 시스템 또는 고객에게 미치는 영향의 정도. 2)발생도(O) : 특정한 원인/메커니즘이 발생할 가능성. 3)검출도(D) : 현재의 설계관리능력 또는 공정관리에 의해 일련의 고장형태를 검출할 확률의 정도.",-
+S/A CONT SOL VALVE,SECONDARY AIR CONTROL,RPM 수은등의 기본하에 ECU에 의해 제어되며 CATALYTIC CONVERTER 앞에 AIR를 공급.,-
+S/ABS,SHOCK ABSORBER,완충기,-
+S/BELT PRETENSIONER,SEAT BELT PRETENSIONER,시트 벨트 프리텐셔너는 안전벨트와 일체형으로 차량 충돌시 승차자가 전방으로 튕겨나가는 것을 방지하기 위하여 화약 점화에 의해 안전벨트를 역회전시켜 승차자를 시트에 고정시켜 주는 기능을 한다. 내부에는 화약에 의한 점화 회로와 피스톤이 내장되어 있으며 화약의,-
+S/BELT SW,SEAT BELT SWITCH,안전 벨트 작동 스윗치.,-
+S/BELT TIMER,SEAT BELT TIMER,안전 벨트 작동 타이머.,-
+S/HTR,SEAT HEATER,좌석 열선.,-
+S/HTR SW,SEAT HEATER SWITCH,좌석 열선 작동 스윗치.,-
+S/LOCK,SHIFT LOCK,변속레버가 P나 N일 때에도 브레이크를 밟지 않으면 시동이 걸리지 않거나 시동후에도 변속되지 않도록 하는 장치.,-
+S/MARK LP,SIDE MARKER LAMP,차폭등.,-
+S/R SW,AUDIO STEERING REMOCON SW,핸들 상단에 AUDIO 조작용 SW가 부착되어 AUDIO 본체의 KNOB 별도 조작없이 AUDIO의 각종 기능을 제어.,-
+S/REPEATER,SIDE REPEATER,유럽지역에 적용되는 방향 지시등.,-
+S/REPEATER LP,SIDE REPEATER LAMP,방향 지시등.,-
+S/ROOF,SUN ROOF,차 윗쪽의 햇빛을 받기 위해 장치항 개폐식 천장문.,-
+S/ROOF EXTN,SUNROOF EXTENSION,썬루프 익스텐션 하네스,-
+S/ROOF MTR,SUNROOF MOTOR,"썬루프 개,폐시 구동하는 모터",-
+S/SAB,SHOCK ABSORBER,완충기.,-
+S/V CLUSTER,SUPER VISION CLUSTER,계기판(CLUSTER) 의 각종 SYMBOL류 및 GAUGE가 입체적으로 점등되는 방식.,-
+S_ANGLE_SNSR,STEERING ANGLE SENSOR,STEERING 조향 각 검출 센서,-
+S_BELT_PT,SEAT BELT PRETENSION,안전벨트 센서,-
+S_DR_ACT,SLIDING DOOR ACTUATOR,슬라이딩 도어 장치,-
+SAB,SIDE A/BAG,좌 우측 DOOR부에 장착하는 A/BAG,-
+SAB,SIDE AIR BAG,측면 에어백.,-
+SAB,SIDE AIR BAG,측면 에어백.,-
+SAC,SHIFT AUTO CONTROL,전기적 신호에 의해 압축공기를 이용하여 수동과 자동 MODE로 변속 조작을 행하는 반자동 변속장치.,-
+SAE,SOCIETY OF AUTOMOTIVE ENGINEERING,미국 자동차 기술자 협회.,-
+SAFETY POWER WINDOW,-,"POWER WINDOW AUTO UP시 손가락 , 목등 물체가 끼었을 경우 WINDOW를 자동으로 내리는 안전 장치.",-
+SAM,SEMI ACTIVE MTG,"반능동마운트. 엔진 부압을 이용, IDLE시 낮은 스프링 상수를 유지하여 NVH를 향상시키고 주행중에는 높은 댐핑으로 승차감을 향상시키는 ON/OFF 방식의 HYDRO MOUNT",-
+SAS,SMART AIR BAG SYSTEM,"탑승자의 위치, 성인/아동, SEAT BELT 착용여부, 체중등을 고려하여 에어백이 작동하는 차세대 에어 백.",-
+SAS,START ASSIST SYSTEM,AIR를 사용하는 BRAKE SYSTEM을 CONTROL하여 차량 정지후 재 출발시 차량의 밀림을 방지하는 장치,-
+SAS,STEERING ANGLE SENSOR,"조향각 센서. Steering의 회전각을 검출하여 필요한 Unit(ESP, ECS, AGCS등)에 신호를 제공하는 센서",-
+SATC,SEMI AUTO TEMP. CONTROLLER,반자동 컨트롤러,-
+SAV,Sport Adventure Vehicle,스포츠 어드벤처 비히클. 픽업트럭과 스포츠유틸리티차(SUV)의 경계를 뛰어넘는 새로운 차급,-
+SB,SLOW BLOW,천천히 끊어지는 퓨즈,-
+SBC,Shift By Cable,손으로 직접 변속 레버를 움직이며 주행 기능을 바꾸는 타입,-
+SBCM,Side Body-zone Control Module,"도어에 적용되는 시스템들을 통합 제어하는 유닛 (E-LATCH, 전동 도어 래치 시스템, 리트렉터블 핸들, 팝업 도어 핸들 제어)",-
+SBL,Static Bending Light,좌우 조향 시 진행 방향의 보조 라이트가 들어오는 방식,-
+SBW,Shift By Wire,"운전자가 버튼을 누르거나 전자식 레버를 가볍게 밀고 당기면 전기적 신호를 변속기에 전달, 주행 기능을 바꿔 주는 변속 시스템. (기계부품으로 연결되었던 기계적 움직임을 전자장비를 통하여 전달함으로서 구조의 간소화를 통한 경량화와 반응성 및 안전성을 향상)",-
+SC,SPECIAL CHARACTERISTICS,"특별특성- 법규 및 안전 또는 외관, 기능, 장착성 등 제품품질에 핵심적 영향을 미치는 제품 및 공정특성으로 고객에 의해 지정된 것을 포함하여 제품/공정의 지식을 통해 공급자에 의해 선정된다. 이 특별특성은 다른 특성과 달리 통계적 공정관리등 중점적인 관리가 요구된다.",-
+SCAC,SHIFT & CLUTCH AUTO CONTROL,전기적 신호에 의해 압축공기를 이용하여 CLUTCH PEDAL 조작없이 변속을 행하는 완전자동 변속 장치.,-
+SCC,SMART CRUISE CONTROL,기존 크루즈 컨트롤 기능에 레이다를 이용 전방 차량과 간격 및 차속 유지기능을 추가한 적응형 크루즈 컨트롤,-
+SCC,Smart Cruise Control,스마트 크루즈 컨트롤,-
+SCC,Smart Cruise Control,-,-
+SCC w/ S&G,Smart Cruise Control with Stop & Go,스마트 크루즈 컨트롤 (스탑앤고 기능 포함),-
+SCC w/ S&G,Smart Cruise Control with Stop & Go,-,-
+SCC-ML,Smart Cruise Control-Machine Learning,"자동차가 운전자의 성향을 기억한 뒤 SCC를 켰을 때, 운전자와 유사한 자율 주행을 구현함.",-
+SCCS,Sleeping Child Check System,운전자 또는 차량 지도교사가 통학버스에 방치된 아이가 있는지 확인해야만 운행종료를 할 수 있는 방식.,-
+SCHDL,SCHEDULE,시간 예정표,-
+SCM,Steering column Control Module,스티어링 컬럼 제어 모듈. 차량의 스티어링 휠의 위치를 제어.,-
+SCMS,Security Credential Management System,-,-
+SCR,Selective Catalytic Reduction,"선택적 환원 촉매 장치. EURO6 환경 법규를 만족하기 위해, 요소수 탱크에 보관 중인 요소수를 분사하여 엔진에서 생성되는 질소 산화물을 정화시키는 후처리 시스템",-
+SCR,SILICON CONTROLLED RECTIFIER,실리콘 제어 정류기.,-
+SCU,SBW(Shift By Wire) Control Unit,SBC(Shift By Cable) 변속기에 부착하면 SBW(Shift By Wire) 시스템으로 순식간에 변환시킬 수 있는 부품,-
+SCWR,Sleeping Capacity Weight Rating,취침정원중량.,-
+SD,SCHEMATIC DIAGRAM,회로도,-
+SDARS,Satellite Digital Audio Radio Service,위성 디지털 오디오/라디오 시스템.,-
+SDC,Solar Dish Concentrator,접시형 태양열 집열기. 차량에 들어가는 태양(Solar) 충전 시스템 (=솔라루프),-
+SDN,SEDAN,"승용차 모델 구분시 외관을 중심으로 구분할때 가장 기본적인 모델로서 3박스카의 미국식 이름이다. 영국에서는 설룬, 독일에서는 리무진 등으로 부른다.",-
+SEA,Safe Exit Assist,"안전 하차 보조. 정차 시 후석 탑승자의 하차를 위해 전자식 차일드 락 버튼을 누를 때, 후측방에서 접근하는 차량과의 충돌 위험을 감지하면 자동으로 전자식 차일드 락을 잠김 상태로 유지하고 경고.",-
+SEA,Safe Exit Assist,-,-
+SEALER,-,"BODY 접합부의 누수, 녹, 투과소음 방지를 위하여 하도 도장후 사용하는 SEALER(편의상 WHITE SEALER 또는 도장 실라라고 부르기도 한다.)",-
+Seat Massage,Seat Massage,시트에 마사지 기능을 추가하여 운전자 및 탑승자의 피로감을 덜 느끼게 해주는 시스템,-
+SEC,SECTION,단면. 구역.,-
+SELF LEVELIZER,-,화물 적재에 따른 차고의 변화에 대응. 항상 일정한 차고를 유지시킬 수 있도록 SHOCK ABSORBER 유압 조정.,-
+SEMI_ACT_SOL,SEMI-ACTUATOR SOLENIOD,반자동 엑츄에이터 솔레노이드,-
+SEMI_ACT_UNIT,SEMI-ACTUATOR SOLENIOD,반자동 엑츄에이터 솔레노이드를 컨트롤 하는 유닛,-
+SEW,Safe Exit Warning,"안전 하차 경고. 정차 시 탑승자가 하차를 위해 도어를 열 때, 후측방에서 접근하는 차량과의 충돌 위험을 감지하면 경고. Re) SEA (Safe Exit Assist)",-
+SF,SEA FREIGHT,해상 운송. 선박에 의한 물품 수송.,-
+SGU,Smart Glass Unit,전기 활성 글라스. 물리적 블라인드 대신 전류 (전자 음영 처리 또는 반투명 PV 윈도우를 사용) 를 활용해 유리 투명도 및 자외선 차단 등을 조절.,-
+SHEATH HEATER,SHEATH HEATER,"전열 히터의 기본으로 금속 보호관에 전열선을 코일모양으로 내장하고 절연 분말인 산화마그네슘을 충진 후 압축 가공함으로써 전열선과 보호관을 절연한 관(파이프) 형태의 히터. 외부의 물리적인 충격에도 견고하고 내진동, 열효율성 및 절연성이 매우 뛰어나며 사용자의 용도에 따라 다양한 형태로 제작할 수 있다.",-
+SHELVES,-,버스용 선반(승객 수하물 보관용),-
+SHIELD WIRE,-,전기신호선의 전자파 방사 또는 유입 차단을 목적으로 사용되는 배선의 일종.(신호선 피복을 별도의 금속선으로 재피복하여 전기적인 차례를 목적으로 함.),-
+SHIFT LOCK,-,변속레버가 P나 N일 때에도 브레이크를 밟지 않으면 시동이 걸리지 않거나 시동후에도 변속되지 않도록 하는 장치.,-
+SHIPPING HOOK,-,차량을 배로 이동할 경우 배에 ROPE로 차를 고정시키기 위한 차체 PART,-
+SHOCK SNSR,SHOCK SENSOR,"차량 충돌, 전복시 DR의 잠금 장치를 자동으로 해제시켜 주는 시스템.",-
+SHOULDER RETRACTOR,SHOULDER RETRACTOR,에깨 안전 벨트 장치.,-
+SHU,Seat Heater Unit,시트 열선 유닛.,-
+SHUNT CONN,SHUNT CONNECTOR,EC DRL 사양일때 기존 내부 TAIL은 직접 FUSE에서 전원을 받아 컨트롤 되었으나 SHUNT CONN 적용 사양은 내부 TAIL을 DRL UNIT에서 컨트롤 된다.,-
+SIDE RAIL,-,적재함 바닥(FLOOR) 외곽부 강도 보완 및 타 부품의 유동방지. SIDE GATE 하중중지.,-
+SIDE_BWS_SNSR,SIDE BACK WARNING SYSTEM SENSOR,후방 경고 시스템,-
+SIREN,SIREN,경보기.,-
+SIS,SIDE IMPACT SENSOR,"A/BAG SYSTEM의 일부로서 측면에서 발생하는 충격을 감지하여 SIDE A/BAG을 전개시키기 위한 충격 감지 센서 통상 용량 : 0.2mA, 정상소비전류 : 5~8mA, 최대구속전류 : 35mA로 설정.",-
+SIS,Side Impact Sensor,전자식 측면 가속도 센서로 측면 충돌시 충돌감지 센서가 충돌 정도를 감지하여 ACU에 신호 전달,-
+SKD,SEMI KNOCK DOWN,일부 분해된 상태로 되는 수입 부품. (Ref : CKD),-
+SL,SAFETY LEVEL,안전 재고. 갑작스런 수요의 증가에 대비하여 보유하는 여유 재고.,-
+SL,SPORT CAR,스포츠용 자동차.,-
+SLA,SHORT AND LONG ARM,프런스 서스펜션 방식의 장단의 지지암.,-
+SLB,STAREX LUXURY BUSINESS,업무의 편의성과 쾌적성을 갖춘 업무용 CAR.,-
+SLID'G DR,SLIDING DOOR,버스의 승하차용 여닫이 출입문. 미닫이식 구조로 소형 상용차의 RAIL로 개폐하는 DOOR,-
+SLM,Seatbelt & Light Module,시트벨트 및 조명 모듈. (BCM 하위호환),-
+SLS,Straight Line Stability,직진제동 쏠림방지 시스템. 직진 제동 중 불안정하게 좌우로 쏠리는 현상 발생 시 브레이크 압력을 이용하여 직진으로 제동할 수 있도록 제어합니다,-
+SLV,SUPER LUXURY VECHICLE,HMC에서 최고의 편의성과 쾌적함을 갖춘 미래 지향적 스타일 VIP 전용 컨셉터 CAR.,-
+SMART AIR BAG(ADVANCED AIRBAG),-,"VARIABLE OUTPUT INFLATOR, 승객 유무 감지, 어린이 / 성인구분, 승객자세, 밸트 착용여부 감지등의 종합 구성하여 AIRBAG의 안전성/효과를 향상시키기 위한 시스템",-
+SMBL,Side Mounted Bed Lamp,사이드 장착 베드 램프. 투싼 북미 픽업트럭(NX4 OB) 에 장착됨.,-
+SMPS,Switching Mode Power Supply,"전원 공급 장치로, 스위칭 트랜지스터 등을 이용하여 교류 전원을 직류 전원으로 변환하는 스위치 제어 방식을 사용",-
+SMT,SURFACE MOUNT TECHNOLOGY,"표면실장기술 표면 실장형 부품을 PCB 표면에 장착하고 납땜하는 기술을 의미하는 것으로 IMT 는 PCB 한쪽면에만 모든 부품이 배치되었으나,SMT는 PCB 양면 모두에 부품을 배치할 수 있음.",-
+SN,SERIAL NUMBER,일련 번호.,-
+SNSR_INCAR_HUMIDITY,SENSOR INCAR HUMIDITY,차량내 습도 감지기,-
+SNSR_OPTICAL,SENSOR OPTICAL,광센서,-
+SNSR_PHOTO,SENSOR PHOTO,광전 감지기.,-
+SO,SHOWN ON,지정된 번호를 찾아보라.,-
+SOC,State Of Charge,배터리의 잔존 용량,-
+SOH,State Of Health,배터리 건강 상태. 노화도,-
+SOHC,SINGLE OVER HEAD CAMSHAFT,실린더마다 흡/배기 밸브가 1개씩 있는 엔진.,-
+SOL,SOLENOID,스윗치류 전기 제어 밸브.,-
+SOL VALVE,SOLENOID VALVE,엔진 시동이 걸렸을때 엔진 내부에 진공이 생긴다. 이 진공을 닫았다 열었다 하여 제어함.,-
+SOLENOID VALVE,-,CATALYTIC CONVERTER 앞에 AIR를 공급.,-
+SOP,START OF PRODUCT,양산시점,-
+SOS 자동 BRAKE SYSTEM,-,운전자가 갑자기 신체가 불편하여 운전이 불가능할 경우 스위치 하나만으로 경보 및 자동 브레이크 작동.,-
+SOTA,Software Over-The-Air,소프트웨어 원격 업데이트 기술 .(ref. FOTA(Firmware Over-The-Air)),-
+SOW,Statement Of Work,"(업무 용어) 작업 기술서 혹은 작업 지시서. 고객의 요구사항 및 프로젝트의 결과 등을 상세히 기술해 놓은 명세서로서, 상호 기대 사항을 공유하고 의사소통을 증진시키기 위한 것.",-
+SP,Semi-PILOT,파일럿(PILOT)단계 업무를 본사에서 수행,-
+SPAS,Smart Parking Assist System,"스마트 주차 보조 시스템. 차량 센서를 이용하여 주차 공간을 탐색하고, 주차를 위한 각종 안내문구 및 음성 안내와 함께 스티어링 휠(핸들)만 제어하여 운전자의 주차 및 출차를 도와주는 보조장치.",-
+SPC,Statistical Process Control,공정능력 개선을 통한 통계적 관리상태의 달성 및 유지가 그 목적으로 공정 또는 그의 결과를 분석하기 위한 관리도와 같은 통계적 기법의 활용.,-
+SPDU,Smart Power Distribution Unit,스마트 전력 분배 장치.,-
+SPEC,SPECIFICATION,"사양. 제품특성의 합격.불합격을 판단하는 기술적인 요구조건이며, 초도품승인을 위해서는 설계도면에 나오는 부품에 대한 모든 요구조건을 만족해야 한다.",-
+SPEED SNSR,SPEED SENSOR,속도 감지기. 점화시기에 크랭크 샤프트가 돌때마다 점화코일 (-)터미널 전압은 2번 급증한다. 이러한 코일 (-)터미널의 전압 변화를 감지하여 PEAK 전압 사이의 시간을 측정하면 ECU는 엔진 속도를 계산하여 엔진 작동 모드를 판단하고 공기:연료 비율과 점회시기를 조정.,-
+SPI,SINGLE POINT INJECTION,MPI와 달리 인젝터를 각 흡기구에 한 개씩 설치하는 것이 아니라 흡기구를 한 개만 설치한 방법.,-
+SPKR,SPEAKER,스피커.,-
+SPKR AMP,SPEAKER AMPLIFIER,스피커 증폭기.,-
+SPORTS MODE,STEPTRONICS SPORTS MODE AUTO TRANSMISSON,HIVEC 자동 변속기의 기능을 기본으로 신속한 변속 응답성과 수동 변속기의 Fun To Drive. 자동 변속기의 Easy Drive 조작성과 주행 안전성의 향상을 이룬 자동 변속기임. 일반 주행에서 레버를 우측을 옮겨 전환하고 레버를 전/후로 1회씩 조작할 때마다 1단씩 변속되며 저단 변속시 빠르게 2회 조작하면 2단씩 변속됨,-
+SPR,SPRING,용수철.,-
+SPWS,SAFETY POWER WINDOW SYSTEM,자동차의 창문을 자동닫힘장치(1회의 조작에 의한 창문닫힘)에 의해 창문이 상승할 때 신체 또는 이물질이 낄 경우 자동으로 창문이 멈추고 안전 거리로 하강하는 시스템.,-
+SQC,STATISTICAL QUALITY CONTROL,통계적 품질 관리. 통계적 기법의 응용의 강조한 품질 관리.,-
+SR,Sourcing Requirement,"제품 개발에 대한 투자비, 금형지, 제품단가 등에 대한 내용을 요청하는 것 .(각종 요구사항들이 들어있는 구매사양서로 고객들의 요구 및 요청에 따른 내용이 개발자에게 전달되어지는 보고서)",-
+SR,STYLING REQUIREMENT,"의미상품구상서 및 제품구상안에 따른 상품 콘셉트로서 목표시장, 스타일링 요구사항, 주요 제원 등을 포함한,디자인에 대한 설계 요구사항을 제시하는 것.",-
+SR SW,AUDIO STEERING REMOCON SW,핸들 상단에 AUDIO 조작용 SW가 부착되어 AUDIO 본체의 KNOB 별도 조작없이 AUDIO의 각종 기능을 제어.,-
+SRC,SOURCE,기초 부품의 구입처.,-
+SRS,SUPPLIMENTAL RESTRAINT SYSTEM,보조 구속 장치(일반적인 구속장치는 AIR BAG이다.),-
+SRSCM,SUPPLEMENT RESTRAINT SYSTEM CONTROL,안전벨트 구속 장치 기능이 있는 A/BAG ECU,-
+SS,STANDING-SHART,정지 상태의 발진.,-
+SSEM,Stop Signal Electronic Module,스톱 신호 전기 모듈,-
+SSPS,SPEED SENSING POWER STEERING,차속 감응형조향장치. 실제 차속에 따라 유량을 달리 공급하여 보다 현실적인 보조력을 발생시키는 Steering System,-
+ST,SHORT-TON,"경, 톤.",-
+ST MTR,START MOTOR,IGN SW를 ST에 놓으면 스타트 모타와 엔진의 RING GEAR와 맞물리게 하어 최초 엔진을 동작시키는 장치.,-
+ST SOL,START SOLENOID,시동용 솔레노이드. 엔진의 가동시 스타트 모타의 동작이 원활하고 순간 동력이 강력하게 하는 기능.,-
+STA,SPARK TIMING ADJUST,점화 시간 조정기.,-
+STANCHION PIPE,-,버스 실내 승객 보호용 손잡이 기둥.,-
+STC,STATIC,S/BELT 길이를 승객이 손으로 조절하여 자기 몸에 맞게 스스로 구속 시킴. 주로 뒷좌석 중간 SEAT에 사용.,-
+STD,STANDARD,표준.,-
+STEERING_TELE,STEERING TELE,스티어의 높낮이를 조절하는 유닛,-
+STEERING_TILT,STEERING_TILT,스티어의 경사를 조절하는 유닛,-
+STEP LP,STEP LAMP,"야간에 승객의 승,하차시 계단이 어두우면 사고의 위험이 있기 때문에 승객의 시야를 확보하기 위하여 입구 바닥쪽과 천정쪽에 등을 설치한 것을 말함.",-
+STOP LAMP FAILURE RLY,STOP LAMP FAILURE RELAY,STOP LAMP FAILURE RLY내에서 STOP LAMP LH와 RH의 저항값을 비교하여 다를 시에는 CLUSTER IND로 출력을 내보내 운전자의 주의를 환기시키는 시스템,-
+STOP LP FAIL RLY,STOP LAMP FAIL RELAY,전시 등화 관제용.,-
+STOP LP FAILURE RLY,STOP LAMP FAILURE RLY,stop lp가 나갔을 때 감지하여 클러스터에 warning ind를 띄워주는 유닛.,-
+STOP LP SW,STOP LAMP SWITCH,정지등 스윗치. 브레이크 페달 아래쪽에 위치하여 브레이크 페달을 밟으면 작동하여 정지등이 점등됨.,-
+STP,Shielded Twisted Pair,"이터넷 케이블 중에 하나로 FTP에 꼬여있는 구리선을 한 묶음으로 나누어 한 번 더 호일을 감싸 준 형태. (Ref : UTP, FTP)",-
+STPS,SEAT TRACK POSITION SENSOR,"운전자, 동승자의 시트 위치를 감지하여 에어백의 전개 크기를 조정하여 운전자 및 동승자의 안전을 최대화함.",-
+STRG,STEERING,조향장치.,-
+STRG H/L SW,STEERING WHEEL HANDLE LOCKING SWITCH,도난 방지용 핸들 잠금 스윗치.,-
+SUB ENGINE AIRCONDITION,-,AIR CONDITION 구동 전용 보조 ENGINE을 설치. MAIN ENGINE 정지시에도 가동 가능.,-
+SUB KEY,-,IGNITION 및 DOOR 개폐만 가능한 KEY(GL/BOX LOCK나 T/LID는 개폐 불가능.),-
+SUB_WOOFER,SUB WOOFER,우퍼,-
+SUIV,Smart User Interface Vehicle,-,-
+SULEV,Super Ultra Low Emission Vehicle,극초저공해자동차(극히 적은 배출가스를 내뿜는 자동차). 미국 자동차 배출가스 연방 규제.,-
+SURGE TANK,-,AIR SUSPENSION SYSTEM에서 Air spring의 용량 보정 TANK,-
+SUV,SPORT UTILITY VEHICLE,LEISURE용으로 사용하나 일반적으로 OFF ROAD 주행 기능이 포함된 차.,-
+SVM,Stack Voltage Monitor,스택 각 셀의 전압을 측정하는 스택 셀 전압 측정 장치,-
+SVM,Surround View Monitor,Surround View Monitor. 차의 앞뒤와 옆면에 부착된 카메라를 통해 차 주위 공간을 차내에서 볼 수 있는 모니터로 주차를 편하게 하기 위해 개발된 장치.,-
+SVM,Surround View Monitor,-,-
+SVM Ⅱ,Surround View Monitor Ⅱ,서라운드 뷰 모니터 Ⅱ,-
+SVM Ⅱ,Surround View Monitor Ⅱ,-,-
+SVM Ⅲ,Surround View Monitor Ⅲ,서라운드 뷰 모니터 Ⅲ,-
+SVM Ⅲ,Surround View Monitor Ⅲ,-,-
+SW,STANDING WAVE,"고속도로 주행시 타이어 공기압이 부족하면,(100KM/H 이상 주행시) 접지면과 떨어지는 타이어의 일부분이 물결 모양의 변형이 나타나고,심하면 타이어가 파손하는 현상.",-
+SWRC,Steering Wheel Remote Control,스티어링 휠 리모컨. 자동차의 조향외에 자동차를 운행하면서 스티어링 휠에서 자동차에 설치 된 장치를 조정할 수 있게 만든 시스템,-
+SYMN,SYMMETRIC,대칭.,-
+T/C,TRIP COMPUTER,"차량의 지금까지의 평균속도, 현재 남아있는 연료의 주행가능 거리 등의 정보를 액정 디스프레이에 나타내는 기능.",-
+T/C,TURBO CHARGER,터빈측 날개에 배기가스가 부딛쳐 축을 돌리게 되면 컴프레서도 함께 돌면서 연소실로 신선한 공기를 다량 압축 공급하는 장치.,-
+T/F,TANSFER,사륜구동 차량에서 전/후륜으로 엔진동력을 연결(전달) 및 차단하는 기어,-
+T/GATE,TAIL GATE,뒷문.,-
+T/GATE EXTN HARN,TAIL GATE EXTENSION WIRING HARNESS,테일 게이트 익스텐션 와이어링 하네스,-
+T/GATE OPENER,TAIL GATE OPENER,뒷문 개폐 스윗치.,-
+T/LID,TRUNK LID,트렁크 뚜껑.,-
+T/LID HARN,TRUNK LID WIRING HARNESS,트렁크 리드 와이어링 하네스,-
+T/LID MAIN SW,TRUNK LID MAIN SWITCH,트렁크 뚜껑 개폐 주 스윗치.,-
+T/LID OPENER SW,TRUNK LID OPENER SWITCH,트렁크 뚜껑 개폐 스윗치.,-
+T/LID SOL,TRUNK LID SOLENOID,트렁크 뚜껑 개폐 솔레노이드.,-
+T/LID SW,TRUNK LID SWITCH,트렁크 리드 스위치.,-
+T/M,TRANSMISSION,트랜스 미션.,-
+T/OPENER,TRUNK OPENER,트렁크 개폐기.,-
+T/OPENER SW,TRUNK OPENER SWITCH,트렁크 개폐를 위한 스윗치.,-
+T/OUT,TRY-OUT,"양산요소(장비,금형,재료)를 SETTING한 후 소량시험생산을 통해, 양품생산을 위한 최적의 가공조건을 만드는 보정(금형/지그 위치변환 장비온도설정, TOOL 속도변경)과정이다.",-
+T/R SOL,TENSION REDUCER SOLENOID,S/Belt의 Retraction Force를 줄여 장시간 S/Belt 착용시 발생되는 압박감을 감소시켜 주는 장치,-
+T/REDUCER SOL,TENSION REDUCER SOLENOID,"(Electrical Tension Reducer, 전기식 장력 감소기) 텐션 리듀서라는 것은 시트 벨트 장착시에 벨트 감는 힘을 감소시켜 시트 벨트의 장착에 의한 압박감을 감소시키는 기구를 말하며, 그것을 액츄에이터 솔레노이드를 사용해서 전기적으로 행하는 것이 전기식 텐션 리듀서",-
+T/ROOM HARN,TRUNK ROOM WIRING HARNESS,트렁크 품 와이어링 하네스,-
+T/ROOM LP,TRUNK ROOM LAMP,트렁크 OPEN시 램프를 ON하여 사용자의 시야를 확보한다.,-
+T/ROOM LP SW,TRUNK ROOM LAMP SWITCH,트렁크 안을 밝혀주는 램프 동작 스윗치.,-
+T/SIG LP,TURN SIGNAL LAMP,방향 지시등. 주행시 상대방으로부터 자신의 진행 방향을 가르키는 장치.,-
+T/STAT,THERMOSTAT,냉각수 제어 장치. 엔진의 WATER JACKET에 설치되어 냉각수의 온도가 일정온도(88℃±5℃)가 되면 밸브가 열려 라디에타로 가열된 냉각수를 순환 시키는 장치.,-
+T/UNLOCK SW,TRUNK UNLOCK SWITCH,트렁크 열림 스윗치.,-
+T_G_ACTR,TAIL GATE ACTUATOR,테일게이트 동작 장치,-
+T1,-,양산공장에서 신차 생산을 위한 설비와 지그의 설치 및 개조 등의 설비 트라이아웃 단계로써 설비 단독 시운전을 통한 설비 능력을 확인하다. 공정원에 대하여 오프라인 조립교육을 실시하고 조립공법계획서를 작성 배포한다.,-
+T2,-,"양산공장에서 P1 운영 시 발췌된 설비 및 지그 문제점을 개선 반영하고 흐름 시운전을 통한 P1 품질 수준을 확인하며, 양산성을 확인하는 단계이다. 오프라인 및 인라인 작업교육을 통한 작업편성 조정 등 작업성을 확인한다. 부품 투입조건은 P1 품확차 동일 수준이다.",-
+TAC,TIME & ALARM CONTROL,시간 경보 조정 장치.,-
+TACHO,TACHOGRAPH,"Tacho는 속도( Speed ) 라는 뜻의 연결형으로 Tachograph와 Tachometer로 구별 되고있는데Tachograph는자동차의 트랜스미션과 속도기에 연결되어 순간속도, 주행거리, 정차 및 주행시간등을 자동적으로 Graph 용지에 기록하여 줌. 1925년 독일의 광산 운전기사가 실제 많은",-
+TACU,TIME & ALARM CONTROL UNIT,시간 경보 제어 장치.,-
+TAIL LP,TAIL LAMP,"초저녁 날씨가 완전히 어두워지기 전에 주행할시 LIGHTING SW를 1단에 위치 시키면 POSITION LAMP, RR COMBI, 실내의 각종 ILLUMINATION BULB가 점등되어 주행에 편의를 제공한다. (미등)",-
+TANDEM,TANDEM WIPER SYSTEM,가장 일반적으로 사용하는 WIPER SYSTEM으로 운전석과 승객측의 WIPER ARM이 나란하게 작동하는 WIPER SYSTEM.,-
+TAS,TECHNOLOGY ASSESSMENT SYSTEM,기술 정보 제도.,-
+TAS,TORQUE ANGLE SENSOR,토크앵글센서는 방향 조절 시 조향 토크와 조향각을 검출해 EPS 모터에 동작 신호를 발생시킴.,-
+TBC SLD,Tinned copper Braided Conductor - Shield,편조선(평편 동선) - 차폐용,-
+TBC-F,Tinned copper Braided Conductor - Flexible Type,편조선(평편 동선) - 유연형,-
+TBR,TORQUE BIAS RATIO,"토크 편향율, LSD시스템에서 양쪽휠간 회전수 차이가 발생할때 회전수가 적은 휠쪽으로 구동토크를 전달하는 비율을 의미",-
+TC,TURBOCHARGER,"배기가스가 터빈하우징내를 흐르면서 터빈 휠을 회전시키고
+ 동일축에 연결된 컴프레셔 휠이 회전하면서 에어크리너를 통해 
+ 들어온 공기를 압축하여 연소실로 보낸다",-
+T-CAR,TRIAL CAR,"신 플랫폼 개발, 신기구 채택 등을 목적으로 일부 부품의 신작과 양산 부품을 이용, 차량을 조립하거나 양산차를 개조하여 제작하는 시작차.",-
+TCB,TIGHT CORNER BRAKING,"Center Diff 기능이 없는 구형 4WD차량의 경우 선회시 전,후륜의 회전속도가 동일하여 선회에 대한 저항력으로 작용하여 차량 속도 감소 및 구동계에 진동,소음 발생하는 현상",-
+TCCM,TRANSFER CASE CONTROL MODULE,2륜/4륜 제어 컨트롤러,-
+TCI,TURBO CHARGER INTERCOOLER,공기 압축시 온도상승을 방지하기 위해 냉각핀을 장착하여 식혀주는 장치.,-
+TCS,TRACTION CONTROL SYSTEM,"눈길이나 미끄러운 노면에서의 출발시나 가속시 각 바퀴의 회전상태를 감지하여 자동으로 바퀴가 헛도는 것을 방지해 안전하며, 코너링시 바퀴를 제어하여 주행안정성을 높여줍니다",-
+TCS C/U,TRACTION CONTROL SYSTEM CONTROL UNIT,차량주행 상태에 따라 엔진 출력을 제어함으로서 바퀴의 미끄럼 방지 및 선회 안정성 확보. (ABS에서 한단계 발전된 제동 시스템.),-
+TCS SW,TRACTION CONTROL SYSTEM SWITCH,TCS 작동 스위치.,-
+TCU,Telematics Control Unit,텔레매틱스 컨트롤 유닛. 5세대(5G) 이동통신 차량용 통신장비,-
+TCU,TRANSMISSION CONTROL UNIT,전동 기어 박스.,-
+TCU,TRANSMISSION CONTROL UNIT,자동변속기를 최적의 작동 조건으로 제어하는 컴퓨터 장치.,-
+TDC,TOP DEAD CENTER,상사점.,-
+TDC SNSR,"TOP DEAD CENTER SENSOR (HALL SNSR, PHASE SNSR)","상사점 감지 센서. 과거처럼 NO.1 피스톤의 상사점을 검출하는 것이 아니고 1,3,5 실린더 피스톤의 상사점을 디지털 펄스 신호로 바꾸어 ECU로 전송.",-
+TDP,Test & Development Procedure,시험개발절차,-
+TDR,TECHNICAL DESIGN REVIEW,기술적 설계/개발 검토를 뜻함 :세부추진항목에 대한 유효성 검증(MDT활동),-
+TEMP ACTR,TEMPERATURE ACTUATOR,온도를 감지하여 A/CON을 작동하는 장치. 냉기와 온기의 혼합량을 제어하여 원하는 온도의 공기를 실내로 유입하도록 하는 기능,-
+TEMP_ACTR,TEMP ACTUATOR,온도 조절 장치,-
+TFT,TASK FORCE TEAM,원래는 군사용어로써 특별 기동부대의 뜻으로서 어떤 프로젝트를 대비하여 만든 팀으로 그 프로젝트를 전담하여 수행한 후 프로젝트가 끝나면 다시 해체한다. 어떤 문제가 발생시 이를 해결하기 위해 관련자 중심으로 구성하는 팀( 문제점 발생후),-
+TGAT_L_ACT,TAIL GATE LOCK ACTUATOR,테일 게이트 잠금 장치.,-
+TGS,TRANSMISSION GEAR SHIFT KNOB,기어 변속 손잡이,-
+THERMISTER,THERMISTER,온도에 따라 A/CON의 작동을 결정.,-
+THERMISTOR,THERMISTOR,온도에 따라 A/CON의 작동을 결정. 서미스터 (온도에 따라 전기 저항치(値)가 달라지는 저항체를 이용한 저항기),-
+THERMO SNSR,THERMO SENSOR,냉각수 온도 감지기. 설정 온도(55℃±5℃) 이상이 되면 냉각수를 강제 냉각 시키기 위하여 팬 모타를 작동시키는 장치.,-
+THERMO SW,THERMO SWITCH,냉각수 온도 감지기 작동 스윗치. 설정 온도(55℃±5℃) 이상이 되면 냉각수를 강제 냉각 시키기 위하여 팬 모타를 작동시키는 스위치.,-
+TIE DOWM BRACKET,-,차량을 기차로 이동할 때 차량을 고정시키기 위해 만든 차체부품,-
+TILT_TELE_UNIT,TILT TELE UNIT,스티어링 위치를 조절하는 장치,-
+TIR,TEST INCIDENT REPORT,시험과정의 문제점,-
+TJ,TRIPOD JOINT,등속 조인트 T/M 측에 주로 장착 되는 조인트. 절각과 슬라이딩이 동시에 가능,-
+TJA,Traffic Jam Assist,교통 체증 지원 (혼잡구간 주행지원 시스템). 자동차 전용도로의 교통체증구간 시속 0~60 km에서 부분 자율주행을 하는 기능,-
+TMED,Transmission Mounted Eletric Device,"병렬식 HEV의 한 방식으로 Hard type hybrid. 트랜스미션에 BATT가 장착되는 형식으로 크기 제한이 없어서 EV Mode가 가능하며, HSG가 적용되고, 연비개선효과가 큼. (ref. FMED)",-
+TMK,Tire Mobility Kit,타이어 모빌리티 키트. 펑크가 난 타이어의 공기 주입구를 통해 새는 구멍을 메워주는 액체형 본드인 봉합제(실런트 또는 밀봉제라고도 함)를 분사해주고 약간의 주행으로 고루 퍼지도록 한 뒤 다시 공기를 채워주는 장치,-
+TMM,Thermal Management Module,"엔진 열 관리 모듈. 엔진 가열을 가속시키고, 활동적인 동작온도 관리를 통해 엔진 열 효율을 강화시킴으로써 연비를 향상시킴",-
+TMS,Terrain Management System,지형 관리 시스템,-
+TMU,Telematics Multimedia Unit,"차량에 내장된 모뎀을 활용한 원격제어(시동), 센터를 통한 목적지 설정, 자동사고통보, 경제운전안내, 차량 자가 진단 제공으로 편리한 차량 운행 환경을 제공",-
+TOD,TORQUE ON DEMAND,풀타임 4WD의 일종으로 도로여건 및 주행조건에 따라 자체 센서 및 ECU에 의해 2WD ↔ 4WD 변환이 전자제어되는 시스템,-
+TOD,TORQUE ON DEMAND,조향각이나 타이어슬립 유무등의 신호를 받아 커플링이라는 전자 클러치에 명령을 보내 제어하는 방식,-
+TOL,TOLLERANCE,공차,-
+TORQUE_SNSR,TORQUE SENSOR,토크 센서,-
+TOWING HOOK,-,차량을 견인하거나 당할 때 ROPE를 걸 수 있도록 만든 차체부품.,-
+TP,Transfer Price,"이전가격. 경제적 이해관계를 같이 하는 국외특수관계자 간에 이루어지는 국제거래에 적용되는 가격 (국외 특수관계기업 사이에 원재료, 제품 및 용역을 매출, 매입하는 경우에 적용되는 가격)",-
+TPA,TERMINAL POSITION ASSURANCE,EF-CAR의 U/H J/B의 용어.,-
+TPA,Terminal Position Assurance,단자 위치 보증,-
+TPMS,TIRE PRESSURE MONITORING SYSTEM,타이어 규정 공기압 이하로 변화시 운전자에게 경고 등으로 정보를 전달하여 사고예방 (타이어 압력 모니터링 시스템),-
+TPS,THROTTLE POSITION SENSOR,트로틀 밸브 위치 감지기. (연료 분사량 제어) 엔진에 부착되어 있으며 트로틀 밸브의 개폐 각도를 감지후 ECU로 전송하여 연료 분사량을 보정. 로타리식 가변 저항으로 믹서의 트로틀 샤프트와 함께 회전하면서 드로틀 밸브의 각을 감지한다.,-
+TPS & F/B SOL,THROTTLE POSITION SENSOR AND FEED BACK SOLENOID,TPS 궤환 솔레노이드.,-
+TPS & F/CUT SOL,THROTTLE POSITION SENSOR AND FUEL CUT SOLENOID,트로틀 밸브 위치 감지기 및 연료 차단 솔레노이드.,-
+TPWS,TIRE PRESSURE WARNING SYSTEM,타이어 압력 경보 장치. 타이어의 공기압이 낮을 경우에 운전자에게 알려주는 경고 장치,-
+TRANSAXLE,TRANSAXLE,변속장치와 구동축이 일체화 된 것으로 전륜구동 자동차 등에서 사용하는 동력전달 장치 참고 :: http://en.wikipedia.org/wiki/Transaxle,-
+TRIP C/S,TRIP COUMPUTER SYSTEM,현재 잔류 연료로 갈수 있는 거리/순간 연비/평균 속도/차량의 위치표시 등을 지원해주는 SYSTEM.,-
+TRIP METER,-,"운전자가 그때 그때 달린 거리를 체크할 수 있는 계기. 버튼을 누르면 0으로 되어 그때부터 달린 거리가 나타난다. 거리를 잴 때, 연비를 계산할 때 쓰기 좋다.",-
+TRIPLE SW,TRIPLE SWITCH,온도 SETTING에 따라 작동하는 스윗치. (1℃ 단위로 조절),-
+TRO,TOTAL RUN OUT,브레이크 DISC를 AXLE에 장착한 상태에서 회전축을 고정하고 디스크를 한바퀴 회전시켰을때 제동면이 움직이는 거리(Run Out)를 말함,-
+TRU,Transport Refrigeration Units,"운송 냉동 시스템. 온도에 민감한 상품을 운송하는데 쓰이는 카고 트레일러, 일자형 트럭, 철도 등에 설치된 냉각 시스템.",-
+TRUNK SW,-,"트렁크를 열면 ON, 트렁크를 닫으면 OFF 됨.",-
+TS,TAIL SIGNAL,LIGHT SW(TS),-
+TS_DR_ACT,TWIN SWING DOOR ACTUATOR,트윈 스윙 도어 액추에이터,-
+TSA,Trailer Stability Assist,트레일러 안정성 보조 시스템.,-
+TSP,Top Safety Pick,"톱 세이프티 픽. IIHS 충돌안전 평가 최우수 등급. 최고 안전성을 나타낸 차량에는 'TSP+' 등급을, 양호한 수준의 성적을 낸 차량에는 'TSP' 등급을 매김.",-
+TSR,Traffic Sign Recognition,속도 표지판 인식 시스템. 전방 카메라 영상에 촬영된 주행 도로 영상에서 속도 표지 제한과 관련된 표지판을 인식하여 현 주행 도로의 제한 속도 정보를 운전자에게 제공하는 편의 시스템.,-
+TTR,TOURIST TROPHY RACE,RAC(영국왕실)이 주최하는 TT 레이스.,-
+TUNER,TUNER,"동조기라고도 한다. 적당한 인덕턴스(코일)와 용량(콘덴서)을 조합시킨 장치이다. 일반적으로 코일과 콘덴서의 한쪽 또는 양쪽을 가변(可變)으로 하고, 또는 조합을 바꿀 수 있게 하여 여러 가지 주파수에 동조할 수 있게 한 것이 많다.",-
+TUNER_UNIT,TUNER UNIT,"동조기라고도 한다. 적당한 인덕턴스(코일)와 용량(콘덴서)을 조합시킨 장치이다. 일반적으로 코일과 콘덴서의 한쪽 또는 양쪽을 가변(可變)으로 하고, 또는 조합을 바꿀 수 있게 하여 여러 가지 주파수에 동조할 수 있게 한 것이 많다.",-
+TUNING,-,"CLUTCH DISC의 비틀림 특성을 차량에 최적이 되도록 조정하는 것. 엔진 내의 압력파를 이용, 흡기 및 배기 시스템을 최적화 시키는 작업을 말함.",-
+TVBB,Torque Vectoring Brake Base,토크 벡터링 브레이크 시스템. 특정 바퀴의 동력을 제어할 수 있게 해주는 시스템 - 좌우 휠에 서로 다른 토크가 작용하도록 해서 차량을 회전시키는 모멘트(Yaw moment)를 발생하는 장치.,-
+TW,TWEETER,고음 영역을 중점적으로 재생시켜주는 스피커,-
+TWTR_FL,TWEET FRONT LEFT,고음 영역을 중점적으로 재생시켜주는 스피커,-
+TWTR_SPKR,TWISTER SPEAKER,고음용 스피커 (cf. woofer speaker),-
+TX ADVER LP,TAXI ADVERTISE LAMP,택시 광고 램프,-
+TX EMER LP,TAXI EMERGENCY LAMP,택시 비상 램프,-
+TX EMER SW,TAXI EMERGENCY SWITCH,택시 비상 스위치,-
+TX EMPTY LP,TAXI EMPTY LAMP,택시 승객없음(빈차) 램프,-
+TX F/TANK GAUGE,TAXI FUEL TANK GAUGE,택시 연료탱크 게이지,-
+TX METER,TAXI METER,택시 거리 산정용 미터.,-
+TX SIG LP,TAXI SIGNAL LAMP,택시 지붕에 있는 택시 표시 램프.,-
+TXV,THERMAL EXPANSION VALVE,고온 확장밸브. 냉매를 급속 팽창시켜 저온저압 액체가 되게함,-
+U/BOD,UNDER BODY,차체 조립시 MAIN BIUCK 공정이전에 SUB되는 FLOOR 아래 쪽의 BODY 구조,-
+U/BODY,UNDER BODY,차체 조립시 MAIN BLUCK 공정이전에 SUB되는 FLOOR 아래 쪽의 BODY 구조,-
+U/H J/BOX,UNDERHOOD JUNCTION BOX,실외에 장착되는 정션 박스.,-
+U/S,USAGE,차한대당 제작에 필요한 부품갯수,-
+UAD,Urban Autonomous Driving,"도심 자율주행. 도심 혼잡구간을 안전하게 지나도록 안내해 주는 기능으로서, GPS와 차선 정보 및 주변 구조물 인식 등을 이용하여 차량의 위치와 방향을 정확하게 인식함.",-
+UAM,Urban Air Mobility,도심 항공 모빌리티. 3차원 공중 교통시스템,-
+UAW,UNITED AUTOMOBILE WORKERS,미국 자동차 노동 조합.,-
+UCM,ULTRASONIC CLEANING MIRROR,차량 백미러의 물기를 초음파를 이용하여 제거하는 시스템.,-
+UCM,ULTRASONIC CLEAR MIRROR,실외 후사경의 거울면에 초음파 경면 진동을 통해 거울면에 맺힌 물방울을 제거하는 실외 후사경.,-
+UD,UNIFLOW-SCAVENGING DEISEL-ENGINE,단류소기식 디젤 엔진.,-
+UEGO,UNIVERSAL A/F HEATED EXHAUST GAS OXYGEN SENSOR,"유해 배출 가스 저감(저공해)을 위한 배출 가스 규제의 강화에 대응하기 위해 보다 정밀한 λ제어와 조기 난기 성능이 필요해짐으로써 표준 Gasoline은 물론 희박 연소 및 직접 분사, 대체 연료 Engine 등의 정밀 λ제어用으로써 개발된 O2 Sensor.",-
+UIP,Ultrasonic Intrusion Protection,실내 침입 감지 시스템,-
+ULEV,ULTRA LOW EMISSION VEHICLE,"초저공해차. 캘리포니아 배기 규제 단계 중의 하나로써, NMOG 0.040g/mile 규제를 만족하는 차량2004년부터 2008년까지 미국에서 적용되는 가솔린 배기 규제",-
+ULT,ULTRA-LIGHT TRANK,신경향 트럭.,-
+ULTRA SNSR,ULTRA SENSOR,범퍼에 붙어 뒷쪽의 사물을 감지하는 센서.,-
+UNIT_RSE,REAR SEATED ENTERTAINMENT,리어 시티드 엔터테인먼트,-
+UPC,UNIFORM PARTS CLASSIFICATION,차를 기능별로 크게 분류,-
+UPG,UNIFORM PARTS GROUPING,"자동차의 구성부품을 차체구조, 생산공정, 기능 등을 고려하여 개개의 부품을 적당한 Group으로 분류하여 부여한 번호로서, BOM 구성의 기본단위임",-
+UPH,UNIT PER HOUR,시간당 생산대수.,-
+UPPER BODY,-,"1)TRUCK 차종에서 CHASSIS CAB에 장착되는 DECK, TANK LORRY등을 칭하는 부분 2)차체조립시 MAIN BLUCK 공정에서 SUB되는 FLOOR 위쪽의 BODY 구조.",-
+USAGE,-,각 부품이 적용되는 개수 EX)CONT BANDCABLE USAGE 3 --> CONT에 BANDCABLE이 3군에 적용된다.,-
+USM,User Setting Mode,유저 세팅 모드. 사용자가 차량 내부 제어기들을 개인 편의에 맞춰 설정할 수 있는 기능. (기본으로 정의된 값들을 사용자 개인이 설정할 수 있는 기능),-
+UTP,Unshielded Twisted Pair Cable,"이더넷 케이블 종류 중에 하나로 차폐 기능이 없는 기본적인 랜선. 원래 전화선 용도로 쓰이다가 현대에서는 주로 근거리 통신망(Local Area Network)을 구축하기 위해 사용되는 케이블. (Ref : FTP, STP)",-
+UVW,Unloaded Vehicle Weight,"공차중량. 자동차에 사람이나 짐을 싣지 않고 연료, 냉각수, 윤활유 등을 만재하고 운행에 필요한 기본 장비(예비타이어, 예비부품, 공구 등은 제외)를 갖춘 상태의 차량중량. = CVW (Complete Vehicle kerb Weight), EVW(Empty Vehicle weight)",-
+UWB,Ultra Wide Bandwidth,"초광대역, 스마트 폰 통신에 기반하여 스마트카 수준의 편의성 제공 (스마트키 & LF안테나 연동과 같이 스마트폰 & UWB 연동) + 통신 영역에서는 기존의 스펙트럼에 비해 매우 넓은 대역에 걸쳐 낮은 전력으로 대용량의 정보를 전송하는 무선통신 기술",-
+V.I.M,VEHICLE INTERFACE MODULE,BUS 전자식 AUTO T/M용 RELAY BOX,-
+V.R.P,VARIETY REDUCTION PROGRAM,부품 공용화 및 부품수 감소에 의한 원가절감 방안.,-
+V2D,Vehicle-to Device,차량과 디바이스 간 통신. 일례로 스마트폰과의 통신으로 다양한 부가서비스를 제공받을 수 있음,-
+V2G 시스템,Vehicle To Grid system,"차량의 V2G 커넥티비티 모듈(VCM)을 통해 전력 그리드와 양방향으로 테이터와 전력 전송을 하는 것. 차주가 요구하는 충전시간, 전력량 등에 따라 자동 충전을 할 수 있고, 전력회사의 피크 타임을 피해 충전하고, 필요 시 거꾸로 전력회사에 전기 공급/판매도 가능한 시스템",-
+V2H,Vehicle to Home,"EV, PHV 등 자동차 배터리에 저장된 전력을 가정용 전력으로 이용하는 것을 의미함",-
+V2I,Vehicle-to-Infrastructure,차량과 인프라 간 통신,-
+V2L,Vehicle to Load,"EV, PHV 등 자동차 배터리에 저장된 전력을 긴급 상황 발생 시 전력기기(PC, 노트북 등)에 전력을 공급할 수 있는 것을 의미",-
+V2N,Vehicle-to-Network,차량과 클라우드 간 통신,-
+V2P,Vehicle to Pedestrian,차량이 유선 또는 무선망을 통해 보행자의 정보를 주고 받는 기술,-
+V2V,Vehicle to Vehicle,차량이 유선 또는 무선망을 통해 다른 차량의 정보를 주고 받는 기술,-
+VAC SOL,VACUUM SOLENOID,감속시에 작동. VACUUM 통로 PORT가 바디 트로틀 바로 아래 있어 연소실 진공에 따라 ON-OFF.,-
+VAC SW,VACUUM SWITCH,진공 스윗치.,-
+VANITY LP,VANITY LAMP,assist 거울쪽에 여성 화장이나 독서를 위해서 설치한 lamp,-
+VAPS,VEHICLE AIR PURIFIER SYSTEM,자동차공기정화시스템,-
+VAR RESISTOR,VARIABLE RESISTOR,가변 저항기.,-
+VARIABLE_SWIRL_ACTR,VARIABLE SWIRL ACTUATOR,S엔진. 배기 가스 검출,-
+VARISTOR,-,전압에 따라 저항을 달리하는 세라믹스로 과전압을 방지하는 기구로 사용됨.,-
+VAS,VOICE ALARM SYSTEM,"음성경보 시스템. 차량 상태를 음성을 통해 경보해주는 편의장치 (도어열림, 주차브레이크 잠김,안전벨트 미착용,엔진오일 보충 등)",-
+VCM,VARIABLE CYLINDER MANAGEMENT,가변 실린더 기술로 연료소모를 줄여주는 기술 오르막길 같은경우 6개의 실린더를 늘 모두 움직이는게 아니라 시내나 고속도로와 같은 정속 주행일 경우네는 6기통을 모두 구동시키지 않고 3기통 혹은 4기통만 가동해 연비를 줄여 주는 기술. 주행 중에는 계기판에 표시되는 초록색의 ‘에코(ECO)’마크를 통해 작동 여부를 확인할 수 있다,-
+VCMS,Vehicle Charge Management System,"기존 OBC(On Board Charger) 및 인버터, CCM(Charge Control Module) 통합 시스템",-
+VCMs,Vehicle Control Modules,배터리와 더불어 차량 통제 모듈,-
+VCU,Vehicle Control Unit,"고속전기차용 차량제어기. 모터 제어기와 함께 토크 제어를 최우선으로 수행하게 되며, 그 외에도 시동 시퀀스 제어, 고장 진단 제어, 에너지 관리 최적 제어 등을 CAN으로 연결된 하위 제어기와 협조하여 수행",-
+VCV,VACUUM CONTROL VALUE,부압 제어 밸브.,-
+VDC SYSTEM,VEHICLE DYNAMIC CONTROL SYSTEM,급선회시 Yaw Sensor를 이용 감지된 차량의 Yawing을 BRAKE의 적절한 제어 등을 통해 제어하여 차량 선회 안정성 향상,-
+VDCU,Vehicle Domain Control Unit,-,-
+VDMS,Vehicle Data Monitoring System,차량정보를 실시간 모니터링하는 시스템.,-
+VE,VALUE ENGINEERING,"가치공학은 원가절감과 제품가치를 동시에 추구하기 위해 제품 개발에서부터 설계, 생산, 유통, 서비스 등 모든 경영활동의 변화를 추구하는 경영기법으로 가치분석이라고도 한다. 가치공학은 또 다양한 목표를 수용, 그 목표를 가장 값싸고 효율적인 방법으로 달성하는 길을 찾는 기법이다.",-
+VENS,VEHICLE ELECTRONIC NAVIGATION SYSTEM,차의 각종 주행 정보를 운전자에게 알려주는 장치.,-
+VENT,VENTILATOR,환기 장치.,-
+VENT ACTR,VENTILATOR ACTUATER,공기 정화기를 구동하는 엑추레이터,-
+VENT SOL,VENT SOLENOID,압력차를 이용한 솔레노이드.,-
+VERSINO-1,-,초기 성능/배기규제 만족하는 사양 개발 단계,-
+VERSINO-2,-,성능/배기규제 이외에 연비 등 제품 경쟁력 및 상품성 증대 개발단계,-
+VERSINO-3,-,내구 문제점 개선 및 요구 조건 개선사양 개발단계,-
+VERSINO-4,-,실 차량 문제점 개선 및 모든 개선 요구사양 적용한 개발단계,-
+VESS,Virtual Engine Sound System,가상엔진사운드시스템.하이브리드 차량은 내연기관과 달리 엔진의 동작 없이 모터로만 주행이 가능해 엔진소리가 들리지 않아 보행자들이 차량의 접근을 인지하는 못하는 경우가 발생할 수 있다.이에 대비해 모터 힘만으로 시속 20km/h 이하의 저속으로 주행할 경우 차량에 장착된 스피커를 통해 가상의 엔진소리를 차량 외부로 출력하는 것이 가상엔진 사운드 시스템이다.,-
+VFD,Vacuum Fluorescent Display,"진공형광 표시관. 형광체를 이용한 자기발광표시소자로서 가전기기의 숫자표시, 자동차계기판 등에 널리 사용.",-
+VGR,Variable Gear Ratio,가변기어비. 작은 조향구간에서는 더 세밀하게 반응하고 큰 조향구간에서는 더 빠르게 반응할 수 있도록 스티어링 기어의 비율을 제어하는 기술,-
+VGT,VARIABLE GEOMETRY TURBOCHARGER,VGT 엔진에서 나오는 배기가스를 이용하여 터빈을 돌리는데 그 배기가스의 전자식 용량 변화 터보차져,-
+VGT,Variable Geometry Turbocharger,가변 형상 터보차져. 저속구간에서 배출가스의 유입통로를 좁혀서 유속을 빠르게 하여(밴튜리관 효과) 저속구간에서도 터보차저의 터빈이 돌아가서 충분한 터보의 효과를 낼 수 있도록 한 것,-
+VIC,Vihecle Interface Controller,HPC로부터 제공받은 정보를 기준으로 차량 조향 및 제동 제어 .,-
+VIC SERVO,VARIABLE INJECTION CONTROL SERVO,"가변 흡기 제어 서보. 엔진의 회전수에 따라서 최대 토크가 되도록 흡입 공기의 흐름을 조정하며 저속시에는 길게, 저속시에는 짧게 ECU에서 제어한다. 밸브의 구동은 직류 모터로 하며 이 모터로 ECU의 제어에 의해 작동한다. 주로 엔진 RPM에 따라 이 서보 밸브의 목표 위",-
+VIDEO_JACK,VIDEO JACK,비디오 잭,-
+VIS,Variable Intake System,차량의 속도에 따라 흡입 공기의 배합량을 조절하는 시스템.,-
+VL,VAPER-LOCK,베이퍼 록 현상은 내리막길에서 계속하여 브레이크를 밟으면 브레이크 오일이 열을 받아 기포가 발생하여 브레이크가 듣지 않는 현상. (FADE 현상 참조.),-
+VLCC,VERY LARGE CRUDE CARRIER,대형 유조선.,-
+VMS,VEHICLE MAINTENANCE SYSTEM,차량의 각종 소모품의 교환 주기를 경고함으로써 운전자가 적절한 정비/점검을 할 수 있게 해주는 시스템,-
+VOCs,Volatile Organic Compounds,"휘발성 유기 화합물. 탄소와 수소만으로 구성된 탄화수소류와 할로겐화 탄화수소, 질소나 황함유 탄화수소 등 상온, 상압에서 기체 상태로 존재하는 모든 유기성 물질을 통칭하는 의미",-
+VPC,Vehicle Platform Controller,자동차 플랫폼 컨트롤러.,-
+VPD,Voltage Protection Device,과충전 방지 장치. BMS를 통한 외부 전원(12V)을 인가받아 별도의 릴레이를 동작시켜 배터리 팩의 메인 스위치(즉 메인 릴레이)를 ON/OFF 컨트롤하여 메인 스위치를 통해 인가되는 충전 전류를 차단하는 방식,-
+VRS,VARIABLE RACK STROKE,"회전반경제어장치(시스템) 겨울철 타이어체인 장착을 위해 사륜구동 차량의 앞바퀴 안쪽에 확보되어 있는 공간을 활용함으로써 높은 기동성을 발휘할 수 있도록 한 첨단기술이다. 평상시에는 스노체인을 사용하지 않는 점을 고려해 그 공간만큼 앞바퀴를 더 돌릴 수 있는데, 이 효과로 줄일 수 있는 최소 회전반경은 0.8m 정도이다. 특히, 유턴이나 주차를 할 때 높은 기동성을 발휘하도록 설계되어 있다.",-
+VRS,VARIABLE RESISTOR SETTING,온도 설정 저항.,-
+VRV,VACUUM REGULATOR VALVE,부하 조정 밸브.,-
+VS,VISION SYSTEM,영상 인식 시스템. 차량에 설치된 카메라를 통해 주변의 상황을 인식하는 것은 물론 차량 스스로 판단하고 대처하는 무인 자동차 개념의 전자 제어 시스템.,-
+VSC,VEHICLE STABILITY CONTROL,자동차의 안정 장치.,-
+VSM,Vehicle Stability Assist,샤시 통합 제어 시스템. 비대칭 노면에서의 제동 시 위험을 스스로 판단해 조향장치와 브레이크를 적절히 조절하는 시스템.,-
+VSS,VEHICLE SPEED SENSOR,"차속 감지기. 계기 패널에 장착되어 있으며, 트랜스 액슬기어 회전(SPEED CABLE 1회전당 1EA)을 펄스 신호로 바꾸어 ECU로 전송되며 ECU는 이 신호를 기본으로 공회전 속도를 제어함.",-
+VSV,VACUUM SWITCH VALVE,부하 스위치 밸브.,-
+VTHILS,Vehicle Traffic HILS,HILS의 한계점을 보완한 시스템. 시스템 제어에 의한 시험차량 거동의 변화를 실시간으로 traffic에 반영함으로써 ADAS의 제어성능에 대한 평가가 가능.,-
+VVT,VARIABLE VALVE TIMING,가변식 밸브 타이밍 : 밸브가 열리고 닫히는 타이밍을 가변적으로 조절할 수 있는 시스템.,-
+VVT,VENTURI VACUUM TRANS-DUCER,벤튜리 부압 전송 장치.,-
+VVT ACTR,VARIABLE VALVE TIMMING ACTUATOR,엔진의 운전조건에 따라 밸브의 개폐 시기를 변경을 구동하는 장치.,-
+VVVF,Variable Voltage Varible Frequency,가변 전압 가변 주파수. 교류전동기(모터)를 제어하는 기술 중 하나. 교류전동기는 전원 주파수에 의해 회전수가 결정되는데 PWM 등을 통해 임의의 주파수를 가지는 전류 파형을 원하는 대로 만들어내면서 가변속 제어를 가능하게 하는 기술,-
+VWS,VOICE WARNING SYSTEM(음성 경보 시스템),운전자의 안전/편의를 위해서 차량 상태를 음성으로 경보해 주는 시스템을 말함.,-
+W/D,WIRING DIAGRAM,전기배선도. 차량의 전기회로를 도식화한 도면,-
+W/T GAUGE,WATER TEMPERATURE GAUGE,냉각수 온도 게이지. 엔진의 과열 상태를 운전자가 알아볼수 있도록 냉각수의 온도를 감지하여 계기판에 전달하는 기능을 하는 측정기.,-
+W/T GAUGE UNIT,WATER TEMPERATURE GAUGE UNIT,냉각수 온도 검침 장치.,-
+W/T SNSR,WATER TEMPERATURE SENSOR,냉각수의 온도를 감지기. 50℃ 이상이나 이하에서 검출. 냉각수의 온도를 감지하여 그 값을 전압으로 변환시켜 ECU로 보내면 엔진의 운전 상태를 분석하여 연료 분사량을 보정 및 엔진의 온도에 따라 적정 공전 속도를 유지 시키는 온도 감지기.,-
+W/T SW,WATER TEMPERATURE SWITCH,냉각수 온도 스윗치.,-
+W_LP,WORKING LAMP,야간 작업시 적재함 뒤쪽에 빛을 빛주어 야간에도 작업을 할수있게 해주는 램프.,-
+W_SEP_SNSR,WATER SEPARATOR SNSR,"수분 분리 센서, oil과 수분의 섞임을 감지",-
+W_SNSR,WHEEL SPEED SENSOR,바퀴의 속도를 감지하여 ABS ECU에 전달한다.,-
+WASHER LVL SW,WASHER LEVEL SWITCH,와샤에 있는 수위 측정용 스윗치.,-
+WASHER MTR,WASHER MOTOR,자동차의 앞 유리창에 먼지나 이물질의 오염으로 인하여 시계 방해 발생시 와이퍼를 이용하여 닦고자 할때 물을 뿜어주는 모타.,-
+WATER_SNSR,WATER SENSOR,냉각수의 온도를 감지기. 50℃ 이상이나 이하에서 검출. 냉각수의 온도를 감지하여 그 값을 전압으로 변환시켜 ECU로 보내면 엔진의 운전 상태를 분석하여 연료 분사량을 보정 및 엔진의 온도에 따라 적정 공전 속도를 유지 시키는 온도 감지기.,-
+WBS,Work Breakdown Structure,"프로젝트 전체 범위를 구성하는 개발 활동 또는 산출물 중심으로 분해하여, 그룹화한 계층적 분류 방법. 프로젝트에서 수행하는 모든 작업을 표현하며 일정 계획의 기반으로 사용됨.",-
+WCS,Weight Classification System,중량기반 승객식별 시스템. 조수석 시트에 탑승하는 승객의 무게를 감지하여 에어백 제어장치에 승객 식별 정보를 전달하는 시스템.,-
+WCS,WEIGHT SENSOR,"조수석 쪽에 장착, 무게를 갖고 성인 아이 구분",-
+WDW,WINDOW,창문.,-
+WGT,Waste Gate valve Turbocharger,웨스트 게이트(배기 파이프) 터보과급기. 터빈을 통과하는 배기가스량을 웨이스트 게이트밸브를 사용하여 과급압력이 너무 높을 때는 일부 배기가스를 바이패스 시킴으로서 과급압력을 낮춰주는 역할,-
+WHL,WHEEL,바퀴.,-
+WIRG,WIRING HARNESS,자동차 배선.,-
+WKR,WRECKER,구난차.,-
+WLR,WEBBING CLAMP LOCKING RETRACTOR,에어백 미장착 차량에 대해서는 충돌시 기존 안전 밸트보다 2중으로 더 단단하게 조여주는 시트벨트. S/BELT가 계속 늘어져 빠져 나오는 것을 방지하기 위해 CLAMP를 장착해 BELT WEBBING을 잠근다.,-
+WLR,WEBBING LOCKING RETRACTOR,S/BELT가 계속 늘어져 빠져 나오는 것을 방지하기 위해 CLAMP를 장착해 BELT WEBBING을 잠근다.,-
+WLTC,Worldwide harmonized Light duty vehicle Test Cycle,"국제 표준 소형차 배출가스 측정방법. 승용차나 가벼운 상용차에 대하여 오염도,CO2배출량 연료소비량등을 국제적인 기준아래 판단할 수 있게 도와주는 Test cycle",-
+WLTP,Worldwide harmonized Light duty driving Test Procedure,"(자동차 용어) 유엔 유럽경제위원회(UNECE)에서 발표한 자동차 성능 측정 기준. 배기가스와 이산화탄소 배출량, 연비, 전기자동차 주행거리 등을 측정. Ref) WLTC와 동일",-
+WMM,Wiper Motor Module,와이퍼 모터 모듈.,-
+WP,WATER PROOF,방수의 의미,-
+WPC,Wireless Power Charger,스마트폰 무선충전기. 센터페시아 하단 트레이에 스마트폰을 올려놓기만 해도 충전이 되는 편리한 충전시스템 (무선 충전기능이 내장된 스마트폰 혹은 무선 충전 전용 커버를 장착 후 사용),-
+WPR MTR,WIPER MOTOR,와이퍼 동작 모타. 우천등으로 인한 시계 방해 발생시 외이퍼를 좌우로 동작시켜 전방 시계를 확보하는 모타. HIGH/LOW로 조작 가능.,-
+WS,WEAPON SYSTEM,무기체계,-
+WTS,WATER TEMPERATUER SENSOR,"엔진 냉각수의 온도를 측정하는 센서입니다. 엔진의 공회전 스피드에 영향을 미치며 라디에이터 팬을 작동시키는 기준 WTS = ECTS, CTS ECTS = ENGINE COOLANT TEMPERATURE SENSOR CTS = COOLANT TEMPERATURE SENSOR",-
+YAW RATE SNSR,YAW RATE SNSR,ECS장착 사양에서 A/BAG센서의 역할을 하는 것으로 유동 감지를 함.,-
+ZCT,Zero Current Transformer,"영상변류기. 고압 전기 선로에는 저전압과 같이 누전차단기 설치가 간단치 않으므로, 대신 ZCT를 설치하여 누전 전류를 검출",-
+ZEV,ZERO EMISSION VEHICLE,CALIFORNIA 법규에 규정된 TAIL PIPE EMISSION을 배출하지 않는 차량.,-
